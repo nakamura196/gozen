@@ -73,10 +73,16 @@
 
         <div class="card mb-4 box-shadow">
           <div class="card-body">
-            <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+            <div id="container4month" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
           </div>
         </div>
 
+        <div class="card mb-4 box-shadow">
+          <div class="card-body">
+            <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+          </div>
+        </div>
+        
       </div>
     </div>
 
@@ -134,7 +140,7 @@
     }
     query += " ?s dc11:date ?date . ";
     //query += " ?s ex:person ?person . ";
-    query += " } "
+    query += " } order by ?date "
 
     $.ajax({
       url:'https://dydra.com/ut-digital-archives/gozen/sparql',
@@ -152,7 +158,8 @@
 
       var tbody = $("#resourceListBody");
 
-      map = new Object()
+      dates = new Object()
+      monthes = new Object()
 
       for (var i = 0; i < result.length; i++) {
         var obj = result[i];
@@ -177,10 +184,16 @@
         tr.append(td);
         td.append(date);
 
-        if(!map[date]){
-          map[date] = 0
+        if(!dates[date]){
+          dates[date] = 0
         }
-        map[date] = map[date] + 1
+        dates[date] = dates[date] + 1
+
+        month = date.split("-")[0]+"-"+date.split("-")[1]
+        if(!monthes[month]){
+          monthes[month] = 0
+        }
+        monthes[month] = monthes[month] + 1
 
         td = $("<td>");
         tr.append(td);
@@ -195,9 +208,16 @@
 
       categories = []
       data = []
-      for(key in map){
+      for(key in dates){
         categories.push(key)
-        data.push(map[key])
+        data.push(dates[key])
+      }
+
+      categories4month = []
+      data4month = []
+      for(key in monthes){
+        categories4month.push(key)
+        data4month.push(monthes[key])
       }
 
       Highcharts.chart('container', {
@@ -205,7 +225,7 @@
           type: 'column'
         },
         title: {
-          text: 'Timeline'
+          text: 'Timeline by Day'
         },
         xAxis: {
           categories: categories,
@@ -233,10 +253,43 @@
         }]
       });
 
+      Highcharts.chart('container4month', {
+        chart: {
+          type: 'column'
+        },
+        title: {
+          text: 'Timeline by Month'
+        },
+        xAxis: {
+          categories: categories4month,
+          crosshair: true
+        },
+        yAxis: {
+          min: 0,
+          title: {
+            text: 'Number'
+          }
+        },
+        tooltip: {
+          shared: true,
+          useHTML: true
+        },
+        plotOptions: {
+          column: {
+            pointPadding: 0.2,
+            borderWidth: 0
+          }
+        },
+        series: [{
+          name: 'Record',
+          data: data4month
+        }]
+      });
+
       // DataTable
       var table = $('#table').DataTable({
-        "iDisplayLength" : 25,
-        "order" : [ [ 2, "desc" ] ]
+        "iDisplayLength" : 10,
+        "order" : [ [ 3, "asc" ] ]
       });
 
       table.on('order.dt search.dt', function() {
