@@ -1,0 +1,2496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>御前落居記録</title>
+        <respStmt>
+          <persName>酒井智大</persName>
+          <resp>Translation</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Satoru Nakamura</persName>
+          <resp>Text Encoding</resp>
+        </respStmt>
+        <funder>東京大学</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2018-04-05T21:51:00</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>東京大学学術資産アーカイブ化推進室</publisher>
+        <availability>
+          <p>
+            <ref target="http://creativecommons.org/licenses/by/4.0/">Creative
+            Commons Attribution 4.0</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This file has been made from a digital photograph of a <ref target="https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/naoe/page/home">https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/naoe/page/home</ref></p>
+        <p>Written by OpenOffice</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name />
+          <date>2018-04-05T21:51:00</date>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <pb n="4" />
+        <lb xml:id="0004_l_0001" />
+        <line>御前落居記録　　永享二　十一　九</line>
+      </p>
+      <p>
+        <lb xml:id="0004_l_0002" />
+        <line>（花押）</line>
+        <lb xml:id="0004_l_0003" />
+        <line>一北野宮祠官權律師明兼申伊勢國長太石津</line>
+        <lb xml:id="0004_l_0004" />
+        <line>加納堀江等領家職事去永和嘉慶年中</line>
+        <lb xml:id="0004_l_0005" />
+        <line>以不知行之地御寄附之間致粉骨令安堵得</line>
+        <lb xml:id="0004_l_0006" />
+        <line>
+          <s>門跡<hi rend="color(#ff0000)">聖護院</hi>素意入當宮領目録訖仍知行之</s>
+        </line>
+        <lb xml:id="0004_l_0007" />
+        <line>處相語永琳院号門跡御師以半分被寄進</line>
+        <pb n="5" />
+        <lb xml:id="0005_r_0001" />
+        <line>背契約押領之条歎入云々如聖護院雑掌</line>
+        <lb xml:id="0005_r_0002" />
+        <line>申者明兼之先師明什不儀之間變改之旨</line>
+        <lb xml:id="0005_r_0003" />
+        <line>雖差申之其證不分明之上先度對社家度</line>
+        <lb xml:id="0005_r_0004" />
+        <line>度申給御教書致忠節之上者難謂不儀</line>
+        <lb xml:id="0005_r_0005" />
+        <line>歟即被下還補御判於權律師明兼訖焉</line>
+        <lb xml:id="0005_r_0006" />
+        <line>
+          <date when="1430-09-02">永享二年九月二日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0005_r_0007" />
+        <line>　　　　　　　　　加賀守基貞（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0005_l_0008" />
+        <line>（花押）</line>
+        <lb xml:id="0005_l_0009" />
+        <line>一北野宮寺祠官松光院法眼秀慶与</line>
+        <lb xml:id="0005_l_0010" />
+        <line>　同社祠官禅宣相論近江國中庄内</line>
+        <lb xml:id="0005_l_0011" />
+        <line>　田井郷事</line>
+        <lb xml:id="0005_l_0012" />
+        <line>如秀慶訴状者佐々木佐渡大夫判官入道</line>
+        <pb n="6" />
+        <lb xml:id="0006_r_0001" />
+        <line>導譽觀應三<hi rend="color(#ff0000)">七</hi><hi rend="color(#ff0000)">　</hi><hi rend="color(#ff0000)">廿五</hi>令寄附當宮於奉行</line>
+        <lb xml:id="0006_r_0002" />
+        <line>職者致其沙汰訖其後導譽對故石見</line>
+        <lb xml:id="0006_r_0003" />
+        <line>法印禅嚴一旦雖書与状去永和元<hi rend="color(#ff0000)">九</hi><hi rend="color(#ff0000)">　</hi><hi rend="color(#ff0000)">十八</hi>高秀</line>
+        <lb xml:id="0006_r_0004" />
+        <line>如元返付松光院之處同五年三月十二日禅</line>
+        <lb xml:id="0006_r_0005" />
+        <line>嚴号當知行掠給御判押妨之由申之如</line>
+        <lb xml:id="0006_r_0006" />
+        <line>禅宣支状者帯判官入道寄進状同安堵</line>
+        <lb xml:id="0006_r_0007" />
+        <line>以下于今相續當知行之旨稱之　御定両方</line>
+        <lb xml:id="0006_r_0008" />
+        <line>申詞枝葉雖多之高秀去永和元<hi rend="color(#ff0000)">九</hi><hi rend="color(#ff0000)">　</hi><hi rend="color(#ff0000)">十八</hi>返付松光</line>
+        <lb xml:id="0006_l_0009" />
+        <line>院以後禅嚴不帯還補状申給御判剰申</line>
+        <lb xml:id="0006_l_0010" />
+        <line>成施行旁以非無不審所詮掠領之段無子</line>
+        <lb xml:id="0006_l_0011" />
+        <line>細歟早任本券可被返付秀慶可書上御判也矣</line>
+        <lb xml:id="0006_l_0012" />
+        <line>
+          <date when="1430-09-03">永享二年九月三日</date>　大和守貞連（花押）</line>
+        <lb xml:id="0006_l_0013" />
+        <line>　　　　　　　　　加賀守基貞（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0006_l_0014" />
+        <line>（花押）</line>
+        <lb xml:id="0006_l_0015" />
+        <line>一常陸房宴珎与石泉院雑掌相論近江</line>
+        <pb n="7" />
+        <lb xml:id="0007_r_0001" />
+        <line>　國岸下庄号清水預所職事</line>
+        <lb xml:id="0007_r_0002" />
+        <line>如宴珎申状者雖為當門跡領於預所職者去</line>
+        <lb xml:id="0007_r_0003" />
+        <line>文和三年六月十五日僧正忠性<hi rend="color(#ff0000)">于時院主</hi>被譲補若壽</line>
+        <lb xml:id="0007_r_0004" />
+        <line>丸訖帯同附弟尋源安堵幷相續状等知行</line>
+        <lb xml:id="0007_r_0005" />
+        <line>處石泉院召放被申付別人不便之由申之</line>
+        <lb xml:id="0007_r_0006" />
+        <line>如雑掌支状者宴珎祖父永珎知行之段無</line>
+        <lb xml:id="0007_r_0007" />
+        <line>子細歟守其例可永領之旨稱之支證何事</line>
+        <lb xml:id="0007_r_0008" />
+        <line>哉永珎息舜珎相語小倉鯰江就違乱為山上</line>
+        <lb xml:id="0007_l_0009" />
+        <line>出連暑畢如此依不忠改替之由申之　御定</line>
+        <lb xml:id="0007_l_0010" />
+        <line>已先師代々譲状云未来永々不可有相違文章</line>
+        <lb xml:id="0007_l_0011" />
+        <line>幷相傳状等分明之處不帯支證捧胸臆支状</line>
+        <lb xml:id="0007_l_0012" />
+        <line>菟角申之歟理不盡之至也早可被申付</line>
+        <lb xml:id="0007_l_0013" />
+        <line>宴珎之旨兩人罷向石泉院可申之同可</line>
+        <lb xml:id="0007_l_0014" />
+        <line>被成下御教書也焉</line>
+        <lb xml:id="0007_l_0015" />
+        <line>同　日　　　大和守貞連（花押）</line>
+        <lb xml:id="0007_l_0016" />
+        <line>　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <pb n="8" />
+        <lb xml:id="0008_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0008_r_0002" />
+        <line>一新熊野妙華菴雑掌申山城國西岡</line>
+        <lb xml:id="0008_r_0003" />
+        <line>　内願成寺下司職事</line>
+        <lb xml:id="0008_r_0004" />
+        <line>捧雑掌申状之間相觸當知行輩岡之</line>
+        <lb xml:id="0008_r_0005" />
+        <line>處就當所之訴為陳答彼支證等付置</line>
+        <lb xml:id="0008_r_0006" />
+        <line>松田對馬守云々則被召出證文訖於當庵</line>
+        <lb xml:id="0008_r_0007" />
+        <line>者以相續補任毎度申成御教書至論人者</line>
+        <lb xml:id="0008_l_0008" />
+        <line>或罷成八幡神人得神事之時申請御教</line>
+        <lb xml:id="0008_l_0009" />
+        <line>書或属本所以蜜々之儀掠給補任之由</line>
+        <lb xml:id="0008_l_0010" />
+        <line>申之所詮補任者兩方帯之歟先可被付</line>
+        <lb xml:id="0008_l_0011" />
+        <line>當庵也可被成下御教書焉</line>
+        <lb xml:id="0008_l_0012" />
+        <line>
+          <date when="1430-09-06">永享二年九月六日</date>　大和守貞連（花押）</line>
+        <lb xml:id="0008_l_0013" />
+        <line>　　　　　　　　　對馬守貞清（花押）</line>
+      </p>
+      <p>
+        <pb n="9" />
+        <lb xml:id="0009_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0009_r_0002" />
+        <line>一足助次郎淳重申参河國足助庄内仁木郷</line>
+        <lb xml:id="0009_r_0003" />
+        <line>事先年足助左馬助御敵之時祖父重胤</line>
+        <lb xml:id="0009_r_0004" />
+        <line>
+          <hi rend="color(#ff0000)">左馬助舎弟</hi>雖令諷諫不承引仕之間隠居仕之處</line>
+        <lb xml:id="0009_r_0005" />
+        <line>被聞食披被召出之致忠節被下還補御判</line>
+        <lb xml:id="0009_r_0006" />
+        <line>等訖雖然土岐宮内少輔押領之其後土岐御器</line>
+        <lb xml:id="0009_r_0007" />
+        <line>所知行之刻土岐肥田瀬申給之条難堪也云々</line>
+        <lb xml:id="0009_r_0008" />
+        <line>肥田瀬宮内大輔支状云為御器所拜領之間稱</line>
+        <lb xml:id="0009_r_0009" />
+        <line>本主歎申之条更無其謂云々所詮足助有勲</line>
+        <lb xml:id="0009_l_0010" />
+        <line>功無其誤之上者任證文等之旨被下還補</line>
+        <lb xml:id="0009_l_0011" />
+        <line>御判於淳重訖</line>
+        <lb xml:id="0009_l_0012" />
+        <line>　土肥次郎貞平窮困事管領被執申之仍</line>
+        <lb xml:id="0009_l_0013" />
+        <line>　不可有准據之儀限一人以契約在所可申</line>
+        <lb xml:id="0009_l_0014" />
+        <line>　旨被仰出之間以此在所申請令契約訖</line>
+        <lb xml:id="0009_l_0015" />
+        <line>　即不謂御銘之次第令披露者也焉</line>
+        <lb xml:id="0009_l_0016" />
+        <line>
+          <date when="1430-09-18">永享二年九月十八日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0009_l_0017" />
+        <line>　　　　　　　　　　加賀守基貞（花押）</line>
+      </p>
+      <p>
+        <pb n="10" />
+        <lb xml:id="0010_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0010_r_0002" />
+        <line>一賀茂社片岡祢宜冨久与前神主資久相論若狹</line>
+        <lb xml:id="0010_r_0003" />
+        <line>　國宮川庄本家領家公文等三職事冨久</line>
+        <lb xml:id="0010_r_0004" />
+        <line>　先祖行久与資久先祖相互契約之状在之仍</line>
+        <lb xml:id="0010_r_0005" />
+        <line>　本家職者廣久<hi rend="color(#ff0000)">冨久父</hi>領家公文職者資久至去</line>
+        <lb xml:id="0010_r_0006" />
+        <line>應永十六年知行畢爰廣久領家職事歎申</line>
+        <lb xml:id="0010_l_0007" />
+        <line>間資久無理之由被仰出自　仙洞様一圓被仰付</line>
+        <lb xml:id="0010_l_0008" />
+        <line>廣久訖其後破契約之旨訴申之間勝定院</line>
+        <lb xml:id="0010_l_0009" />
+        <line>殿御代以御教書又一圓被下資久于今知行云々</line>
+        <lb xml:id="0010_l_0010" />
+        <line>然者先度之訴訟雖為物忩任契状以別儀被</line>
+        <lb xml:id="0010_l_0011" />
+        <line>返下本家職於冨久訖焉</line>
+        <lb xml:id="0010_l_0012" />
+        <line>
+          <date when="1430-10-11">永享二年十月十一日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0010_l_0013" />
+        <line>　　　　　　　　　　大和守貞連（花押）</line>
+      </p>
+      <p>
+        <pb n="11" />
+        <lb xml:id="0011_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0011_r_0002" />
+        <line>一丹波國篠村八幡宮大工為國庭中申大工</line>
+        <lb xml:id="0011_r_0003" />
+        <line>　職事三代相續之處今度以醍醐大工被</line>
+        <lb xml:id="0011_r_0004" />
+        <line>　仰付難堪云々如當大工國友申者至于國友</line>
+        <lb xml:id="0011_r_0005" />
+        <line>　五代致沙汰云々但為國帯貞和四年補任訖</line>
+        <lb xml:id="0011_r_0006" />
+        <line>　國友亦帯文和三年至徳三年補任雖然</line>
+        <lb xml:id="0011_l_0007" />
+        <line>　任貞和補任可被申付為國之旨被仰出之處</line>
+        <lb xml:id="0011_l_0008" />
+        <line>　久致沙汰之上者可為兩大工歟之由三寶院</line>
+        <lb xml:id="0011_l_0009" />
+        <line>　雖被執申任先日證文可被申付為國之旨</line>
+        <lb xml:id="0011_l_0010" />
+        <line>　被仰三寶院訖矣</line>
+        <lb xml:id="0011_l_0011" />
+        <line>
+          <date when="1430-10-13">永享二年十月十三日</date>　　肥前守為種（花押）</line>
+        <lb xml:id="0011_l_0012" />
+        <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <pb n="12" />
+        <lb xml:id="0012_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0012_r_0002" />
+        <line>一三条中将家雑掌与佐々木岩山美濃守</line>
+        <lb xml:id="0012_r_0003" />
+        <line>　持秀相論近江國加田庄半分幷散在名新</line>
+        <lb xml:id="0012_r_0004" />
+        <line>　田畠等事</line>
+        <lb xml:id="0012_r_0005" />
+        <line>如雑掌訴状者當家舊領之段不能左右之處</line>
+        <lb xml:id="0012_r_0006" />
+        <line>國中錯乱之刻佐々木佐渡大夫判官入道導譽</line>
+        <lb xml:id="0012_l_0007" />
+        <line>半済訖是者普通之儀歟但静謐者如元可返</line>
+        <lb xml:id="0012_l_0008" />
+        <line>付之条勿論也結句令自専譲与持秀祖父之間</line>
+        <lb xml:id="0012_l_0009" />
+        <line>鹿苑院殿御代依歎申十一月十日<hi rend="color(#ff0000)">付年号康暦二</hi>以御内書</line>
+        <lb xml:id="0012_l_0010" />
+        <line>一圓被返付而其後經年序重又令押妨同</line>
+        <lb xml:id="0012_l_0011" />
+        <line>御代子細同前八月十九日<hi rend="color(#ff0000)">付年号</hi><hi rend="color(#ff0000)">應</hi><hi rend="color(#ff0000)">永二</hi>以御自筆被付</line>
+        <lb xml:id="0012_l_0012" />
+        <line>本所至應永十五年當知行無相違之處勝定</line>
+        <lb xml:id="0012_l_0013" />
+        <line>院殿御代之始不被相觸之竊秀定<hi rend="color(#ff0000)">持秀亡父</hi>掠給半</line>
+        <lb xml:id="0012_l_0014" />
+        <line>分<hi rend="color(#ff0000)">付号新田分</hi>御判剰及参分貮余于今押領之</line>
+        <pb n="13" />
+        <lb xml:id="0013_r_0001" />
+        <line>由申之如岩山陳状者彼半済去文和年中為</line>
+        <lb xml:id="0013_r_0002" />
+        <line>勲功之賞拜領以来相傳也於近来支證者私宅</line>
+        <lb xml:id="0013_r_0003" />
+        <line>炎上之時紛失<hi rend="color(#ff0000)">飯尾故加賀守清藤封案文</hi><hi rend="color(#ff0000)">之</hi><hi rend="color(#ff0000)">裏</hi>至御下文不帯之云々</line>
+        <lb xml:id="0013_r_0004" />
+        <line>捧去應永廿九年二月廿二日紛失御判支申之</line>
+        <lb xml:id="0013_r_0005" />
+        <line>訴陳之次第枝葉雖多持秀申詞事与意参</line>
+        <lb xml:id="0013_r_0006" />
+        <line>差之儀歟其謂者文和年中為其賞者争無</line>
+        <lb xml:id="0013_r_0007" />
+        <line>御下文哉以何可證所詮雑掌所差申非無其</line>
+        <lb xml:id="0013_r_0008" />
+        <line>理且御内書等且本文書以下分明之上者以御書</line>
+        <lb xml:id="0013_l_0009" />
+        <line>可被返進本所也焉</line>
+        <lb xml:id="0013_l_0010" />
+        <line>
+          <date when="1430-10-16">永享二年十月十六日</date>　大和守貞連（花押）</line>
+        <lb xml:id="0013_l_0011" />
+        <line>　　　　　　　　　　對馬守貞清（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0013_l_0012" />
+        <line>（花押）</line>
+        <lb xml:id="0013_l_0013" />
+        <line>一妙法寺領<hi rend="color(#ff0000)">号穴蒲堂</hi>敷地北小路町北頬</line>
+        <lb xml:id="0013_l_0014" />
+        <line>　肆丁町内事</line>
+        <pb n="14" />
+        <lb xml:id="0014_r_0001" />
+        <line>一号六條八幡宮領分事奉行松田對馬守</line>
+        <lb xml:id="0014_r_0002" />
+        <line>一河原口道場前寮分事奉行飯尾加賀守</line>
+        <lb xml:id="0014_r_0003" />
+        <line>　　於此兩所者不帯　公驗之間被付當寺</line>
+        <lb xml:id="0014_r_0004" />
+        <line>　　訖</line>
+        <lb xml:id="0014_r_0005" />
+        <line>一赤松伊豆守被官人<hi rend="color(#ff0000)">小柴今者金阿云々</hi>分事</line>
+        <lb xml:id="0014_r_0006" />
+        <line>　雖捧地方奉書應永廿年十月廿五日</line>
+        <lb xml:id="0014_r_0007" />
+        <line>　任以前御　判等之旨被付寺家訖</line>
+        <lb xml:id="0014_l_0008" />
+        <line>一山門三宮領分事　　奉行飯尾加賀守</line>
+        <lb xml:id="0014_l_0009" />
+        <line>一<hi rend="color(#ff0000)">野</hi>道場　　分事　　同人</line>
+        <lb xml:id="0014_l_0010" />
+        <line>　此二个所事任　公驗之旨被閣之訖</line>
+        <lb xml:id="0014_l_0011" />
+        <line>
+          <date when="1430-11-03">永享二年十一月三日</date>　和泉守秀定</line>
+        <lb xml:id="0014_l_0012" />
+        <line>　　　　　　　　　　加賀守為行</line>
+        <lb xml:id="0014_l_0013" />
+        <line>　　　　　　　　　　對馬守貞清</line>
+      </p>
+      <p>
+        <pb n="15" />
+        <lb xml:id="0015_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0015_r_0002" />
+        <line>一毎阿弥申青蓮院御門跡領山城國粟田</line>
+        <lb xml:id="0015_r_0003" />
+        <line>　庄内貮拾石地事</line>
+        <lb xml:id="0015_r_0004" />
+        <line>去應永卅四年依被寄東山曼陀羅寺惣庄</line>
+        <lb xml:id="0015_r_0005" />
+        <line>御代官<hi rend="color(#ff0000)">于時口阿弥</hi>帯渡状知行無相違者也爰當給主</line>
+        <lb xml:id="0015_r_0006" />
+        <line>藤賀丸代去々年以来不去渡下地公事物上米</line>
+        <lb xml:id="0015_l_0007" />
+        <line>以下違乱之間對伊与法眼泰任連々雖申送曽</line>
+        <lb xml:id="0015_l_0008" />
+        <line>不能承引之由申之則以兩使<hi rend="color(#ff0000)">為行貞連</hi>被仰泰任之</line>
+        <lb xml:id="0015_l_0009" />
+        <line>處毎度相觸藤賀丸代云々任口阿弥時例去渡</line>
+        <lb xml:id="0015_l_0010" />
+        <line>旨稱之就彼左右兩方申詞有御糺明尚依</line>
+        <lb xml:id="0015_l_0011" />
+        <line>有御不審子細以前渡遣目録分可注進之由</line>
+        <lb xml:id="0015_l_0012" />
+        <line>随仰調進訖参差之間以兩通於泰任許召寄兒</line>
+        <lb xml:id="0015_l_0013" />
+        <line>代高防相尋之處不去渡之段令承伏虚言之至</line>
+        <lb xml:id="0015_l_0014" />
+        <line>已露顕之上者所詮於當庄者可申付上乗院</line>
+        <pb n="16" />
+        <lb xml:id="0016_r_0001" />
+        <line>次曼陀羅寺下地任口阿弥渡状可被沙汰付之由</line>
+        <lb xml:id="0016_r_0002" />
+        <line>可相觸當給主之旨兩条可仰含泰任仍對上乗</line>
+        <lb xml:id="0016_r_0003" />
+        <line>院幷當寺可成奉書也矣</line>
+        <lb xml:id="0016_r_0004" />
+        <line>
+          <date when="1430-11-06">永享二年十一月六日</date>　大和守貞連（花押）</line>
+        <lb xml:id="0016_r_0005" />
+        <line>　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0016_l_0006" />
+        <line>一鷹司大納言家雑掌申加賀國益冨</line>
+        <lb xml:id="0016_l_0007" />
+        <line>　保事</line>
+        <lb xml:id="0016_l_0008" />
+        <line>就雑掌訴状被相觸防城菅少納言益長</line>
+        <lb xml:id="0016_l_0009" />
+        <line>刻彼輩違　上意之上者不能取合以當</line>
+        <lb xml:id="0016_l_0010" />
+        <line>保可被返進家門可為御内書也焉</line>
+        <lb xml:id="0016_l_0011" />
+        <line>
+          <date when="1430-11-12">永享二年十一月十二日</date>　大和守貞連（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0016_l_0012" />
+        <line>（花押）</line>
+        <pb n="17" />
+        <lb xml:id="0017_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0017_r_0002" />
+        <line>一左衛門督入道代申西園寺京極家領山城</line>
+        <lb xml:id="0017_r_0003" />
+        <line>　國鳥羽庄幷魚市河内國會賀牧等各</line>
+        <lb xml:id="0017_r_0004" />
+        <line>　参分壹方事</line>
+        <lb xml:id="0017_r_0005" />
+        <line>彼所々一圓去年以来預申訖但於鳥羽魚</line>
+        <lb xml:id="0017_r_0006" />
+        <line>市者去年所務三分二方先納之至會賀牧者</line>
+        <lb xml:id="0017_l_0007" />
+        <line>雖為數年預所年貢者同前爰京極家永</line>
+        <lb xml:id="0017_l_0008" />
+        <line>享元<hi rend="color(#ff0000)">四</hi><hi rend="color(#ff0000)">　</hi><hi rend="color(#ff0000)">廿</hi>還補之處西園寺北山抑留三分壹年</line>
+        <lb xml:id="0017_l_0009" />
+        <line>貢云々就被訴申為貞連御使可沙汰渡申</line>
+        <lb xml:id="0017_l_0010" />
+        <line>旨被仰下之同者可被成下御奉書之由被</line>
+        <lb xml:id="0017_l_0011" />
+        <line>望申所詮以當年内去年未進任員數可被渡</line>
+        <lb xml:id="0017_l_0012" />
+        <line>遣京極家代之旨松田對馬守相共可成奉</line>
+        <lb xml:id="0017_l_0013" />
+        <line>書也矣</line>
+        <lb xml:id="0017_l_0014" />
+        <line>
+          <date when="1430-11-13">永享二年十一月十三日</date>　大和守貞連（花押）</line>
+        <pb n="18" />
+      </p>
+      <p>
+        <lb xml:id="0018_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0018_r_0002" />
+        <line>一検非違使左衛門大尉員弘申左衛門府年</line>
+        <lb xml:id="0018_r_0003" />
+        <line>　預職事</line>
+        <lb xml:id="0018_r_0004" />
+        <line>坊城菅少納言益長押妨之由就訴申被差</line>
+        <lb xml:id="0018_r_0005" />
+        <line>日限<hi rend="color(#ff0000)">昨日十四</hi>中可出帯支状幷支證等之旨為</line>
+        <lb xml:id="0018_r_0006" />
+        <line>
+          <hi rend="color(#ff0000)">秀藤貞連</hi>奉行被相觸之乍写取訴状令遁避之</line>
+        <lb xml:id="0018_l_0007" />
+        <line>上者可被成下御教書於員弘也焉</line>
+        <lb xml:id="0018_l_0008" />
+        <line>
+          <date when="1430-11-15">永享二年十一月十五日</date>　大和守貞連（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0018_l_0009" />
+        <line>（花押）</line>
+        <lb xml:id="0018_l_0010" />
+        <line>一造酒正師俊与中御門大納言家</line>
+        <lb xml:id="0018_l_0011" />
+        <line>　雑掌相論酒鑪役事理非之</line>
+        <lb xml:id="0018_l_0012" />
+        <line>　段被尋仰傳奏三人訖然間</line>
+        <pb n="19" />
+        <lb xml:id="0019_r_0001" />
+        <line>
+          <hi rend="color(#ff0000)">万里小路大納言</hi>
+          <hi rend="color(#ff0000)">觀</hi>
+          <hi rend="color(#ff0000)">修寺中納言廣橋中納言</hi>意見状</line>
+        <lb xml:id="0019_r_0002" />
+        <line>　分明之上者可被付師俊之由</line>
+        <lb xml:id="0019_r_0003" />
+        <line>　被仰下訖仍被成奉書者也</line>
+        <lb xml:id="0019_r_0004" />
+        <line>
+          <date when="1430-11-23">永享二年十一月廿三日</date>　和泉守秀定</line>
+        <lb xml:id="0019_r_0005" />
+        <line>　　　　　　　　　　　加賀守基貞（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0019_l_0006" />
+        <line>（花押）</line>
+        <lb xml:id="0019_l_0007" />
+        <line>一　　石清水八幡宮神人右衛門四郎与同神人五郎左衛門尉宗貞</line>
+        <lb xml:id="0019_l_0008" />
+        <line>　　　相論越後國柏崎住民道秀入道遺跡事</line>
+        <lb xml:id="0019_l_0009" />
+        <line>　去八月十五日　神幸之時彼右衛門四郎幷父祐見等奉</line>
+        <lb xml:id="0019_l_0010" />
+        <line>　取付　神輿致嗷訴之條狼籍絶常篇罪科甚不輕</line>
+        <lb xml:id="0019_l_0011" />
+        <line>　雖然若彼輩訴詔有其理者被免過怠為有論所於</line>
+        <pb n="20" />
+        <lb xml:id="0020_r_0001" />
+        <line>　御裁許今月八日夜於社務在京之宿坊召出彼代<hi rend="color(#ff0000)">祐見浄随</hi>等</line>
+        <lb xml:id="0020_r_0002" />
+        <line>　及對決沙汰之處如祐見申者既年来右衛門四郎為道秀之</line>
+        <lb xml:id="0020_r_0003" />
+        <line>　養子無貮之處以一往折檻状稱義絶之證文掠申　公方</line>
+        <lb xml:id="0020_r_0004" />
+        <line>　令押領云々如浄随申者右衛門四郎雖為異姓他人道秀</line>
+        <lb xml:id="0020_r_0005" />
+        <line>　収養之段勿論也但依有不儀之子細慥令義絶之由道秀之</line>
+        <lb xml:id="0020_r_0006" />
+        <line>　自筆状二通明鏡也仍宗貞者道秀之甥也荷物資財等</line>
+        <lb xml:id="0020_r_0007" />
+        <line>　宗貞可相計之旨同載彼状畢且宗貞可相傳之由道秀</line>
+        <lb xml:id="0020_r_0008" />
+        <line>　申置之条無其隠且先度被經御沙汰被成下御教書云々</line>
+        <lb xml:id="0020_l_0009" />
+        <line>　爰祐見重申之宗貞出帯證状不審多端云々然者加披見</line>
+        <lb xml:id="0020_l_0010" />
+        <line>　可差申謀書廉之旨雖申含彼状披見事祐見再三辞</line>
+        <lb xml:id="0020_l_0011" />
+        <line>　退訖尚以責伏之間雖披見彼状曽以不差申謀書廉将又</line>
+        <lb xml:id="0020_l_0012" />
+        <line>　先立避与屋一宇幷苧拾駄可和平之旨以浄通入道令</line>
+        <lb xml:id="0020_l_0013" />
+        <line>　籌策之趣祐見雖申之於浄随者更不存知仕之由申之</line>
+        <lb xml:id="0020_l_0014" />
+        <line>　加之祐見申詞條々参差無理忽令顯然之次第社務</line>
+        <lb xml:id="0020_l_0015" />
+        <line>　幷奉行人<hi rend="color(#ff0000)">為種貞元秀藤等</hi>言上仕也此上者可被付宗貞之由</line>
+        <lb xml:id="0020_l_0016" />
+        <line>　被　仰下訖仍就望申可被成下安堵御教書於宗貞也矣</line>
+        <pb n="21" />
+        <lb xml:id="0021_r_0001" />
+        <line>
+          <date when="1430-12-12">永享二年十二月十二日</date>　左衛門尉秀藤（花押）</line>
+        <lb xml:id="0021_r_0002" />
+        <line>　　　　　　　　　　　　散　位貞元（花押）</line>
+        <lb xml:id="0021_r_0003" />
+        <line>　　　　　　　　　　　　肥前守為種（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0021_r_0004" />
+        <line>（花押）</line>
+        <lb xml:id="0021_r_0005" />
+        <line>一尾張房料足事</line>
+        <lb xml:id="0021_r_0006" />
+        <line>就松梅院禅能借書九通本錢五百八貫四百文</line>
+        <lb xml:id="0021_l_0007" />
+        <line>
+          <hi rend="color(#ff0000)">此内小畠入道判形在之</hi>可返弁錢主之旨以<hi rend="color(#ff0000)">為行貞連</hi>被相觸之處尾</line>
+        <lb xml:id="0021_l_0008" />
+        <line>張秘計之段無子細但彼者大宿直千文子屋料足</line>
+        <lb xml:id="0021_l_0009" />
+        <line>負之令逐電其後山上飯室阿弥陀坊以状為錢主</line>
+        <lb xml:id="0021_l_0010" />
+        <line>由申之依致催促令弁済殘所遣百貫文借書</line>
+        <lb xml:id="0021_l_0011" />
+        <line>而以彼状又七条圓林致催促爰只今被仰下九</line>
+        <lb xml:id="0021_l_0012" />
+        <line>通状者置于質中西許之旨稱之於借状者預置</line>
+        <lb xml:id="0021_l_0013" />
+        <line>尾張方之處其身逐電之間不能取返至請取</line>
+        <lb xml:id="0021_l_0014" />
+        <line>者返渡阿弥陀坊之時入置所領仍光聚院口入之</line>
+        <pb n="22" />
+        <lb xml:id="0022_r_0001" />
+        <line>間申預代官職自彼方返弁之条不及執請取</line>
+        <lb xml:id="0022_r_0002" />
+        <line>云々且不取返借書且不出帯請取以口状言上</line>
+        <lb xml:id="0022_r_0003" />
+        <line>不足信用其上尾張逐電之後就阿弥陀坊</line>
+        <lb xml:id="0022_r_0004" />
+        <line>催促致沙汰之由申之以何為證令存知錢主哉</line>
+        <lb xml:id="0022_r_0005" />
+        <line>啻以書状計或所領或坊舎以下為我物之旨</line>
+        <lb xml:id="0022_r_0006" />
+        <line>申者可領状歟旁胸臆申詞也假令阿弥陀坊</line>
+        <lb xml:id="0022_r_0007" />
+        <line>料足各別借請之以前返弁之歟争可混此負</line>
+        <lb xml:id="0022_r_0008" />
+        <line>物哉尚捧書状雖申子細同篇之上者不被許容</line>
+        <lb xml:id="0022_l_0009" />
+        <line>早<hi rend="color(#ff0000)">禅能状幷借書九通同阿弥陀坊状等籾井方預置</hi>所詮以越前國社庄年貢本</line>
+        <lb xml:id="0022_l_0010" />
+        <line>利相當程致知行可沙汰渡錢主之由可申付正実</line>
+        <lb xml:id="0022_l_0011" />
+        <line>次圓林所持借書分子細同前矣</line>
+        <lb xml:id="0022_l_0012" />
+        <line>
+          <date when="1430-12-11">永享二年十二月十一日</date>　大和守貞連（花押）</line>
+        <lb xml:id="0022_l_0013" />
+        <line>　　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0022_l_0014" />
+        <line>（花押）</line>
+        <pb n="23" />
+        <lb xml:id="0023_r_0001" />
+        <line>一紫野大徳寺雑掌申攝津國住吉慈恩</line>
+        <lb xml:id="0023_r_0002" />
+        <line>　寺幷玄通寺等事為當寺末寺之處</line>
+        <lb xml:id="0023_r_0003" />
+        <line>　嵯峨門徒梵策依為住吉社前神主兄弟</line>
+        <lb xml:id="0023_r_0004" />
+        <line>　掠執補任押領云々如神主支状者為神主</line>
+        <lb xml:id="0023_r_0005" />
+        <line>　親類居住造立之由言上之間他門之僧住</line>
+        <lb xml:id="0023_l_0006" />
+        <line>　院之先蹤雖被尋下任補任賜安堵御教書</line>
+        <lb xml:id="0023_l_0007" />
+        <line>　外無他事者也然者任去應永十九年七月十三</line>
+        <lb xml:id="0023_l_0008" />
+        <line>　日御判<hi rend="color(#ff0000)">正文紛失之間被召出奉行所符案</hi>幷神主先祖國量状</line>
+        <lb xml:id="0023_l_0009" />
+        <line>　等為末寺大徳寺可領掌之由被成御教書</line>
+        <lb xml:id="0023_l_0010" />
+        <line>　訖焉</line>
+        <lb xml:id="0023_l_0011" />
+        <line>
+          <date when="1430-12-21">永享二年十二月廿一日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0023_l_0012" />
+        <line>　　　　　　　　　　　加賀守基貞（花押）</line>
+      </p>
+      <p>
+        <pb n="24" />
+        <lb xml:id="0024_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0024_r_0002" />
+        <line>一益若丸与松梅院相論太神宮領尾張</line>
+        <lb xml:id="0024_r_0003" />
+        <line>　國本神戸司職内<hi rend="color(#ff0000)">咋</hi><hi rend="color(#ff0000)">井五郎丸西小嶋八女</hi>等事</line>
+        <lb xml:id="0024_r_0004" />
+        <line>　如益若丸訴申者為太神宮領本神戸</line>
+        <lb xml:id="0024_r_0005" />
+        <line>　司職七郷内之處安威入道性遵掠給御</line>
+        <lb xml:id="0024_r_0006" />
+        <line>　判剰比丘尼眞照<hi rend="color(#ff0000)">性遵息女</hi>寄進北野宮寺</line>
+        <lb xml:id="0024_l_0007" />
+        <line>　云々松梅院帯安堵御判雖支申性遵</line>
+        <lb xml:id="0024_l_0008" />
+        <line>　觀應二年正月廿六日御下文未施行之</line>
+        <lb xml:id="0024_l_0009" />
+        <line>　上眞照不帯譲状社家又無寄進</line>
+        <lb xml:id="0024_l_0010" />
+        <line>　状者也旁不分明者哉兩祭主<hi rend="color(#ff0000)">清忠宗直</hi>執申</line>
+        <lb xml:id="0024_l_0011" />
+        <line>　上者可被成下御判於益若丸也矣</line>
+        <lb xml:id="0024_l_0012" />
+        <line>
+          <date when="1430-12-23">永享二年十二月廿三日</date>　和泉守秀定</line>
+        <lb xml:id="0024_l_0013" />
+        <line>　　　　　　　　　　　加賀守基貞（花押）</line>
+      </p>
+      <p>
+        <pb n="25" />
+        <line></line>
+        <lb xml:id="0025_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0025_r_0002" />
+        <line>一　小笠原備前守持長申備中國草間村</line>
+        <lb xml:id="0025_r_0003" />
+        <line>　　惣領職<hi rend="color(#ff0000)">付庶子分</hi>同村内宮地条事</line>
+        <lb xml:id="0025_r_0004" />
+        <line>就雅樂修理亮持忠譲与<hi rend="color(#ff0000)">持長為持忠之甥</hi>守護人非分押領</line>
+        <lb xml:id="0025_r_0005" />
+        <line>由申之　御定不知行之文書相續如何仍被訪</line>
+        <lb xml:id="0025_r_0006" />
+        <line>評定衆同奉行人等意見之處為叔姪近親文</line>
+        <lb xml:id="0025_l_0007" />
+        <line>書相傳事被載文永追加之上者不能左右之旨</line>
+        <lb xml:id="0025_l_0008" />
+        <line>言上訖然承久以来證文分明也任持忠譲与可被</line>
+        <lb xml:id="0025_l_0009" />
+        <line>成下安堵於持長至宮地条者雖帯貞治御下文</line>
+        <lb xml:id="0025_l_0010" />
+        <line>為吉備津宮領之旨守護人注進之間可被除之矣</line>
+        <lb xml:id="0025_l_0011" />
+        <line>
+          <date when="1430-12-23">永享二年十二月廿三日</date>　對馬守貞清（花押）</line>
+        <lb xml:id="0025_l_0012" />
+        <line>（花押）</line>
+      </p>
+      <p>
+        <pb n="26" />
+        <lb xml:id="0026_r_0001" />
+        <line>一金輪院弁澄与聖行院兼睿相論南谷領近江</line>
+        <lb xml:id="0026_r_0002" />
+        <line>　國愛智郡長野郷内別納捌拾石地事</line>
+        <lb xml:id="0026_r_0003" />
+        <line>如弁澄訴状者自文和年中帯一院之連署數年</line>
+        <lb xml:id="0026_r_0004" />
+        <line>知行之處明徳二年兼睿先師雖申賜之就歎申</line>
+        <lb xml:id="0026_r_0005" />
+        <line>去應永十八年十二月十五日被成下還補御判欲致</line>
+        <lb xml:id="0026_l_0006" />
+        <line>知行之處圓明兼承令扶持兼睿相支之間重被</line>
+        <lb xml:id="0026_l_0007" />
+        <line>經御沙汰理非之段被相尋諸門跡之處弁澄理運</line>
+        <lb xml:id="0026_l_0008" />
+        <line>旨雖被勘申兼承猶以可及嗷訴之由令申之間</line>
+        <lb xml:id="0026_l_0009" />
+        <line>一旦為被止鉾楯之儀先被置所務於中送年序</line>
+        <lb xml:id="0026_l_0010" />
+        <line>訖如元可全知行之旨可預御成敗云々如兼睿申者</line>
+        <lb xml:id="0026_l_0011" />
+        <line>山門悪徒御對治之時先師致無二忠節訖仍澄暹</line>
+        <lb xml:id="0026_l_0012" />
+        <line>弁澄兄弟共以為彼凶徒与力随一之間被處罪過</line>
+        <lb xml:id="0026_l_0013" />
+        <line>為其跡明徳二年拜領以来無相違之處弁澄竊</line>
+        <pb n="27" />
+        <lb xml:id="0027_r_0001" />
+        <line>掠給御判立還成競望之間依支申理非糺決之程</line>
+        <lb xml:id="0027_r_0002" />
+        <line>可置所務於中間之由被仰出之条奉待　上裁</line>
+        <lb xml:id="0027_r_0003" />
+        <line>者也且亦於于今者非當谷交衆分旁可被弃捐</line>
+        <lb xml:id="0027_r_0004" />
+        <line>弁澄訴詔之旨申之　御定於金輪院者御罪科</line>
+        <lb xml:id="0027_r_0005" />
+        <line>刻被行闕所雖被下聖行院其以後既有御免被成</line>
+        <lb xml:id="0027_r_0006" />
+        <line>下安堵者也争可押置之哉次為非交衆其谷領</line>
+        <lb xml:id="0027_r_0007" />
+        <line>知行之有無被尋下兩方之處雖非交衆他院他</line>
+        <lb xml:id="0027_r_0008" />
+        <line>谷領知行之例為連綿之由兩人<hi rend="color(#ff0000)">弁澄兼睿</hi>捧注進状之</line>
+        <lb xml:id="0027_l_0009" />
+        <line>上者任應永十八年還補弁澄可領知之旨被成御</line>
+        <lb xml:id="0027_l_0010" />
+        <line>判畢矣</line>
+        <lb xml:id="0027_l_0011" />
+        <line>
+          <date when="1430-12-23">永享二年十二月廿三日</date>　加賀守為行（花押）</line>
+        <lb xml:id="0027_l_0012" />
+        <line>　　　　　　　　　　　民部丞基世（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0027_l_0013" />
+        <line>（花押）</line>
+        <lb xml:id="0027_l_0014" />
+        <line>
+          <hi rend="color(#ff0000)">※（不明）</hi>美濃國輕海郷地頭職<hi rend="color(#ff0000)">恒冨入道同庶子等跡</hi>事</line>
+        <pb n="28" />
+        <lb xml:id="0028_r_0001" />
+        <line>
+          <hi rend="color(#ff0000)">※（不明）</hi>廣橋中納言家由緒被召出支證之處明徳</line>
+        <lb xml:id="0028_r_0002" />
+        <line>三年五月三日祖父以御書<hi rend="color(#ff0000)">但正文紛失</hi>拜領以来當知</line>
+        <lb xml:id="0028_r_0003" />
+        <line>行之處去應永十五年大舘申給云々爰被召</line>
+        <lb xml:id="0028_r_0004" />
+        <line>出彼證文訖去明徳元<hi rend="color(#ff0000)">潤三</hi><hi rend="color(#ff0000)">　</hi><hi rend="color(#ff0000)">十六</hi>亡父以御下文被下之</line>
+        <lb xml:id="0028_r_0005" />
+        <line>中間廣橋家雖被申給其後勝定院殿御代</line>
+        <lb xml:id="0028_r_0006" />
+        <line>被返下于今當知行之由申之於大舘者御下</line>
+        <lb xml:id="0028_r_0007" />
+        <line>文先日之間所申雖非無其謂未施行也又應</line>
+        <lb xml:id="0028_r_0008" />
+        <line>永年中御判為還補者争不載其詞哉旁以</line>
+        <lb xml:id="0028_l_0009" />
+        <line>非無御不審所詮至廣橋者雖令紛失御書</line>
+        <lb xml:id="0028_l_0010" />
+        <line>既而施行分明之上細々奉公之間難被對揚</line>
+        <lb xml:id="0028_l_0011" />
+        <line>上者以御判可被返付廣橋家也焉</line>
+        <lb xml:id="0028_l_0012" />
+        <line>
+          <date when="1430-12-25">永享二年十二月廿五日</date>　大和守貞連（花押）</line>
+        <lb xml:id="0028_l_0013" />
+        <line>（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0028_l_0014" />
+        <line>一乗院家雑掌申就若宮祭礼田楽頭役</line>
+        <pb n="29" />
+        <lb xml:id="0029_r_0001" />
+        <line>和州門跡領所々重色十疋非重色五疋段別</line>
+        <lb xml:id="0029_r_0002" />
+        <line>錢事被懸課之處学侶衆徒号祈願寺</line>
+        <lb xml:id="0029_r_0003" />
+        <line>寄人及異儀之条無其謂云々如学侶申</line>
+        <lb xml:id="0029_r_0004" />
+        <line>者重色五疋非重色三疋可懸課之但於</line>
+        <lb xml:id="0029_r_0005" />
+        <line>祈願寺寄人者可被閣之旨申之雖然</line>
+        <lb xml:id="0029_r_0006" />
+        <line>不帯免除之状之上至門跡者出帯度々</line>
+        <lb xml:id="0029_r_0007" />
+        <line>段錢納帳之間可被懸沙汰之由被成御教書</line>
+        <lb xml:id="0029_r_0008" />
+        <line>訖焉</line>
+        <lb xml:id="0029_l_0009" />
+        <line>
+          <date when="1430-12-29">永享二年十二月廿九日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0029_l_0010" />
+        <line>　　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0029_l_0011" />
+        <line>（花押）</line>
+        <lb xml:id="0029_l_0012" />
+        <line>一檜皮師孫次郎与同孫九郎相論相國寺大工職事</line>
+        <lb xml:id="0029_l_0013" />
+        <line>
+          <hi rend="color(#ff0000)">※（不明）</hi>孫次郎申者亡父大夫次郎近吉嫁天龍寺大工</line>
+        <pb n="30" />
+        <lb xml:id="0030_r_0001" />
+        <line>
+          <hi rend="color(#ff0000)">※（不明）</hi>圓息女是世後經數年至徳三年始而充近吉</line>
+        <lb xml:id="0030_r_0002" />
+        <line>身被補任相國寺大工職畢而近吉明徳四年孫九</line>
+        <lb xml:id="0030_r_0003" />
+        <line>郎二歳之時拾取為養子致扶持去應永廿八年於</line>
+        <lb xml:id="0030_r_0004" />
+        <line>天龍寺以下所々者令譲与孫九郎之間撰遣本證文</line>
+        <lb xml:id="0030_r_0005" />
+        <line>者也至相國寺以下所々者依為實子孫次郎譲得之</line>
+        <lb xml:id="0030_r_0006" />
+        <line>互無其煩沙汰來之處孫九郎男今年五月盗掠賜</line>
+        <lb xml:id="0030_r_0007" />
+        <line>相國寺補任云々如孫九郎陳状者天龍寺相國寺以下</line>
+        <lb xml:id="0030_r_0008" />
+        <line>所々大工職妙圓遺跡是世女相計之訖仍為養母跡</line>
+        <lb xml:id="0030_l_0009" />
+        <line>悉可相續之處以令嫁是世由緒為大夫次郎入道計</line>
+        <lb xml:id="0030_l_0010" />
+        <line>支配之段無謂殊孫次郎所出帯至徳三年補任者</line>
+        <lb xml:id="0030_l_0011" />
+        <line>為充是世實子彦次郎身支證也然間其子細就歎申</line>
+        <lb xml:id="0030_l_0012" />
+        <line>令安堵云々彼実否被尋下　公方之御大工近定幷</line>
+        <lb xml:id="0030_l_0013" />
+        <line>近宗國近等之處条々孫九郎申詞参差者也訴人</line>
+        <lb xml:id="0030_l_0014" />
+        <line>孫次郎申分無相違之旨以告文捧注進状之上彼孫</line>
+        <lb xml:id="0030_l_0015" />
+        <line>九郎被養育近吉乍受所々譲不可用養父之間</line>
+        <lb xml:id="0030_l_0016" />
+        <line>
+          <hi rend="color(#ff0000)">※（不明）</hi>捨其状之由申之条旁以狼籍無理之段令露顯之</line>
+        <pb n="31" />
+        <lb xml:id="0031_r_0001" />
+        <line>上者如元可成返補任於孫次郎之旨可申寺家之由</line>
+        <lb xml:id="0031_r_0002" />
+        <line>被仰出之間兩人<hi rend="color(#ff0000)">秀藤為行</hi>罷向都聞寮　上意之通</line>
+        <lb xml:id="0031_r_0003" />
+        <line>申付訖矣</line>
+        <lb xml:id="0031_r_0004" />
+        <line>
+          <date when="1430-12-30">永享二年十二月卅日</date>　　加賀守為行（花押）</line>
+        <lb xml:id="0031_r_0005" />
+        <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0031_l_0006" />
+        <line>（花押）</line>
+        <lb xml:id="0031_l_0007" />
+        <line>一　八幡宮雑掌申安居頭役事</line>
+        <lb xml:id="0031_l_0008" />
+        <line>　差定五条坊門東洞院太郎五郎男之處</line>
+        <lb xml:id="0031_l_0009" />
+        <line>　雖為神領之内生非神人之子争令勤仕乎</line>
+        <pb n="32" />
+        <lb xml:id="0032_r_0001" />
+        <line>　其上　禁裏駕輿丁也云々如雑掌申者於神</line>
+        <lb xml:id="0032_r_0002" />
+        <line>　領生者可致沙汰云々依註申相尋之處四条</line>
+        <lb xml:id="0032_r_0003" />
+        <line>　坊門東洞院助三郎雖非神人致沙汰畢駕輿</line>
+        <lb xml:id="0032_r_0004" />
+        <line>　丁又數多也雖被除彼者不可有子細歟此上者</line>
+        <lb xml:id="0032_r_0005" />
+        <line>　太郎五郎男可致沙汰之由</line>
+        <lb xml:id="0032_r_0006" />
+        <line>被仰下</line>
+        <lb xml:id="0032_r_0007" />
+        <line>
+          <date when="1431-04-07">永享三年四月七日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0032_r_0008" />
+        <line>　　　　　　　　　對馬守貞清（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0032_l_0009" />
+        <line>（花押）</line>
+        <lb xml:id="0032_l_0010" />
+        <line>一　佐々木佐渡入道祐繁申攝津國多田庄</line>
+        <lb xml:id="0032_l_0011" />
+        <line>　　御家人地頭對捍事</line>
+        <lb xml:id="0032_l_0012" />
+        <line>召上彼御家人等相尋之處於口郷分九人者</line>
+        <lb xml:id="0032_l_0013" />
+        <line>對地頭不可有異儀地頭成敗亦無非儀之旨</line>
+        <lb xml:id="0032_l_0014" />
+        <line>捧請文之間四月四日可下向之由被仰付畢爰</line>
+        <pb n="33" />
+        <lb xml:id="0033_r_0001" />
+        <line>奥郷輩遅參之間既雖可被加治罰尚以寛</line>
+        <lb xml:id="0033_r_0002" />
+        <line>宥之儀無怖畏可参之旨被成奉書被差</line>
+        <lb xml:id="0033_r_0003" />
+        <line>下多田院住持者也仍可參洛之通申御請雖</line>
+        <lb xml:id="0033_r_0004" />
+        <line>上洛仕寄事於怖畏不参對之上者可被加對治</line>
+        <lb xml:id="0033_r_0005" />
+        <line>由被仰細川右京大夫赤松左京大夫入道同兵部</line>
+        <lb xml:id="0033_r_0006" />
+        <line>少輔訖</line>
+        <lb xml:id="0033_r_0007" />
+        <line>
+          <date when="1431-05-16">永享三年五月十六日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0033_r_0008" />
+        <line>　　　　　　　　　　大和守貞連（花押）</line>
+        <lb xml:id="0033_r_0009" />
+        <line>　　　　　　　　　　對馬守貞清（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0033_l_0010" />
+        <line>（花押）</line>
+        <lb xml:id="0033_l_0011" />
+        <line>一　上杦中務少輔持憲代与利倉式部丞相論</line>
+        <lb xml:id="0033_l_0012" />
+        <line>　　負物事</line>
+        <lb xml:id="0033_l_0013" />
+        <line>　於利倉式部丞者任借状可有行結解幷借物</line>
+        <lb xml:id="0033_l_0014" />
+        <line>　十分一之由雖申之如政所寄人註申者可</line>
+        <lb xml:id="0033_l_0015" />
+        <line>　為一倍次十分一事不存知仕云々然者遂</line>
+        <pb n="34" />
+        <lb xml:id="0034_r_0001" />
+        <line>　一倍之勘定以丹波國和久庄年貢如近年可</line>
+        <lb xml:id="0034_r_0002" />
+        <line>　返弁之就中人夫以下事同可致勘弁於令</line>
+        <lb xml:id="0034_r_0003" />
+        <line>　不足者上杦中務少輔代早速可令奔走之由</line>
+        <lb xml:id="0034_r_0004" />
+        <line>被仰下畢</line>
+        <lb xml:id="0034_r_0005" />
+        <line>
+          <date when="1431-05-18">永享三年五月十八日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0034_r_0006" />
+        <line>　　　　　　　　　　散　位貞元（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0034_l_0007" />
+        <line>（花押）</line>
+        <lb xml:id="0034_l_0008" />
+        <line>一大原勝林院通嚴申来迎院領備中國<hi rend="color(#ff0000)">小田甲努</hi></line>
+        <lb xml:id="0034_l_0009" />
+        <line>　<hi rend="color(#ff0000)">新賀山口</hi>四箇村事</line>
+        <lb xml:id="0034_l_0010" />
+        <line>　為年来當院領之處中古院務本達上人同</line>
+        <lb xml:id="0034_l_0011" />
+        <line>　朋正信致自専任雅意令譲与聖興蔵主<hi rend="color(#ff0000)">于時知客</hi></line>
+        <lb xml:id="0034_l_0012" />
+        <line>　其跡常喜幷徹書記以下於于今押妨之条寺領</line>
+        <pb n="35" />
+        <lb xml:id="0035_r_0001" />
+        <line>　一所及失墜之由就申之被尋下常喜等召出</line>
+        <lb xml:id="0035_r_0002" />
+        <line>　支證備　上覧訖尤以合奉行雖可有御糺明</line>
+        <lb xml:id="0035_r_0003" />
+        <line>　所令出帯如支状幷文書案<hi rend="color(#ff0000)">正文紛失云々</hi>者本券正信</line>
+        <lb xml:id="0035_r_0004" />
+        <line>　譲状也何非住持之儀可相計寺領哉縦雖為院</line>
+        <lb xml:id="0035_r_0005" />
+        <line>　務一代住持譲状難被許容歟旁以通嚴所申</line>
+        <lb xml:id="0035_r_0006" />
+        <line>　非無其謂然早任暦應三年十二月四日　院宣之旨</line>
+        <lb xml:id="0035_r_0007" />
+        <line>　以　御判可被返付来迎院也矣</line>
+        <lb xml:id="0035_r_0008" />
+        <line>
+          <date when="1431-05-25">永享三年五月廿五日</date>　大和守貞連（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0035_l_0009" />
+        <line>（花押）</line>
+        <lb xml:id="0035_l_0010" />
+        <line>一　伊勢九郎左衛門尉盛行与木幡浄妙寺源豪</line>
+        <lb xml:id="0035_l_0011" />
+        <line>　　相論當寺執行職事</line>
+        <lb xml:id="0035_l_0012" />
+        <line>　為基宗奉行如盛行訴申者去應永十五年</line>
+        <lb xml:id="0035_l_0013" />
+        <line>　源豪先師源快依有御罪科之子細為本領</line>
+        <lb xml:id="0035_l_0014" />
+        <line>　替父盛秀令拜領致知行之處同十九年相語</line>
+        <pb n="36" />
+        <lb xml:id="0036_r_0001" />
+        <line>　冨樫兵部大輔還補之条無謂之上者可被返下云々</line>
+        <lb xml:id="0036_r_0002" />
+        <line>　如源豪陳状者當寺者為聖護院門跡御管領</line>
+        <lb xml:id="0036_r_0003" />
+        <line>　在所至執行職者源豪譜代令相續之處盛秀</line>
+        <lb xml:id="0036_r_0004" />
+        <line>　盛行父雖掠賜依申披應永十八年十月一日以</line>
+        <lb xml:id="0036_r_0005" />
+        <line>　御書被返進門跡云々還補之年号盛行訴状之旨</line>
+        <lb xml:id="0036_r_0006" />
+        <line>　令参差之上縦一旦雖被充行被返付門跡　御内書</line>
+        <lb xml:id="0036_r_0007" />
+        <line>　分明之上者任當知行被閣之訖</line>
+        <lb xml:id="0036_r_0008" />
+        <line>
+          <date when="1431-06-12">永享三年六月十二日</date>　加賀守為行（花押）</line>
+        <lb xml:id="0036_r_0009" />
+        <line>　　　　　　　　　　中務丞基宗</line>
+      </p>
+      <p>
+        <lb xml:id="0036_l_0010" />
+        <line>（花押）</line>
+        <lb xml:id="0036_l_0011" />
+        <line>一　　八幡宮田中法印融清与當宮神人相論</line>
+        <lb xml:id="0036_l_0012" />
+        <line>　　　山城國美豆河口兩郷加地子盛増事</line>
+        <lb xml:id="0036_l_0013" />
+        <line>　如田中法印申者為公方御祈禱料所御寄</line>
+        <lb xml:id="0036_l_0014" />
+        <line>　進之處近年神人及神事違乱申給御教書</line>
+        <lb xml:id="0036_l_0015" />
+        <line>　無謂知行云々如神人申者帯度々御教書當</line>
+        <pb n="37" />
+        <lb xml:id="0037_r_0001" />
+        <line>　知行云々所詮於神人出帯支證者皆及神事</line>
+        <lb xml:id="0037_r_0002" />
+        <line>　違乱申給所見也此上者任御判等之旨融清</line>
+        <lb xml:id="0037_r_0003" />
+        <line>　可知行之由</line>
+        <lb xml:id="0037_r_0004" />
+        <line>被仰下　　　　被成御教書訖</line>
+        <lb xml:id="0037_r_0005" />
+        <line>
+          <date when="1431-06-17">永享三年六月十七日</date>　　肥前守為種（花押）</line>
+        <lb xml:id="0037_r_0006" />
+        <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0037_l_0007" />
+        <line>（花押）</line>
+        <lb xml:id="0037_l_0008" />
+        <line>一　鷹司大納言家雑掌与中嶋加賀守隆信相論</line>
+        <lb xml:id="0037_l_0009" />
+        <line>　　加賀國益冨保領家職事</line>
+        <lb xml:id="0037_l_0010" />
+        <line>當保領家職者坊城少納言益長去應永廿九年給之</line>
+        <lb xml:id="0037_l_0011" />
+        <line>爰去年十一月十二日以　御書被返付鷹司家訖則可</line>
+        <lb xml:id="0037_l_0012" />
+        <line>被成施行之處如隆信支状者為地頭進止之領家於</line>
+        <pb n="38" />
+        <lb xml:id="0038_r_0001" />
+        <line>下地者更不可有領家綺之由申之如雑掌重状</line>
+        <lb xml:id="0038_r_0002" />
+        <line>者自永徳三年至應永十三年粟田口長嗣卿為家門</line>
+        <lb xml:id="0038_r_0003" />
+        <line>代官知行之其以後至同十九年者二宮信濃入道子細</line>
+        <lb xml:id="0038_r_0004" />
+        <line>同前而當國守護職改補之刻掠給中嶋御判剰号</line>
+        <lb xml:id="0038_r_0005" />
+        <line>地頭進止万疋分可致沙汰之旨乍申載御判自翌年令</line>
+        <lb xml:id="0038_r_0006" />
+        <line>減少五拾貫文結句彼五千疋内尚令不法之上者云</line>
+        <lb xml:id="0038_r_0007" />
+        <line>彼云是可直務之由稱之仍被尋問評定衆之處意見</line>
+        <lb xml:id="0038_r_0008" />
+        <line>區也所詮應永廿年八月十五日堅乍帯本所補任状</line>
+        <lb xml:id="0038_l_0009" />
+        <line>年貢難澁者非無僻事歟重被糺明之處未進年々</line>
+        <lb xml:id="0038_l_0010" />
+        <line>在之但如隆信陳状者惣保内河邊分冨樫兵部大輔</line>
+        <lb xml:id="0038_l_0011" />
+        <line>押妨之条就歎申應永廿五年被仰付守護人故介去</line>
+        <lb xml:id="0038_l_0012" />
+        <line>渡以来至五拾貫者無未進致其沙汰帯請取云々又雑掌</line>
+        <lb xml:id="0038_l_0013" />
+        <line>状云當所者領家下地十五名也彼河邊者為一分地頭中</line>
+        <lb xml:id="0038_l_0014" />
+        <line>嶋<hi rend="color(#ff0000)">号庶子</hi>何可混領家哉之旨申之兩方申詞枝葉雖</line>
+        <lb xml:id="0038_l_0015" />
+        <line>多去應永廿五年故介渡状者不限河邊分惣保遵行</line>
+        <lb xml:id="0038_l_0016" />
+        <line>上者啻對守護人被安堵思歟如此奉掠　上聞之条且</line>
+        <pb n="39" />
+        <lb xml:id="0039_r_0001" />
+        <line>難遁其咎且以嚴密之文章乍帯本所補任無沙汰</line>
+        <lb xml:id="0039_r_0002" />
+        <line>間旁隆信所申非無其謂然早任去年　御書可渡付</line>
+        <lb xml:id="0039_r_0003" />
+        <line>下地於雑掌之由可成施行也焉</line>
+        <lb xml:id="0039_r_0004" />
+        <line>
+          <date when="1431-06-19">永享三年六月十九日</date>　　大和守貞連（花押）</line>
+        <lb xml:id="0039_r_0005" />
+        <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0039_l_0006" />
+        <line>（花押）</line>
+        <lb xml:id="0039_l_0007" />
+        <line>一　　觀勝寺大悲院与鯰江五郎左衛門尉高真</line>
+        <lb xml:id="0039_l_0008" />
+        <line>　　　相論飛騨國大野郡内恒武名号西一色事</line>
+        <lb xml:id="0039_l_0009" />
+        <line>　如大悲院申者去應永十八年三月十六日伊地知次郎氏和</line>
+        <lb xml:id="0039_l_0010" />
+        <line>　寄附當院以来知行無相違之間同廿年四月十九日給</line>
+        <lb xml:id="0039_l_0011" />
+        <line>　安堵銘之處同年十二月十三日掠給鯰江入道明西云々爰</line>
+        <pb n="40" />
+        <lb xml:id="0040_r_0001" />
+        <line>　明西遺跡高真雖支申於御下文者無下名至寺家</line>
+        <lb xml:id="0040_r_0002" />
+        <line>　者自應永十八年至同廿年十月當知行之所見分明也</line>
+        <lb xml:id="0040_r_0003" />
+        <line>　依何不忠寺領可被闕所哉且又評定衆意見如此</line>
+        <lb xml:id="0040_r_0004" />
+        <line>　然上者被返付觀勝寺大悲院則被成下　御判訖矣</line>
+        <lb xml:id="0040_r_0005" />
+        <line>
+          <date when="1431-08-15">永享三年八月十五日</date>　右衛門尉為秀（花押）</line>
+        <lb xml:id="0040_r_0006" />
+        <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0040_l_0007" />
+        <line>（花押）</line>
+        <lb xml:id="0040_l_0008" />
+        <line>一東大寺雑掌与尊乗院經弁僧正雑掌</line>
+        <lb xml:id="0040_l_0009" />
+        <line>　相論山城國玉井庄事</line>
+        <lb xml:id="0040_l_0010" />
+        <line>如雑掌訴状者代々為寺務傳領之處經弁僧正</line>
+        <lb xml:id="0040_l_0011" />
+        <line>當職刻令自専致寄進八幡宮幷若宮燈油</line>
+        <lb xml:id="0040_l_0012" />
+        <line>要脚於下地者偁成坊領思之条無謂之由雑掌</line>
+        <pb n="41" />
+        <lb xml:id="0041_r_0001" />
+        <line>申之如僧正支状者兩宮常燈断絶之間不可</line>
+        <lb xml:id="0041_r_0002" />
+        <line>然旨鹿苑院殿御代依觸御耳可注申闕所</line>
+        <lb xml:id="0041_r_0003" />
+        <line>由雖被仰出更就不尋出此地幸相計候人等給恩</line>
+        <lb xml:id="0041_r_0004" />
+        <line>間以是可有御寄附歟之旨申之則被成下御判</line>
+        <lb xml:id="0041_r_0005" />
+        <line>至下地者可致奉行之由被仰下于今致其沙汰云々</line>
+        <lb xml:id="0041_r_0006" />
+        <line>依無彼燈油料以人給被付其足之段無子細歟但</line>
+        <lb xml:id="0041_r_0007" />
+        <line>當庄事代々為寺務領之處何惣庄尊乗院可</line>
+        <lb xml:id="0041_r_0008" />
+        <line>相計哉啻為此地於自専掠申歟無理之至也所詮</line>
+        <lb xml:id="0041_l_0009" />
+        <line>所被定置御願嚴密致其沙汰於下地者如元</line>
+        <lb xml:id="0041_l_0010" />
+        <line>被返付寺家之旨可書上　御判矣次彼要脚</line>
+        <lb xml:id="0041_l_0011" />
+        <line>有難澁之儀者以寺務坊領可被付其足之由</line>
+        <lb xml:id="0041_l_0012" />
+        <line>毎度可出請文之旨可申含彼雑掌也焉</line>
+        <lb xml:id="0041_l_0013" />
+        <line>
+          <date when="1431-08-17">永享三年八月十七日</date>　　大和守貞連（花押）</line>
+        <lb xml:id="0041_l_0014" />
+        <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
+        <pb n="42" />
+        <lb xml:id="0042_r_0001" />
+        <line>以前如此落居之處改代官申付別人堅致請文</line>
+        <lb xml:id="0042_r_0002" />
+        <line>可執沙汰之旨守護被申上之間被曳御墨訖<hi rend="color(#ff0000)">永享三　十二　十</hi></line>
+      </p>
+      <p>
+        <lb xml:id="0042_r_0003" />
+        <line>一　　　清水坂神護寺領讃岐國坂田郷所務代事</line>
+        <lb xml:id="0042_r_0004" />
+        <line>　如雑掌申者去應永十九年故香西入道捧請文毎年</line>
+        <lb xml:id="0042_r_0005" />
+        <line>　百七拾貫文無不法懈怠可執沙汰寺家年貢之旨</line>
+        <lb xml:id="0042_r_0006" />
+        <line>　申定以来雖預置彼在所近年有未進緩怠等儀</line>
+        <lb xml:id="0042_r_0007" />
+        <line>　是併寺用失墜之基也可致直務云々爰香西豊前入道</line>
+        <lb xml:id="0042_l_0008" />
+        <line>　常慶對寺家如歎申者於舊未進者可被閣之旨</line>
+        <lb xml:id="0042_l_0009" />
+        <line>　先度雑掌出状畢至去年<hi rend="color(#ff0000)">永享二</hi>分者迄今年</line>
+        <lb xml:id="0042_l_0010" />
+        <line>　八月連々令究済云々雖然常慶出帯之寺家請取状</line>
+        <lb xml:id="0042_l_0011" />
+        <line>　結句為未進之證據者歟其上於彼常慶者御折檻之</line>
+        <lb xml:id="0042_l_0012" />
+        <line>　間旁以非御沙汰之限任雑掌申請之旨可被成下</line>
+        <lb xml:id="0042_l_0013" />
+        <line>　直務之御教書之由被　　仰下也矣</line>
+        <lb xml:id="0042_l_0014" />
+        <line>
+          <date when="1431-09-06">永享三年九月六日</date>　左衛門尉秀藤</line>
+      </p>
+      <p>
+        <pb n="43" />
+        <lb xml:id="0043_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0043_r_0002" />
+        <line>一　花山院門跡雑掌申近江國榎木庄半済事</line>
+        <lb xml:id="0043_r_0003" />
+        <line>　當庄者一圓為門跡舊領之處至半済佐々木山内</line>
+        <lb xml:id="0043_r_0004" />
+        <line>　源三令押領云々其已後彼山内依有御罪科子細</line>
+        <lb xml:id="0043_r_0005" />
+        <line>　就臨川寺御寄附于今半分門跡不知行也可</line>
+        <lb xml:id="0043_r_0006" />
+        <line>　被返付之旨申之仍被召出臨川寺文書之處</line>
+        <lb xml:id="0043_l_0007" />
+        <line>　為佐々木山内源三跡去嘉慶元年十二月五日御</line>
+        <lb xml:id="0043_l_0008" />
+        <line>　寄進之条見于　御判畢雖然尚以被尋問</line>
+        <lb xml:id="0043_l_0009" />
+        <line>　評定衆意見之處門跡舊領之段仁平以来證文</line>
+        <lb xml:id="0043_l_0010" />
+        <line>　分明之上者於當所者被返付門跡至臨川寺者</line>
+        <lb xml:id="0043_l_0011" />
+        <line>　可被寄替地歟之由令言上之任理運一圓被</line>
+        <lb xml:id="0043_l_0012" />
+        <line>　付門跡之旨被成　御判畢矣</line>
+        <lb xml:id="0043_l_0013" />
+        <line>
+          <date when="1431-09-12">永享三年九月十二日</date>　加賀守為行（花押）</line>
+        <lb xml:id="0043_l_0014" />
+        <line>　　　　　　　　　　對馬守貞清（花押）</line>
+      </p>
+      <p>
+        <pb n="44" />
+        <lb xml:id="0044_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0044_r_0002" />
+        <line>一　　　清閑寺禅侶權少僧都幸済与吉田大納言家</line>
+        <lb xml:id="0044_r_0003" />
+        <line>　　　　雑掌相論當寺内辻坊幷敷地等事</line>
+        <lb xml:id="0044_r_0004" />
+        <line>　如幸済申者當坊者吉田大納言家被官人信濃左</line>
+        <lb xml:id="0044_r_0005" />
+        <line>　衛門入道妙宗帯　院宣等證文相傳之地也仍子息</line>
+        <lb xml:id="0044_r_0006" />
+        <line>　左近将監令相續為彼坊留守居住之間料足拾貮</line>
+        <lb xml:id="0044_l_0007" />
+        <line>　貫文令傳借畢借状云若不致返弁者此坊舎敷地幷</line>
+        <lb xml:id="0044_l_0008" />
+        <line>　文書等悉入置質物之上者可為永領契約也爰彼</line>
+        <lb xml:id="0044_l_0009" />
+        <line>　将監男令逐電之間任借状幸済自専仕之處主人</line>
+        <lb xml:id="0044_l_0010" />
+        <line>　吉田大納言家掠給　院宣押領云々如支状者彼坊舎</line>
+        <lb xml:id="0044_l_0011" />
+        <line>　敷地等者當家舊跡為稱号之地帯　院宣之上者可有</line>
+        <lb xml:id="0044_l_0012" />
+        <line>　進退之由被申之然者可被出本文書之旨重被仰之</line>
+        <lb xml:id="0044_l_0013" />
+        <line>　處舊跡證據稱号所見共以無之由載状被申<hi rend="color(#ff0000)">彼状下給幸済僧都</hi></line>
+        <lb xml:id="0044_l_0014" />
+        <line>　争以近年之院宣壹通可被弃置相傳文書哉此上者</line>
+        <pb n="45" />
+        <lb xml:id="0045_r_0001" />
+        <line>　任左近将監借状被渡付彼坊於幸済僧都訖矣</line>
+        <lb xml:id="0045_r_0002" />
+        <line>
+          <date when="1431-09-15">永享三年九月十五日</date>　右衛門尉為秀（花押）</line>
+        <lb xml:id="0045_r_0003" />
+        <line>　　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0045_r_0004" />
+        <line>（花押）</line>
+        <lb xml:id="0045_r_0005" />
+        <line>一　　祇園社大政所神主松壽丸与左方差符主計</line>
+        <lb xml:id="0045_r_0006" />
+        <line>　　　丞源縁親相論神主職同敷地社恩等事</line>
+        <lb xml:id="0045_l_0007" />
+        <line>　如松壽丸申状者　圓融院御宇天延二年五月</line>
+        <lb xml:id="0045_l_0008" />
+        <line>　下旬天王御影向之時先祖助正御共申被補</line>
+        <lb xml:id="0045_l_0009" />
+        <line>　神主職以来不移他所職之處去應永四年執</line>
+        <lb xml:id="0045_l_0010" />
+        <line>　行顯深就掠申被仰付之條不便之由言上之如</line>
+        <lb xml:id="0045_l_0011" />
+        <line>　縁親支状者彼松壽丸先祖助貞令殺害伯父</line>
+        <lb xml:id="0045_l_0012" />
+        <line>　間依其罪科被改神主職被補任吉益于今無相</line>
+        <lb xml:id="0045_l_0013" />
+        <line>　違仍去應永廿年八月十二日依幸夜叉丸訴詔被尋</line>
+        <lb xml:id="0045_l_0014" />
+        <line>　下一社之處殺害人子孫居神職事曽以無先規云々</line>
+        <pb n="46" />
+        <lb xml:id="0046_r_0001" />
+        <line>　爰松壽丸重言上於一社連署者為執行依令語</line>
+        <lb xml:id="0046_r_0002" />
+        <line>　誘社僧等不弁先規捧連署歟不足信用任他社</line>
+        <lb xml:id="0046_r_0003" />
+        <line>　例可預御裁許之旨申上之　御定一社連署之</line>
+        <lb xml:id="0046_r_0004" />
+        <line>　事者難有御許容可尋究他社之例由被仰下間</line>
+        <lb xml:id="0046_r_0005" />
+        <line>　相尋　太神宮祭主清忠内造宮使宗直日吉樹</line>
+        <lb xml:id="0046_r_0006" />
+        <line>　下成胤官長者周枝吉田神主兼冨等之處殺害</line>
+        <lb xml:id="0046_r_0007" />
+        <line>　人子孫可相續神職之條無子細之由各所捧請文</line>
+        <lb xml:id="0046_r_0008" />
+        <line>　　所詮末社之服忌令不可過本社（裏花押）</line>
+        <lb xml:id="0046_r_0009" />
+        <line>　也此上者至大政所神主職同敷地社恩等者如元</line>
+        <lb xml:id="0046_l_0010" />
+        <line>　可被返付松壽丸之由可被成下　御判也</line>
+        <lb xml:id="0046_l_0011" />
+        <line>
+          <date when="1431-09-14">永享三年九月十四日</date>　　加賀守基貞（花押）</line>
+        <lb xml:id="0046_l_0012" />
+        <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0046_l_0013" />
+        <line>（花押）</line>
+        <lb xml:id="0046_l_0014" />
+        <line>一　春日社々司与英弘相論當社御八講副曳事</line>
+        <lb xml:id="0046_l_0015" />
+        <line>　如社司等申者永和四年以来至應永八年寺僧</line>
+        <pb n="47" />
+        <lb xml:id="0047_r_0001" />
+        <line>　与社家無差別曳之云々如英弘申者為頭</line>
+        <lb xml:id="0047_r_0002" />
+        <line>　役人<hi rend="color(#ff0000)">季行事</hi>随意云々然間被尋仰兩門跡幷諸</line>
+        <lb xml:id="0047_r_0003" />
+        <line>　院家之處註進如社司言上此上者近年之</line>
+        <lb xml:id="0047_r_0004" />
+        <line>　不同者為自然懈怠歟之間任先例可致寺</line>
+        <lb xml:id="0047_r_0005" />
+        <line>　社均等沙汰之由被成御教書於寺務<hi rend="color(#ff0000)">大乗院</hi>訖</line>
+        <lb xml:id="0047_r_0006" />
+        <line>
+          <date when="1431-11-07">永享三年十一月七日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0047_r_0007" />
+        <line>　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0047_l_0008" />
+        <line>（花押）</line>
+        <lb xml:id="0047_l_0009" />
+        <line>一　　楢葉近江守満清与佐々木大膳大夫満綱</line>
+        <lb xml:id="0047_l_0010" />
+        <line>　　　相論江州甲賀郡内蔵田庄地頭職事</line>
+        <lb xml:id="0047_l_0011" />
+        <line>　就満清訴状出帯文和四年正月十五日御書稱令</line>
+        <lb xml:id="0047_l_0012" />
+        <line>　拜領甲賀郡満綱雖支申之於彼郡内他人領知</line>
+        <lb xml:id="0047_l_0013" />
+        <line>　繁多也何限此地可申子細哉既明徳三年</line>
+        <pb n="48" />
+        <lb xml:id="0048_r_0001" />
+        <line>　楢葉所給之御下文分明之上者不及豫儀若謬而</line>
+        <lb xml:id="0048_r_0002" />
+        <line>　被成下御判於楢葉者後日對満綱父争不被成下</line>
+        <lb xml:id="0048_r_0003" />
+        <line>　還補御判乎爰明徳四年幷應永十七年雖被成</line>
+        <lb xml:id="0048_r_0004" />
+        <line>　甲賀郡之安堵除地在之由被書載訖然者楢葉</line>
+        <lb xml:id="0048_r_0005" />
+        <line>　所給之御下文為先日之間旁以叶理致歟仍止</line>
+        <lb xml:id="0048_r_0006" />
+        <line>　押領如元可沙汰付満清之旨被成御教書訖焉</line>
+        <lb xml:id="0048_r_0007" />
+        <line>
+          <date when="1431-11-08">永享三年十一月八日</date>　左衛門尉秀藤（花押）</line>
+        <lb xml:id="0048_r_0008" />
+        <line>　　　　　　　　　　右衛門尉為秀（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0048_l_0009" />
+        <line>（花押）</line>
+        <lb xml:id="0048_l_0010" />
+        <line>一　海老名美濃守兼季与小野松夜叉丸幷河野</line>
+        <lb xml:id="0048_l_0011" />
+        <line>　　加賀入道性永相論近江國小野社神主職同國則永</line>
+        <lb xml:id="0048_l_0012" />
+        <line>　　名事</line>
+        <lb xml:id="0048_l_0013" />
+        <line>　兼季如訴申者於小野社神主職者小野六郎就時衆</line>
+        <lb xml:id="0048_l_0014" />
+        <line>　殺害之罪科被闕所之去應永十五年被成御下文之</line>
+        <pb n="49" />
+        <lb xml:id="0049_r_0001" />
+        <line>　處彼等違背御成敗終不去渡下地云云松夜叉丸如支</line>
+        <lb xml:id="0049_r_0002" />
+        <line>　申者海老名雖致無理之競望帯兩度安堵<hi rend="color(#ff0000)">應永廿一年同廿九年</hi></line>
+        <lb xml:id="0049_r_0003" />
+        <line>　當知行云云雖然非還補之上不申披所犯旁以紕謬令</line>
+        <lb xml:id="0049_r_0004" />
+        <line>　露顯之趣有沙汰被成下御下知於兼季畢<hi rend="color(#ff0000)">八　十八</hi><hi rend="color(#ff0000)">　</hi><hi rend="color(#ff0000)">落居</hi></line>
+        <lb xml:id="0049_r_0005" />
+        <line>　次則永名事兼季如訴状者河野依為御賀兒<hi rend="color(#ff0000)">當時帥</hi></line>
+        <lb xml:id="0049_r_0006" />
+        <line>　被官人被没収彼名雖令拜領<hi rend="color(#ff0000)">御下文同前</hi>本主於國支置之</line>
+        <lb xml:id="0049_r_0007" />
+        <line>　剰掠給御判之由訟之性永如陳状者御賀家來之跡可</line>
+        <lb xml:id="0049_r_0008" />
+        <line>　被収公所帯重科何事哉其上帯同廿二年安堵領知</line>
+        <lb xml:id="0049_l_0009" />
+        <line>　無相違之由陳之所詮彼被官之輩可被召放所領之段</line>
+        <lb xml:id="0049_l_0010" />
+        <line>　凡為不便歟雖然為其時之法申給訴人非無由緒就中</line>
+        <lb xml:id="0049_l_0011" />
+        <line>　立帰遵行之地押領之条難遁其過之旨同被經御沙汰</line>
+        <lb xml:id="0049_l_0012" />
+        <line>　被下　御判於兼季訖</line>
+        <lb xml:id="0049_l_0013" />
+        <line>
+          <date when="1431-11-13">永享三年十一月十三日</date>　散　位　貞元（花押）</line>
+        <lb xml:id="0049_l_0014" />
+        <line>　　　　　　　　　　　左衛門尉秀藤（花押）</line>
+      </p>
+      <p>
+        <pb n="50" />
+        <lb xml:id="0050_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0050_r_0002" />
+        <line>一　真如寺正脉院雑掌与法輪院相論近江國</line>
+        <lb xml:id="0050_r_0003" />
+        <line>　　甲賀蒲生兩郡堺事</line>
+        <lb xml:id="0050_r_0004" />
+        <line>　如法輪院申者山門領蒲生郡山上保當知行也仍</line>
+        <lb xml:id="0050_r_0005" />
+        <line>　中下八田村者為當保内之間可致知行云々如正脉院</line>
+        <lb xml:id="0050_r_0006" />
+        <line>　雑掌申者為甲賀郡岩根朝國内中下八田村</line>
+        <lb xml:id="0050_l_0007" />
+        <line>　多年當知行之處自山上保令越境之由申之</line>
+        <lb xml:id="0050_l_0008" />
+        <line>　所詮彼実否以湯起請為被糺決兩方地下人可</line>
+        <lb xml:id="0050_l_0009" />
+        <line>　参洛之旨就成奉書於正脉院領百姓者則令上洛</line>
+        <lb xml:id="0050_l_0010" />
+        <line>　訖至山上保地下人者背度々召文不可参決之由</line>
+        <lb xml:id="0050_l_0011" />
+        <line>　<hi rend="color(#ff0000)">雑掌状在之</hi>申切之間以違背篇雖可有御下知猶為被</line>
+        <lb xml:id="0050_l_0012" />
+        <line>　究渕底被尋問守護人之處彼中下八田村者為</line>
+        <lb xml:id="0050_l_0013" />
+        <line>　甲賀郡内正脉院數年知行之旨注進分明之上者</line>
+        <lb xml:id="0050_l_0014" />
+        <line>　不日退山上保競望可沙汰付論所於寺家雑掌</line>
+        <pb n="51" />
+        <lb xml:id="0051_r_0001" />
+        <line>　由被成御教書於守護人幷山門使節中訖</line>
+        <lb xml:id="0051_r_0002" />
+        <line>
+          <date when="1431-11-14">永享三年十一月十四日</date>　　加賀守為行（花押）</line>
+        <lb xml:id="0051_r_0003" />
+        <line>　　　　　　　　　　　右衛門尉為秀（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0051_r_0004" />
+        <line>（花押）</line>
+        <lb xml:id="0051_r_0005" />
+        <line>一　　大田七郎頼忠与日野中納言家雑掌相</line>
+        <lb xml:id="0051_r_0006" />
+        <line>　　　論攝津國大田保内所職田畠<hi rend="color(#ff0000)">畠田五郎左衛門入道浄忠跡</hi></line>
+        <lb xml:id="0051_l_0007" />
+        <line>　　　事</line>
+        <lb xml:id="0051_l_0008" />
+        <line>　對論之趣評定衆申意見訖但浄忠為罪科人</line>
+        <lb xml:id="0051_l_0009" />
+        <line>　由本所雑掌差申之上者不能御許容先</line>
+        <lb xml:id="0051_l_0010" />
+        <line>　彼地可被預置伊勢守也可沙汰付之旨可</line>
+        <lb xml:id="0051_l_0011" />
+        <line>　申付守護代也矣</line>
+        <lb xml:id="0051_l_0012" />
+        <line>
+          <date when="1431-11-15">永享三年十一月十五日</date>　左衛門尉秀藤（花押）</line>
+        <lb xml:id="0051_l_0013" />
+        <line>　　　　　　　　　　　散　位　貞元（花押）</line>
+      </p>
+      <p>
+        <pb n="52" />
+        <lb xml:id="0052_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0052_r_0002" />
+        <line>一　　　岡崎門跡雑掌与宮上野入道信雄相論</line>
+        <lb xml:id="0052_r_0003" />
+        <line>　　　　備後國安那郡安那東條<hi rend="color(#ff0000)">号御領郷</hi>地頭職事</line>
+        <lb xml:id="0052_r_0004" />
+        <line>　如信雄訴申者去應安四年令拜領之處岡崎門跡</line>
+        <lb xml:id="0052_r_0005" />
+        <line>　無謂押領之由申之如門跡雑掌支申者文和以来帯</line>
+        <lb xml:id="0052_r_0006" />
+        <line>　數通御判之處宮違乱之間度々被成御教書被弃捐</line>
+        <lb xml:id="0052_l_0007" />
+        <line>　敵方云々所詮訴論支證不及對陽為雲泥差別之上者</line>
+        <lb xml:id="0052_l_0008" />
+        <line>　被停止信雄競望任當知行之旨被成安堵　御判於門跡訖</line>
+        <lb xml:id="0052_l_0009" />
+        <line>
+          <date when="1431-11-22">永享三年十一月廿二日</date>　右衛門尉為秀（花押）</line>
+        <lb xml:id="0052_l_0010" />
+        <line>　　　　　　　　　　　　對馬守貞清（花押）</line>
+      </p>
+      <p>
+        <pb n="53" />
+        <lb xml:id="0053_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0053_r_0002" />
+        <line>一　　　望月次郎左衛門尉重長与上杦中務</line>
+        <lb xml:id="0053_r_0003" />
+        <line>　　　　少輔持憲相論近江國池原杣庄内椙谷</line>
+        <lb xml:id="0053_r_0004" />
+        <line>　　　　村地頭職事</line>
+        <lb xml:id="0053_r_0005" />
+        <line>　重長如訴申者於當村者帯正平六年御下文</line>
+        <lb xml:id="0053_r_0006" />
+        <line>　<hi rend="color(#ff0000)">案文封裏</hi>幷應永四年御判當知行之處混惣庄</line>
+        <lb xml:id="0053_l_0007" />
+        <line>　押領云云持憲如支申者以同十二年御教書案文</line>
+        <lb xml:id="0053_l_0008" />
+        <line>　一円領知云云所詮為各別地之条證文分明之</line>
+        <lb xml:id="0053_l_0009" />
+        <line>　上者止持憲違乱可沙汰付重長之由被成</line>
+        <lb xml:id="0053_l_0010" />
+        <line>　御教書訖矣</line>
+        <lb xml:id="0053_l_0011" />
+        <line>
+          <date when="1431-11-27">永享三年十一月廿七日</date>　左兵衛尉熈基（花押）</line>
+        <lb xml:id="0053_l_0012" />
+        <line>　　　　　　　　　　　　加賀守基貞（花押）</line>
+      </p>
+      <p>
+        <pb n="54" />
+        <lb xml:id="0054_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0054_r_0002" />
+        <line>一　高野山智荘嚴院雑掌与細河土左入道常仙</line>
+        <lb xml:id="0054_r_0003" />
+        <line>　　相論和泉國近木庄内八ケ権門領<hi rend="color(#ff0000)">但除内膳村</hi>事</line>
+        <lb xml:id="0054_r_0004" />
+        <line>如雑掌訴申者當所就本主之寄附帯去應永</line>
+        <lb xml:id="0054_r_0005" />
+        <line>廿年六月五日安堵當知行之處常仙掠給之條</line>
+        <lb xml:id="0054_r_0006" />
+        <line>無謂之旨言上之常仙者捧同廿三年九月八日御</line>
+        <lb xml:id="0054_l_0007" />
+        <line>下文當知行之旨論之仍被訪評定衆幷右筆</line>
+        <lb xml:id="0054_l_0008" />
+        <line>意見訖所詮常仙所給者云未施行云後日御下文</line>
+        <lb xml:id="0054_l_0009" />
+        <line>難被許容之雑掌所申非無其謂之由意見皆</line>
+        <lb xml:id="0054_l_0010" />
+        <line>同之間可被成御判於智荘嚴院也矣</line>
+        <lb xml:id="0054_l_0011" />
+        <line>
+          <date when="1431-11-30">永享三年十一月卅日</date>　對馬守貞清（花押）</line>
+        <lb xml:id="0054_l_0012" />
+        <line>　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <pb n="55" />
+        <lb xml:id="0055_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0055_r_0002" />
+        <line>一　角田兵庫助満秀与阿部筑前守重有相論</line>
+        <lb xml:id="0055_r_0003" />
+        <line>　　備中國神代事</line>
+        <lb xml:id="0055_r_0004" />
+        <line>満秀捧去明徳四年六月十一日御下文以下證文當</line>
+        <lb xml:id="0055_r_0005" />
+        <line>知行之處守護被官人押領無謂之由訴申之</line>
+        <lb xml:id="0055_r_0006" />
+        <line>間被尋問守護人之處阿部筑前守重有支状被</line>
+        <lb xml:id="0055_l_0007" />
+        <line>執進訖如重有支申者當所地頭職者相傳當知行</line>
+        <lb xml:id="0055_l_0008" />
+        <line>云々然者満秀所給御下文以後令還補否可出帯</line>
+        <lb xml:id="0055_l_0009" />
+        <line>支證之旨差日限被仰之處遁避之上者可被成下</line>
+        <lb xml:id="0055_l_0010" />
+        <line>御判於満秀也又此段申含守護人訖焉</line>
+        <lb xml:id="0055_l_0011" />
+        <line>
+          <date when="1431-12-03">永享三年十二月三日</date>　對馬守貞清（花押）</line>
+        <lb xml:id="0055_l_0012" />
+        <line>　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <pb n="56" />
+        <lb xml:id="0056_r_0001" />
+        <line>（花押）</line>
+        <lb xml:id="0056_r_0002" />
+        <line>一　山門大勸進申大講堂領近江國河上庄</line>
+        <lb xml:id="0056_r_0003" />
+        <line>　　奉行職事</line>
+        <lb xml:id="0056_r_0004" />
+        <line>如大勸進<hi rend="color(#ff0000)">寶</hi><hi rend="color(#ff0000)">福寺</hi>申者根本奉行為廿五人之</line>
+        <lb xml:id="0056_r_0005" />
+        <line>處近年為十人尚以修造常供常燈以下</line>
+        <lb xml:id="0056_r_0006" />
+        <line>無沙汰云々爰弁阿闍梨申請三口之加任</line>
+        <lb xml:id="0056_l_0007" />
+        <line>者也如當奉行十人申者支配彼得分致其</line>
+        <lb xml:id="0056_l_0008" />
+        <line>沙汰訖被加任者得分所役等可減少云々</line>
+        <lb xml:id="0056_l_0009" />
+        <line>所詮被任先例之上者於寺役者何可令</line>
+        <lb xml:id="0056_l_0010" />
+        <line>減少哉只稱申私得分歟然今被加任三口</line>
+        <lb xml:id="0056_l_0011" />
+        <line>間十三分也以殘十二口可致講堂修造之旨</line>
+        <lb xml:id="0056_l_0012" />
+        <line>被仰付大勸進如根本所被定置廿五分也</line>
+        <lb xml:id="0056_l_0013" />
+        <line>次十三口之衆造營常供常燈以下不可有</line>
+        <pb n="57" />
+        <lb xml:id="0057_r_0001" />
+        <line>無沙汰之由被成御教書訖</line>
+        <lb xml:id="0057_r_0002" />
+        <line>
+          <date when="1431-12-05">永享三年十二月五日</date>　肥前守為種（花押）</line>
+        <lb xml:id="0057_r_0003" />
+        <line>　　　　　　　　　　大和守貞連（花押）</line>
+        <lb xml:id="0057_r_0004" />
+        <line>　　　　　　　　　　加賀守為行（花押）</line>
+      </p>
+      <p>
+        <lb xml:id="0057_l_0005" />
+        <line>一建福寺雑掌与梵積都官<hi rend="color(#ff0000)">号松月菴</hi>相論</line>
+        <lb xml:id="0057_l_0006" />
+        <line>　丹後國凡海郷代官職事</line>
+        <lb xml:id="0057_l_0007" />
+        <line>如雑掌訴状者相替先規得分減少之間去</line>
+        <lb xml:id="0057_l_0008" />
+        <line>應永廿七年為糺明奉憑彼都官差遣當郷</line>
+        <lb xml:id="0057_l_0009" />
+        <line>
+          <hi rend="color(#ff0000)">※</hi>
+          <hi rend="color(#ff0000)">（二文字不明）</hi>庄主執沙汰員數同篇也而翌年好文</line>
+        <pb n="58" />
+        <lb xml:id="0058_r_0001" />
+        <line>
+          <hi rend="color(#ff0000)">※（二文字不明）</hi>令所望補任多年致知行訖爰寺納分</line>
+        <lb xml:id="0058_r_0002" />
+        <line>尚依有不審去年為寺家差下使節就尋</line>
+        <lb xml:id="0058_r_0003" />
+        <line>究地下答分参拾六石余庄主隠置之段無子細</line>
+        <lb xml:id="0058_r_0004" />
+        <line>由申之如松月菴支状者郷務職預置涯分致</line>
+        <lb xml:id="0058_r_0005" />
+        <line>粉骨年貢外二百五拾余貫文不加利平罷立</line>
+        <lb xml:id="0058_r_0006" />
+        <line>寺用者也彼借物返給被改替歟不然者當足</line>
+        <lb xml:id="0058_r_0007" />
+        <line>勘弁之間可知行之旨申之仍被尋下評定衆之</line>
+        <lb xml:id="0058_r_0008" />
+        <line>處兩方申詞雖端多三拾六石余知行之段露顯者</line>
+        <lb xml:id="0058_l_0009" />
+        <line>難遁其咎歟早云寺家負物云彼隠置分共以</line>
+        <lb xml:id="0058_l_0010" />
+        <line>被弃破之自今以後寺家可被直務之由意見訖</line>
+        <lb xml:id="0058_l_0011" />
+        <line>所詮勘状之趣無参差之上者可沙汰付下地於雑掌</line>
+        <lb xml:id="0058_l_0012" />
+        <line>旨可成御教書也矣</line>
+        <lb xml:id="0058_l_0013" />
+        <line>
+          <date when="1431-12-27">永享三年十二月廿七日</date>　　大和守貞連</line>
+        <lb xml:id="0058_l_0014" />
+        <line>　　　　　　　　　　　左衛門尉秀藤</line>
+      </p>
+      <p>
+        <pb n="59" />
+        <lb xml:id="0059_r_0001" />
+        <line>一　細河駿河守氏家与和田中務丞親直相論</line>
+        <lb xml:id="0059_r_0002" />
+        <line>　　參川國平田庄事</line>
+        <lb xml:id="0059_r_0003" />
+        <line>如氏家訴申者帯觀應二年御下文知行之處親直</line>
+        <lb xml:id="0059_r_0004" />
+        <line>父掠給之間嘉慶二年雖被召決終依不參決以違背</line>
+        <lb xml:id="0059_l_0005" />
+        <line>篇被成御下知至應永六年令知行之爰裏松家</line>
+        <lb xml:id="0059_l_0006" />
+        <line>代官稱和田由緒之地令押領之而親直混本領今度安堵</line>
+        <lb xml:id="0059_l_0007" />
+        <line>条為非分歟然者於平田庄者可被返付氏家之旨</line>
+        <lb xml:id="0059_l_0008" />
+        <line>訴之如親直支申者同觀應二年拜領<hi rend="color(#ff0000)">御下文安文封裏日付先日也</hi></line>
+        <lb xml:id="0059_l_0009" />
+        <line>已来領知無其妨者也雖然亡父依一旦之過失被召放之</line>
+        <lb xml:id="0059_l_0010" />
+        <line>明徳年中被進裏松家之處駿河守至應永六年</line>
+        <lb xml:id="0059_l_0011" />
+        <line>知行云云無跡形姧曲也就中違背御下知事曽不存知</line>
+        <lb xml:id="0059_l_0012" />
+        <line>題目旁可被任當知行之由支之所詮糺明之處於違背之</line>
+        <pb n="60" />
+        <lb xml:id="0060_r_0001" />
+        <line>科者不及子孫之由傳奏雖被勘申如評定衆等申者</line>
+        <lb xml:id="0060_r_0002" />
+        <line>被付替地於和田之後可被返下駿河守云々将又應永</line>
+        <lb xml:id="0060_r_0003" />
+        <line>六年駿河守知行之段無子細之旨守護人代氏家越前守</line>
+        <lb xml:id="0060_r_0004" />
+        <line>以罸文註進之上者奏事不實之過難遁者乎仍於</line>
+        <lb xml:id="0060_r_0005" />
+        <line>當庄者被返付氏家至親直者可被下替地之由共以被</line>
+        <lb xml:id="0060_r_0006" />
+        <line>成下御教書訖</line>
+        <lb xml:id="0060_r_0007" />
+        <line>
+          <date when="1431-12-27">永享三年十二月廿七日</date>　　散　位貞元</line>
+        <lb xml:id="0060_r_0008" />
+        <line>　　　　　　　　　　　左衛門尉秀藤</line>
+        <lb xml:id="0060_r_0009" />
+        <line>　　　　　　　　　　　　肥前守為種</line>
+      </p>
+      <p>
+        <lb xml:id="0060_l_0010" />
+        <line>一　鷹司高倉土倉本主祐言与蔵預圓憲相論</line>
+        <lb xml:id="0060_l_0011" />
+        <line>　　當所納物事</line>
+        <lb xml:id="0060_l_0012" />
+        <line>
+          <hi rend="color(#ff0000)">※（不明）</hi>祐言申状彼在所者亡父圓念興行也於納物</line>
+        <pb n="61" />
+        <lb xml:id="0061_r_0001" />
+        <line>
+          <hi rend="color(#ff0000)">※（不明）</hi>或成寺領或分親類以其利平配分之爰伯</line>
+        <lb xml:id="0061_r_0002" />
+        <line>父圓憲多年不遂勘定剰納物引失之由風聞</line>
+        <lb xml:id="0061_r_0003" />
+        <line>間依無盡期堅申伏致散用之處二千余貫</line>
+        <lb xml:id="0061_r_0004" />
+        <line>文<hi rend="color(#ff0000)">注文別紙在之</hi>令不足所詮近年搆私土倉<hi rend="color(#ff0000)">錦小路油小路</hi>之条</line>
+        <lb xml:id="0061_r_0005" />
+        <line>非無不審歟然者以彼在所不足分可預御成敗之</line>
+        <lb xml:id="0061_r_0006" />
+        <line>旨申之如圓憲支申者雖被算勘号失墜者</line>
+        <lb xml:id="0061_r_0007" />
+        <line>質高下方々借物也以質員數幷借書等令勘弁</line>
+        <lb xml:id="0061_r_0008" />
+        <line>上者無誤云々如祐言重申者以本所料足何任雅</line>
+        <lb xml:id="0061_l_0009" />
+        <line>意方々可借遣哉次高質事是又非相當之儀者</line>
+        <lb xml:id="0061_l_0010" />
+        <line>争可許容旁所申無謂之由稱之仍被尋下評定</line>
+        <lb xml:id="0061_l_0011" />
+        <line>衆同洛中沙汰来例納錢方一衆等訖鷹司土倉</line>
+        <lb xml:id="0061_l_0012" />
+        <line>失墜分彼預圓憲以私在所可返弁之段勿論也若</line>
+        <lb xml:id="0061_l_0013" />
+        <line>有余錢者可被割分合錢輩之旨申之早任衆中</line>
+        <lb xml:id="0061_l_0014" />
+        <line>意見幷洛中法例可被付祐言至余錢者可支配</line>
+        <lb xml:id="0061_l_0015" />
+        <line>合錢輩也矣</line>
+        <lb xml:id="0061_l_0016" />
+        <line>
+          <date when="1431-12-27">永享三年十二月廿七日</date>　　大和守貞連</line>
+        <pb n="62" />
+        <lb xml:id="0062_r_0001" />
+        <line>　　　　　　　　　　　左衛門尉秀藤</line>
+      </p>
+      <p>
+        <lb xml:id="0062_r_0002" />
+        <line>一　織部正員職与経師良秀相論織部司町地</line>
+        <lb xml:id="0062_r_0003" />
+        <line>　　事</line>
+        <lb xml:id="0062_r_0004" />
+        <line>彼敷地員職之祖父秀職任當官去貞治二年令</line>
+        <lb xml:id="0062_l_0005" />
+        <line>拜領此織部町致知行之處同六年経師良勝非分</line>
+        <lb xml:id="0062_l_0006" />
+        <line>申給之條無謂之旨歎申之畢爰如良秀支申者</line>
+        <lb xml:id="0062_l_0007" />
+        <line>良勝以来相傳當知行證文為連綿云云所詮就</line>
+        <lb xml:id="0062_l_0008" />
+        <line>官爵被恩補之段非無由緒乎雖然彼時代員職之</line>
+        <lb xml:id="0062_l_0009" />
+        <line>祖父秀職有罪科否勘舊記可被注申之由被</line>
+        <lb xml:id="0062_l_0010" />
+        <line>仰傳奏訖仍貞治比秀職参役數十箇年無違失</line>
+        <lb xml:id="0062_l_0011" />
+        <line>員職相續奉公仕之旨万里少路大納言廣橋中納言</line>
+        <lb xml:id="0062_l_0012" />
+        <line>各被注進之間任先日之　勅許可被返付員職</line>
+        <pb n="63" />
+        <lb xml:id="0063_r_0001" />
+        <line>仰地方頭人可被成下奉書也矣</line>
+        <lb xml:id="0063_r_0002" />
+        <line>
+          <date when="1432-03-08">永享四年三月八日</date>　左衛門尉秀藤</line>
+        <lb xml:id="0063_r_0003" />
+        <line>　　　　　　　　　　民部丞基世</line>
+      </p>
+      <p>
+        <lb xml:id="0063_r_0004" />
+        <line>一　石清水八幡宮雑掌申中村佐渡入道上月</line>
+        <lb xml:id="0063_l_0005" />
+        <line>　　大和守狼籍事</line>
+        <lb xml:id="0063_l_0006" />
+        <line>於神領播磨國西河合中村上月誅社家被官<hi rend="color(#ff0000)">郷鼻彦左衛門入道</hi></line>
+        <lb xml:id="0063_l_0007" />
+        <line>抑留年貢之由就訴申尋究之處或時彼彦九郎</line>
+        <lb xml:id="0063_l_0008" />
+        <line>入道号譜代被官人或時稱若黨親敵雖支申不足</line>
+        <lb xml:id="0063_l_0009" />
+        <line>御信用之間以湯起請可糺決之旨被仰付定日次</line>
+        <lb xml:id="0063_l_0010" />
+        <line>及三ヶ度雖觸仰中村上月終不遂其節之上者</line>
+        <lb xml:id="0063_l_0011" />
+        <line>令参差者歟此上者社領内兩人所帯被付社家之</line>
+        <lb xml:id="0063_l_0012" />
+        <line>由被成御教書訖</line>
+        <pb n="64" />
+        <lb xml:id="0064_r_0001" />
+        <line>
+          <date when="1432-04-14">永享四年四月十四日</date>　　肥前守為種</line>
+        <lb xml:id="0064_r_0002" />
+        <line>　　　　　　　　　　左衛門尉秀藤</line>
+      </p>
+      <p>
+        <lb xml:id="0064_r_0003" />
+        <line>一　疋田彦三郎長利与參河國渥美郡高足</line>
+        <lb xml:id="0064_r_0004" />
+        <line>　　郷舩形寺雑掌相論境内雲谷手洗山寺</line>
+        <lb xml:id="0064_l_0005" />
+        <line>　　三名事</line>
+        <lb xml:id="0064_l_0006" />
+        <line>如長利訴申者於彼三名者雖為寺家之境内</line>
+        <lb xml:id="0064_l_0007" />
+        <line>為高足郷内高祖父以来持來之地也殊帯去應永七年</line>
+        <lb xml:id="0064_l_0008" />
+        <line>十二月廿七日安堵幷同十七年九月十日御教書當知行之</line>
+        <lb xml:id="0064_l_0009" />
+        <line>處舩形寺又申給御判押領云々如雑掌支申者文治</line>
+        <lb xml:id="0064_l_0010" />
+        <line>四年九月十五日御寄進状以後於境内者更以無他妨者也</line>
+        <lb xml:id="0064_l_0011" />
+        <line>爰疋田雖掠給御教書<hi rend="color(#ff0000)">應永十七</hi>就歎申翌年被召返利正</line>
+        <lb xml:id="0064_l_0012" />
+        <line>
+          <hi rend="color(#ff0000)">長利亡父</hi>所給之御判被成御下知於當寺訖其時申加惣郷</line>
+        <pb n="65" />
+        <lb xml:id="0065_r_0001" />
+        <line>御判<hi rend="color(#ff0000)">應永七</hi>之条始而令存知云々所詮於境内者盡未來際</line>
+        <lb xml:id="0065_r_0002" />
+        <line>不可成他綺之旨文治御寄附状文章異于他而先申</line>
+        <lb xml:id="0065_r_0003" />
+        <line>加安堵經数年重掠申御教書之段造意之咎甚是</line>
+        <lb xml:id="0065_r_0004" />
+        <line>重尤雖可被収公惣郷以御寛宥被閣者也仍向後可</line>
+        <lb xml:id="0065_r_0005" />
+        <line>停止訴訟之由被召下長利請文之上者寺家永代可全</line>
+        <lb xml:id="0065_r_0006" />
+        <line>領知之旨被成　御判畢</line>
+        <lb xml:id="0065_r_0007" />
+        <line>
+          <date when="1432-04-26">永享四年四月廿六日</date>　散　位貞元</line>
+        <lb xml:id="0065_r_0008" />
+        <line>　　　　　　　　　　民部丞基世</line>
+      </p>
+      <p>
+        <lb xml:id="0065_l_0009" />
+        <line>一　左大臣家雑掌与赤松阿波入道性宗相論攝津</line>
+        <lb xml:id="0065_l_0010" />
+        <line>　　國福原庄領家職撿断人足公文職等事</line>
+        <lb xml:id="0065_l_0011" />
+        <line>如雑掌訴状者於當所領家職撿断人夫所職等</line>
+        <lb xml:id="0065_l_0012" />
+        <line>者本所進止之条帯貞應元年六月十一日暦應</line>
+        <lb xml:id="0065_l_0013" />
+        <line>二年九月十七日御下知為各別之處性宗為地頭</line>
+        <pb n="66" />
+        <lb xml:id="0066_r_0001" />
+        <line>令進退領家人足剰押領所職相綺撿断之段無其謂</line>
+        <lb xml:id="0066_r_0002" />
+        <line>旨申之如性宗申者至撿断人夫以下者一圓可</line>
+        <lb xml:id="0066_r_0003" />
+        <line>為地頭進退之處近年令混合之領家相共致沙汰</line>
+        <lb xml:id="0066_r_0004" />
+        <line>条非正儀之由申之間被相尋地頭進止之支證之處</line>
+        <lb xml:id="0066_r_0005" />
+        <line>捧至徳元年九月四日地頭請所御判備證文云々</line>
+        <lb xml:id="0066_r_0006" />
+        <line>難被許容者也雖然尚以被尋下法例於右筆</line>
+        <lb xml:id="0066_r_0007" />
+        <line>方之處云地頭云領家於進止之在所者共以不可相</line>
+        <lb xml:id="0066_r_0008" />
+        <line>綺之旨言上仕之間旁停止地頭違乱弥可為本所</line>
+        <lb xml:id="0066_l_0009" />
+        <line>進止之由被成　御判訖</line>
+        <lb xml:id="0066_l_0010" />
+        <line>
+          <date when="1432-06-02">永享四年六月二日</date>　加賀守為行</line>
+        <lb xml:id="0066_l_0011" />
+        <line>　　　　　　　　　加賀守基貞</line>
+      </p>
+      <p>
+        <lb xml:id="0066_l_0012" />
+        <line>一　寶幢寺雑掌與得平源太相論播磨國安田庄</line>
+        <pb n="67" />
+        <lb xml:id="0067_r_0001" />
+        <line>　　領家職内高田郷事</line>
+        <lb xml:id="0067_r_0002" />
+        <line>如寶幢寺申状者安田庄<hi rend="color(#ff0000)">五ヶ郷</hi>領家職者九條前</line>
+        <lb xml:id="0067_r_0003" />
+        <line>関白家領也彼領家職内悉以半分寄附當寺</line>
+        <lb xml:id="0067_r_0004" />
+        <line>處守護地頭毎度致其妨或勘落百姓名或抑留</line>
+        <lb xml:id="0067_r_0005" />
+        <line>本所役之間就歎申去應永廿九年十二月廿三日以彼</line>
+        <lb xml:id="0067_r_0006" />
+        <line>高田郷一圓被付寺家殘四ヶ郷領家職被付</line>
+        <lb xml:id="0067_r_0007" />
+        <line>本所<hi rend="color(#ff0000)">九条家</hi>知行之處去應永卅四年播州擾乱之刻</line>
+        <lb xml:id="0067_r_0008" />
+        <line>地頭<hi rend="color(#ff0000)">得平</hi>殺害庄主押領地下云々如地頭<hi rend="color(#ff0000)">得平</hi>申状者</line>
+        <lb xml:id="0067_l_0009" />
+        <line>根本寺家知行惣郷領家半分也止新儀任先例被</line>
+        <lb xml:id="0067_l_0010" />
+        <line>仰付可停止寺家違乱云々被尋仰意見之處如</line>
+        <lb xml:id="0067_l_0011" />
+        <line>最初寄附彼郷領家職各半分可被付寺家於</line>
+        <lb xml:id="0067_l_0012" />
+        <line>彼庄主殺害者可有御糺明之旨評定衆言上之間</line>
+        <lb xml:id="0067_l_0013" />
+        <line>如元惣郷領家各半分止地頭綺可全寺家知行</line>
+        <lb xml:id="0067_l_0014" />
+        <line>由被成　御判畢次庄主殺害事可相尋地頭之</line>
+        <lb xml:id="0067_l_0015" />
+        <line>旨被仰下之矣</line>
+        <lb xml:id="0067_l_0016" />
+        <line>
+          <date when="1432-06-11">永享四年六月十一日</date>　肥前守為種</line>
+        <pb n="68" />
+        <lb xml:id="0068_r_0001" />
+        <line>　　　　　　　　　　對馬守貞清</line>
+      </p>
+      <p>
+        <lb xml:id="0068_r_0002" />
+        <line>一　葉室浄住寺雑掌与南禪寺瑞雲庵</line>
+        <lb xml:id="0068_r_0003" />
+        <line>　　雑掌相論美濃國小瀬庄領家職事</line>
+        <lb xml:id="0068_r_0004" />
+        <line>為當寺領數年知行無相違之處瑞雲庵</line>
+        <lb xml:id="0068_r_0005" />
+        <line>雑掌混乱地頭職令押領之剰<hi rend="color(#ff0000)">應永弐十五　十　廿五</hi></line>
+        <lb xml:id="0068_l_0006" />
+        <line>申給一圓御教書雖支申室町院御寄進</line>
+        <lb xml:id="0068_l_0007" />
+        <line>状<hi rend="color(#ff0000)">弘安五　六　六</hi>幷度々證文等分明之間於領家職</line>
+        <lb xml:id="0068_l_0008" />
+        <line>者如元被返付浄住寺所被成下　御判也</line>
+        <lb xml:id="0068_l_0009" />
+        <line>
+          <date when="1432-06-14">永享四年六月十四日</date>　左衛門尉貞親</line>
+        <lb xml:id="0068_l_0010" />
+        <line>　　　　　　　　　　　民部丞基世</line>
+      </p>
+      <p>
+        <pb n="69" />
+        <lb xml:id="0069_r_0001" />
+        <line>一　岩堀三郎左衛門入道妙玄申地蔵院門跡</line>
+        <lb xml:id="0069_r_0002" />
+        <line>　　領尾張國枳豆志庄西方内垂水檜原兩</line>
+        <lb xml:id="0069_r_0003" />
+        <line>　　郷事</line>
+        <lb xml:id="0069_r_0004" />
+        <line>彼輩知行分帯洪恩院殿幷養徳院殿御充状</line>
+        <lb xml:id="0069_r_0005" />
+        <line>各領知無相違之處限妙玄知行分地蔵院殿</line>
+        <lb xml:id="0069_l_0006" />
+        <line>有御勘落之旨妙玄歎申者也雖然於地蔵院御</line>
+        <lb xml:id="0069_l_0007" />
+        <line>相傳之地者止給人知行一圓可有御領知之由被</line>
+        <lb xml:id="0069_l_0008" />
+        <line>定置歟養徳院殿御譲等事可尋申三寶院</line>
+        <lb xml:id="0069_l_0009" />
+        <line>由被　仰出訖無御譲状等之由被申御返事訖</line>
+        <lb xml:id="0069_l_0010" />
+        <line>地蔵院殿雑掌申詞同前也将又自余之輩彼</line>
+        <lb xml:id="0069_l_0011" />
+        <line>御恩地如元令知行哉否被尋申妙雲院幷御</line>
+        <lb xml:id="0069_l_0012" />
+        <line>比丘尼様實相院等之處各御知行内諸給人領知</line>
+        <lb xml:id="0069_l_0013" />
+        <line>敢以無相違之旨載御文被申御返事也此上者</line>
+        <pb n="70" />
+        <lb xml:id="0070_r_0001" />
+        <line>如元可被返付妙玄之由度々被仰出被召下</line>
+        <lb xml:id="0070_r_0002" />
+        <line>渡状也</line>
+        <lb xml:id="0070_r_0003" />
+        <line>
+          <date when="1432-06-20">永享四年六月廿日</date>　左衛門尉秀藤</line>
+        <lb xml:id="0070_r_0004" />
+        <line>　　　　　　　　　　大和守貞連</line>
+      </p>
+      <p>
+        <lb xml:id="0070_l_0005" />
+        <line>一　相國寺領山城國寺田庄与小笠原備前守</line>
+        <lb xml:id="0070_l_0006" />
+        <line>　　持長知行分同國冨野郷相論堺事</line>
+        <lb xml:id="0070_l_0007" />
+        <line>被召決兩方之刻為冨野郷沙汰召捕寺領</line>
+        <lb xml:id="0070_l_0008" />
+        <line>百姓剰一人令誅云々且云中間狼籍且云鹿苑</line>
+        <lb xml:id="0070_l_0009" />
+        <line>院殿御佛事中旁以領主難遁其咎爰</line>
+        <pb n="71" />
+        <lb xml:id="0071_r_0001" />
+        <line>持長不存知之由陳申之然者代官<hi rend="color(#ff0000)">于時庄主</hi>所行</line>
+        <lb xml:id="0071_r_0002" />
+        <line>歟不日可召進之旨被仰含訖仍致参路以湯</line>
+        <lb xml:id="0071_r_0003" />
+        <line>起請<hi rend="color(#ff0000)">其文章所詮如此題目為領主申付不致沙汰云々</hi>有糺明之處指腹白焼之</line>
+        <lb xml:id="0071_r_0004" />
+        <line>此上者咎已露顕之間尤雖可被攻公所帯就</line>
+        <lb xml:id="0071_r_0005" />
+        <line>寛宥之儀以三重野論所地可被付寺家早可</line>
+        <lb xml:id="0071_r_0006" />
+        <line>書上御教書也</line>
+        <lb xml:id="0071_r_0007" />
+        <line>
+          <date when="1432-08-12">永享四年八月十二日</date>　大和守貞連</line>
+        <lb xml:id="0071_r_0008" />
+        <line>　　　　　　　　　　對馬守貞清</line>
+        <lb xml:id="0071_l_0009" />
+        <line>　　　　　　　　　　肥前守為種</line>
+      </p>
+      <p>
+        <lb xml:id="0071_l_0010" />
+        <line>一　淺堀弥四郎頼勝申遠江國笠原庄内木根</line>
+        <lb xml:id="0071_l_0011" />
+        <line>　　南方近江國針村事</line>
+        <lb xml:id="0071_l_0012" />
+        <line>帯去應永九年九月十七日御下文之處於木根者</line>
+        <lb xml:id="0071_l_0013" />
+        <line>桃井治部少輔入道常欽令混乱惣庄押妨云々</line>
+        <pb n="72" />
+        <lb xml:id="0072_r_0001" />
+        <line>如常欽支状者去應永十八年笠原庄被成下</line>
+        <lb xml:id="0072_r_0002" />
+        <line>御判當知行云々何以一庄御判各別地可押領哉</line>
+        <lb xml:id="0072_r_0003" />
+        <line>凡雖馳過文書年記無躰不知行不便之間任</line>
+        <lb xml:id="0072_r_0004" />
+        <line>御下文如元可被返付頼勝此条去六日被施行</line>
+        <lb xml:id="0072_r_0005" />
+        <line>訖次針村御判一紙也但未施行守護令押妨進</line>
+        <lb xml:id="0072_r_0006" />
+        <line>置在中和尚之由申之就被相尋捧南禅寺</line>
+        <lb xml:id="0072_r_0007" />
+        <line>瑞雲院陳状當保者六角帯支證致知行</line>
+        <lb xml:id="0072_r_0008" />
+        <line>寄附當院云々而為<hi rend="color(#ff0000)">秀藤貞連</hi>御使被尋問守護</line>
+        <lb xml:id="0072_l_0009" />
+        <line>人之處甲賀一郡令拜領依為其内奉寄進</line>
+        <lb xml:id="0072_l_0010" />
+        <line>旨載状申之強限當所不帯支證云々是又</line>
+        <lb xml:id="0072_l_0011" />
+        <line>以前御成敗同篇也殊施行紛失之間雖有<hi rend="color(#ff0000)">※（言偏に比）</hi></line>
+        <lb xml:id="0072_l_0012" />
+        <line>謬六角於此在所雖為如形至令出帯證文者</line>
+        <lb xml:id="0072_l_0013" />
+        <line>不能左右歟一向無所見之上者争可被許容</line>
+        <lb xml:id="0072_l_0014" />
+        <line>哉然者以御判可被下頼勝也</line>
+        <lb xml:id="0072_l_0015" />
+        <line>
+          <date when="1432-08-15">永享四年八月十五日</date>　大和守貞連</line>
+        <lb xml:id="0072_l_0016" />
+        <line>　　　　　　　　　　美作守秀藤</line>
+      </p>
+      <p>
+        <pb n="73" />
+        <lb xml:id="0073_r_0001" />
+        <line>一　東南院雑掌申山城國飛鳥田事</line>
+        <lb xml:id="0073_r_0002" />
+        <line>為三輪宗領當院代々致奉行之處寶慈院</line>
+        <lb xml:id="0073_r_0003" />
+        <line>号本役毎年五百疋宛令寺納知行之更無</line>
+        <lb xml:id="0073_r_0004" />
+        <line>其謂之由就訴申被相尋寶慈院之間被進</line>
+        <lb xml:id="0073_r_0005" />
+        <line>支證之旨申之則依被召出備　上覧訖前東</line>
+        <lb xml:id="0073_l_0006" />
+        <line>南院于時木寺宮時代譲与三間上臈以後相傳</line>
+        <lb xml:id="0073_l_0007" />
+        <line>知行云々尤以合奉行雖可有御糺明為一代</line>
+        <lb xml:id="0073_l_0008" />
+        <line>門主令自専方々寄進譲与難被許容之由</line>
+        <lb xml:id="0073_l_0009" />
+        <line>先々有其沙汰之上者對東南院可書上</line>
+        <lb xml:id="0073_l_0010" />
+        <line>御判也</line>
+        <lb xml:id="0073_l_0011" />
+        <line>
+          <date when="1432-09-03">永享四年九月三日</date>　大和守貞連</line>
+      </p>
+      <p>
+        <pb n="74" />
+        <lb xml:id="0074_r_0001" />
+        <line>一　　近江國愛智下庄霊山寺与延壽寺就</line>
+        <lb xml:id="0074_r_0002" />
+        <line>　　　山林境相論領主坐禅院珎全去年十二月六日</line>
+        <lb xml:id="0074_r_0003" />
+        <line>　　　發向霊山寺事</line>
+        <lb xml:id="0074_r_0004" />
+        <line>　就霊山寺衆徒等庭中申被尋坐禅院之處</line>
+        <lb xml:id="0074_r_0005" />
+        <line>　更無發向之儀兩寺確執之間為籌策罷出云々</line>
+        <lb xml:id="0074_l_0006" />
+        <line>　如霊山寺申者先日五為合力近憐國人山徒等</line>
+        <lb xml:id="0074_l_0007" />
+        <line>　相催之由差申之間被召上与力族有御尋之處</line>
+        <lb xml:id="0074_l_0008" />
+        <line>　坐禅院子<hi rend="color(#ff0000)">知生坊實全</hi>為公方蒙仰可對治霊山寺旨</line>
+        <lb xml:id="0074_l_0009" />
+        <line>　書状分明也其外条々申詞令参差之上任右筆</line>
+        <lb xml:id="0074_l_0010" />
+        <line>　方意見為彼過怠被収公坐禅院所帯近江國</line>
+        <lb xml:id="0074_l_0011" />
+        <line>　愛智下庄訖</line>
+        <lb xml:id="0074_l_0012" />
+        <line>
+          <date when="1432-09-29">永享四年九月廿九日</date>　右衛門尉為秀</line>
+        <lb xml:id="0074_l_0013" />
+        <line>　　　　　　　　　　　對馬守貞清</line>
+      </p>
+      <p>
+        <pb n="75" />
+        <lb xml:id="0075_r_0001" />
+        <line>一　興福寺西金堂与東北院相論大和國</line>
+        <lb xml:id="0075_r_0002" />
+        <line>　　鳥見矢田事</line>
+        <lb xml:id="0075_r_0003" />
+        <line>　堂衆如申者雖帯以往之支證被押領云々</line>
+        <lb xml:id="0075_r_0004" />
+        <line>　如東北院雑掌申者元弘以来帯綸旨以下</line>
+        <lb xml:id="0075_r_0005" />
+        <line>　知行之由申之爰自中古至應永年中大乗院家</line>
+        <lb xml:id="0075_l_0006" />
+        <line>　門弟等知行之由差申者也然者云證文先日云</line>
+        <lb xml:id="0075_l_0007" />
+        <line>　申詞参差被付當寺被成御判畢</line>
+        <lb xml:id="0075_l_0008" />
+        <line>
+          <date when="1432-11-06">永享四年十一月六日</date>　肥前守為種</line>
+        <lb xml:id="0075_l_0009" />
+        <line>　　　　　　　　　　加賀守為行</line>
+      </p>
+      <p>
+        <lb xml:id="0075_l_0010" />
+        <line>一　高野山高祖院雑掌与細河陸奥守</line>
+        <pb n="76" />
+        <lb xml:id="0076_r_0001" />
+        <line>　　満經代相論和泉國土生郷地頭職三</line>
+        <lb xml:id="0076_r_0002" />
+        <line>　　分壱事</line>
+        <lb xml:id="0076_r_0003" />
+        <line>　如雑掌申者祖父顯氏為寄進地之處</line>
+        <lb xml:id="0076_r_0004" />
+        <line>　今度安堵之刻一圓押領無其謂云々</line>
+        <lb xml:id="0076_r_0005" />
+        <line>　満經代如支申者忘譜代舊好訴</line>
+        <lb xml:id="0076_r_0006" />
+        <line>　申公方条背本意間雖為少分可</line>
+        <lb xml:id="0076_r_0007" />
+        <line>　奉寄他院云々顯氏寄進之状異于他</line>
+        <lb xml:id="0076_r_0008" />
+        <line>　其子孫争可及違乱哉所詮任暦應元</line>
+        <lb xml:id="0076_l_0009" />
+        <line>　年十月九日寄附之旨可返付當院由</line>
+        <lb xml:id="0076_l_0010" />
+        <line>　所被成御教書也</line>
+        <lb xml:id="0076_l_0011" />
+        <line>
+          <date when="1432-11-26">永享四年十一月廿六日</date>　左衛門尉貞親</line>
+        <lb xml:id="0076_l_0012" />
+        <line>　　　　　　　　　　　　肥前守為種</line>
+      </p>
+      <p>
+        <lb xml:id="0076_l_0013" />
+        <line>一　南宮社雑掌与土岐鷲巣右馬頭満康</line>
+        <pb n="77" />
+        <lb xml:id="0077_r_0001" />
+        <line>　　相論美濃國垂井八間在家事</line>
+        <lb xml:id="0077_r_0002" />
+        <line>　如雑掌申者於八間在家者為社領之處</line>
+        <lb xml:id="0077_r_0003" />
+        <line>　満康混不破善正跡押領之由訴之如満康</line>
+        <lb xml:id="0077_r_0004" />
+        <line>　支申者彼八間在家事者為不破善正跡之</line>
+        <lb xml:id="0077_r_0005" />
+        <line>　由陳申之間被召決兩方證文處至件論所</line>
+        <lb xml:id="0077_r_0006" />
+        <line>　地者満康出帯所見不分明旁以所申無</line>
+        <lb xml:id="0077_r_0007" />
+        <line>　其實上者任貞治三年九月十五日御下知如</line>
+        <lb xml:id="0077_r_0008" />
+        <line>　元被成御判於社家訖</line>
+        <lb xml:id="0077_l_0009" />
+        <line>
+          <date when="1432-11-27">永享四年十一月廿七日</date>　左兵衛尉熈基</line>
+        <lb xml:id="0077_l_0010" />
+        <line>　　　　　　　　　　　右衛門尉為秀</line>
+      </p>
+      <p>
+        <lb xml:id="0077_l_0011" />
+        <line>一　神祇權大副大中臣秀直与舎兄宗直相論</line>
+        <lb xml:id="0077_l_0012" />
+        <line>　　伊勢國原庄幷冨田庄各半分事</line>
+        <lb xml:id="0077_l_0013" />
+        <line>　如秀直申者為父通直之處分帯去應永</line>
+        <pb n="78" />
+        <lb xml:id="0078_r_0001" />
+        <line>　卅五年潤三月十五日譲状之處宗直令抑留之</line>
+        <lb xml:id="0078_r_0002" />
+        <line>　如形加扶持之条難堪之由秀直申之宗直又</line>
+        <lb xml:id="0078_r_0003" />
+        <line>　於年貢者可致其沙汰至下地者可自専之</line>
+        <lb xml:id="0078_r_0004" />
+        <line>　旨論之所詮宗直之出帯譲状可持下地文言</line>
+        <lb xml:id="0078_r_0005" />
+        <line>　無之上於御糺明中間出去状訖旁不及豫儀</line>
+        <lb xml:id="0078_r_0006" />
+        <line>　歟然者云以前未進云兩所下地可去渡秀直</line>
+        <lb xml:id="0078_r_0007" />
+        <line>　由被召仰宗直訖</line>
+        <lb xml:id="0078_r_0008" />
+        <line>
+          <date when="1432-11-28">永享四年十一月廿八日</date>　對馬守貞清</line>
+        <lb xml:id="0078_l_0009" />
+        <line>　　　　　　　　　　　加賀守基貞</line>
+      </p>
+      <p>
+        <lb xml:id="0078_l_0010" />
+        <line>一　洞院家雑掌申山城國乙訓郡東方</line>
+        <lb xml:id="0078_l_0011" />
+        <line>　　間事</line>
+        <lb xml:id="0078_l_0012" />
+        <line>洞院家雑掌如申者為左馬寮領之</line>
+        <lb xml:id="0078_l_0013" />
+        <line>別納之處南都佛地院知行無謂云々即</line>
+        <pb n="79" />
+        <lb xml:id="0079_r_0001" />
+        <line>被尋仰之處菊庭家十九ヶ年沽却之</line>
+        <lb xml:id="0079_r_0002" />
+        <line>仍十余年知行之旨被申之雖然菊庭</line>
+        <lb xml:id="0079_r_0003" />
+        <line>家遺跡断絶之間彼跡悉令飛行訖然</line>
+        <lb xml:id="0079_r_0004" />
+        <line>早任證文可有知行之旨被仰出被御</line>
+        <lb xml:id="0079_r_0005" />
+        <line>書於洞院家者也矣</line>
+        <lb xml:id="0079_r_0006" />
+        <line>
+          <date when="1432-11-28">永享四年十一月廿八日</date>　肥前守為種</line>
+      </p>
+      <p>
+        <lb xml:id="0079_l_0007" />
+        <line>一　　文章博士長郷朝臣申　北野宮寺領加賀</line>
+        <lb xml:id="0079_l_0008" />
+        <line>　　　國冨墓庄号柴山預所職事</line>
+        <lb xml:id="0079_l_0009" />
+        <line>　彼庄務以建保六年官符宣募由緒可預</line>
+        <lb xml:id="0079_l_0010" />
+        <line>　上裁之旨長郷申之爰件官符宣校正之案文也</line>
+        <lb xml:id="0079_l_0011" />
+        <line>　非無御疑貽哉而就被尋下如評定衆等注申者</line>
+        <pb n="80" />
+        <lb xml:id="0080_r_0001" />
+        <line>　校正之物准據正文之段古今傍例云云将又被</line>
+        <lb xml:id="0080_r_0002" />
+        <line>　召出長案之面仁加筆引墨事是亦瑩詞嗜道</line>
+        <lb xml:id="0080_r_0003" />
+        <line>　故也尤為規模云云就中或神領之預所雖為凡</line>
+        <lb xml:id="0080_r_0004" />
+        <line>　人可被便補否或庶子断絶之時為嫡流競望</line>
+        <lb xml:id="0080_r_0005" />
+        <line>　有其謂否云彼云是及渕底御糺明者也旁以</line>
+        <lb xml:id="0080_r_0006" />
+        <line>　長郷之訴訟不為非據之趣評定衆等申上訖然者</line>
+        <lb xml:id="0080_r_0007" />
+        <line>　神用不可致無沙汰之旨被召置請文可被成下</line>
+        <lb xml:id="0080_r_0008" />
+        <line>　御判之由被　仰出矣</line>
+        <lb xml:id="0080_l_0009" />
+        <line>
+          <date when="1432-12-02">永享四年十二月二日</date>　美作守秀藤</line>
+      </p>
+      <p>
+        <lb xml:id="0080_l_0010" />
+        <line>一　　武藤与次郎用定申遠江國一宮庄代官</line>
+        <lb xml:id="0080_l_0011" />
+        <line>　　　職事</line>
+        <lb xml:id="0080_l_0012" />
+        <line>　先代官大谷豊前入道玄本雖申子細所領者可</line>
+        <lb xml:id="0080_l_0013" />
+        <line>　為領主計哉於負物者行結解之段玄本既</line>
+        <pb n="81" />
+        <lb xml:id="0081_r_0001" />
+        <line>　承伏之上者任用定申請可被成下御教書焉</line>
+        <lb xml:id="0081_r_0002" />
+        <line>
+          <date when="1432-12-02">永享四年十二月二日</date>　美作守秀藤</line>
+        <lb xml:id="0081_r_0003" />
+        <line>　　　　　　　　　　民部丞基世</line>
+      </p>
+      <p>
+        <lb xml:id="0081_r_0004" />
+        <line>一　　攝津國海光菴雑掌与宇野帯刀左衛</line>
+        <lb xml:id="0081_l_0005" />
+        <line>　　　門尉弘祐相論播磨國三木本郷内則久名事</line>
+        <lb xml:id="0081_l_0006" />
+        <line>　如雑掌申者彼名本主播磨國御家人石野太郎</line>
+        <lb xml:id="0081_l_0007" />
+        <line>　左衛門尉久名為譜代相傳地之間且成親子契約</line>
+        <lb xml:id="0081_l_0008" />
+        <line>　且為菩提應安二年十月十三日令譲与僧希胤海光菴主</line>
+        <lb xml:id="0081_l_0009" />
+        <line>　知行無相違之處永和四年十二月十二日赤松能登入道<hi rend="color(#ff0000)">今号宇野</hi></line>
+        <lb xml:id="0081_l_0010" />
+        <line>　掠給　御判押領云々如弘祐支申者石野太郎左衛門尉</line>
+        <lb xml:id="0081_l_0011" />
+        <line>　依参錦少路殿方為彼跡拜領云々然者可出帯證據之</line>
+        <lb xml:id="0081_l_0012" />
+        <line>　由被仰出之處不明申之上於石野者帯正平六年御判</line>
+        <pb n="82" />
+        <lb xml:id="0082_r_0001" />
+        <line>　以来至文和度々赤松則祐等感状炳焉也仍被尋評定</line>
+        <lb xml:id="0082_r_0002" />
+        <line>　衆意見之處海光菴所申有其謂之由言上之間被成</line>
+        <lb xml:id="0082_r_0003" />
+        <line>　還補　御判於當菴訖</line>
+        <lb xml:id="0082_r_0004" />
+        <line>
+          <date when="1432-12-17">永享四年十二月十七日</date>　右衛門尉為秀</line>
+        <lb xml:id="0082_r_0005" />
+        <line>　　　　　　　　　　　　加賀守基貞</line>
+      </p>
+      <p>
+        <lb xml:id="0082_l_0006" />
+        <line>一　建竪書記与得長蔵主相論近江國坂田郡大原</line>
+        <lb xml:id="0082_l_0007" />
+        <line>　　庄内長禅寺幷寺領等事</line>
+        <lb xml:id="0082_l_0008" />
+        <line>　彼寺者建竪舎兄佐々木近江入道善源依有異子細</line>
+        <lb xml:id="0082_l_0009" />
+        <line>　永代去渡之無他妨者也然間一期之後者令譲与得長</line>
+        <lb xml:id="0082_l_0010" />
+        <line>　侍者之處存命之中稱我物成建仁寺西来院末寺</line>
+        <pb n="83" />
+        <lb xml:id="0083_r_0001" />
+        <line>　取本院擧状當身申給安堵　御判令追出伯父建竪</line>
+        <lb xml:id="0083_r_0002" />
+        <line>　書記訖爰彼得長重望申安堵御判之處壇那大原</line>
+        <lb xml:id="0083_r_0003" />
+        <line>　判官就此寺住持職有子細之由支申之間其時被召</line>
+        <lb xml:id="0083_r_0004" />
+        <line>　出彼建竪申披之已前以得長所給　御判等下給建竪</line>
+        <lb xml:id="0083_r_0005" />
+        <line>　重被成還補　御判畢</line>
+        <lb xml:id="0083_r_0006" />
+        <line>
+          <date when="1432-12-17">永享四年十二月十七日</date>　右衛門尉為秀</line>
+        <lb xml:id="0083_r_0007" />
+        <line>　　　　　　　　　　　　美作守秀藤</line>
+      </p>
+      <p>
+        <lb xml:id="0083_l_0008" />
+        <line>一　　中西入道明重与冨少路千夜叉丸訴陳山城國</line>
+        <lb xml:id="0083_l_0009" />
+        <line>　　　小泉御厨西院散田方事</line>
+        <lb xml:id="0083_l_0010" />
+        <line>　如中西申者彼所者千夜叉丸祖父任清法印限拾</line>
+        <lb xml:id="0083_l_0011" />
+        <line>　壹ヶ年令沽却明重於参ヶ年者知行仕者也爰</line>
+        <lb xml:id="0083_l_0012" />
+        <line>　彼所南都一乗院依訴詔暫不知行之間空罷過</line>
+        <pb n="84" />
+        <lb xml:id="0084_r_0001" />
+        <line>　訖然而去年千夜叉丸令安堵之間如元雖可令知行依</line>
+        <lb xml:id="0084_r_0002" />
+        <line>　計會年貢半分可閣之由被申之延年紀重乍出</line>
+        <lb xml:id="0084_r_0003" />
+        <line>　契状其後一向不去渡云々所詮任契約之分限明重</line>
+        <lb xml:id="0084_r_0004" />
+        <line>　一圓可知行之由被仰付冨少路訖</line>
+        <lb xml:id="0084_r_0005" />
+        <line>
+          <date when="1432-12-19">永享四年十二月十九日</date>　右衛門尉為秀</line>
+        <lb xml:id="0084_r_0006" />
+        <line>　　　　　　　　　　　　美作守秀藤</line>
+      </p>
+      <p>
+        <lb xml:id="0084_l_0007" />
+        <line>一　　梶井御門跡雑掌与中西入道明重相論</line>
+        <lb xml:id="0084_l_0008" />
+        <line>　　　近江國甘呂八坂御借物事</line>
+        <lb xml:id="0084_l_0009" />
+        <line>　如中西申者向甘呂八坂御借物繁多也仍</line>
+        <lb xml:id="0084_l_0010" />
+        <line>　可有御存知之由被下御令旨之處自去年</line>
+        <lb xml:id="0084_l_0011" />
+        <line>　甘呂庄被押置之条不便之由言上之如御門</line>
+        <pb n="85" />
+        <lb xml:id="0085_r_0001" />
+        <line>　跡雑掌申者廰務冨小路号私臺所</line>
+        <lb xml:id="0085_r_0002" />
+        <line>　要脚借用也将又於福阿請取者不可承引</line>
+        <lb xml:id="0085_r_0003" />
+        <line>　應永三十四年令旨以後分可有返弁之由論之</line>
+        <lb xml:id="0085_r_0004" />
+        <line>　此条可相尋評定衆之由被仰下之間尋竟</line>
+        <lb xml:id="0085_r_0005" />
+        <line>　見處至彼令旨者可渡古今之御借物云々此</line>
+        <lb xml:id="0085_r_0006" />
+        <line>　上者於政所勘定之本利相當之間以甘呂庄</line>
+        <lb xml:id="0085_r_0007" />
+        <line>　年貢可有返弁之由被仰下訖</line>
+        <lb xml:id="0085_r_0008" />
+        <line>
+          <date when="1432-12-19">永享四年十二月十九日</date>　加賀守基貞</line>
+        <lb xml:id="0085_l_0009" />
+        <line>　　　　　　　　　　　美作守秀藤</line>
+      </p>
+      <p>
+        <lb xml:id="0085_l_0010" />
+        <line>一　　弘願院雑掌与栖霞寺々僧相論山城國</line>
+        <lb xml:id="0085_l_0011" />
+        <line>　　　西京西霞寺田事</line>
+        <lb xml:id="0085_l_0012" />
+        <line>　如雑掌申者自大覺寺御門跡為御寄進之</line>
+        <lb xml:id="0085_l_0013" />
+        <line>　地帯御判幷度々令旨知行之處去應永六年</line>
+        <pb n="86" />
+        <lb xml:id="0086_r_0001" />
+        <line>　無故押領云々如寺僧等支申者号西霞寺田</line>
+        <lb xml:id="0086_r_0002" />
+        <line>　致知行於支證者令紛失之由以長田状陳之</line>
+        <lb xml:id="0086_r_0003" />
+        <line>　雖然無文書上者旁非御沙汰之限間如元被返</line>
+        <lb xml:id="0086_r_0004" />
+        <line>　付弘願院被成　御判訖</line>
+        <lb xml:id="0086_r_0005" />
+        <line>
+          <date when="1432-12-25">永享四年十二月廿五日</date>　左兵衛尉熈基</line>
+        <lb xml:id="0086_r_0006" />
+        <line>　　　　　　　　　　　　加賀守為行</line>
+      </p>
+    </body>
+  </text>
+</TEI>
