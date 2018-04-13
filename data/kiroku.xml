@@ -43,8 +43,11 @@
   </teiHeader>
   <text>
     <body>
+      <pb n="1" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21962/full/,600/0/default.jpg" />
+      <pb n="2" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21963/full/,600/0/default.jpg" />
+      <pb n="3" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21964/full/,600/0/default.jpg" />
       <p>
-        <pb n="4" />
+        <pb n="4" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21965/full/,600/0/default.jpg" />
         <lb xml:id="0004_l_0001" />
         <line>御前落居記録　　永享二　十一　九</line>
       </p>
@@ -63,7 +66,7 @@
         </line>
         <lb xml:id="0004_l_0007" />
         <line>處相語永琳院号門跡御師以半分被寄進</line>
-        <pb n="5" />
+        <pb n="5" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21966/full/,600/0/default.jpg" />
         <lb xml:id="0005_r_0001" />
         <line>背契約押領之条歎入云々如聖護院雑掌</line>
         <lb xml:id="0005_r_0002" />
@@ -91,7 +94,7 @@
         <line>　田井郷事</line>
         <lb xml:id="0005_l_0012" />
         <line>如秀慶訴状者佐々木佐渡大夫判官入道</line>
-        <pb n="6" />
+        <pb n="6" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21967/full/,600/0/default.jpg" />
         <lb xml:id="0006_r_0001" />
         <line>導譽觀應三<hi rend="color(#ff0000)">七</hi><hi rend="color(#ff0000)">　</hi><hi rend="color(#ff0000)">廿五</hi>令寄附當宮於奉行</line>
         <lb xml:id="0006_r_0002" />
@@ -125,7 +128,7 @@
         <line>（花押）</line>
         <lb xml:id="0006_l_0015" />
         <line>一常陸房宴珎与石泉院雑掌相論近江</line>
-        <pb n="7" />
+        <pb n="7" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21968/full/,600/0/default.jpg" />
         <lb xml:id="0007_r_0001" />
         <line>　國岸下庄号清水預所職事</line>
         <lb xml:id="0007_r_0002" />
@@ -160,7 +163,7 @@
         <line>　　　　　左衛門尉秀藤（花押）</line>
       </p>
       <p>
-        <pb n="8" />
+        <pb n="8" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21969/full/,600/0/default.jpg" />
         <lb xml:id="0008_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0008_r_0002" />
@@ -190,7 +193,7 @@
         <line>　　　　　　　　　對馬守貞清（花押）</line>
       </p>
       <p>
-        <pb n="9" />
+        <pb n="9" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21970/full/,600/0/default.jpg" />
         <lb xml:id="0009_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0009_r_0002" />
@@ -229,7 +232,7 @@
         <line>　　　　　　　　　　加賀守基貞（花押）</line>
       </p>
       <p>
-        <pb n="10" />
+        <pb n="10" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21971/full/,600/0/default.jpg" />
         <lb xml:id="0010_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0010_r_0002" />
@@ -259,7 +262,7 @@
         <line>　　　　　　　　　　大和守貞連（花押）</line>
       </p>
       <p>
-        <pb n="11" />
+        <pb n="11" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21972/full/,600/0/default.jpg" />
         <lb xml:id="0011_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0011_r_0002" />
@@ -287,7 +290,7 @@
         <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
       </p>
       <p>
-        <pb n="12" />
+        <pb n="12" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21973/full/,600/0/default.jpg" />
         <lb xml:id="0012_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0012_r_0002" />
@@ -316,7 +319,7 @@
         <line>院殿御代之始不被相觸之竊秀定<hi rend="color(#ff0000)">持秀亡父</hi>掠給半</line>
         <lb xml:id="0012_l_0014" />
         <line>分<hi rend="color(#ff0000)">付号新田分</hi>御判剰及参分貮余于今押領之</line>
-        <pb n="13" />
+        <pb n="13" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21974/full/,600/0/default.jpg" />
         <lb xml:id="0013_r_0001" />
         <line>由申之如岩山陳状者彼半済去文和年中為</line>
         <lb xml:id="0013_r_0002" />
@@ -348,7 +351,7 @@
         <line>一妙法寺領<hi rend="color(#ff0000)">号穴蒲堂</hi>敷地北小路町北頬</line>
         <lb xml:id="0013_l_0014" />
         <line>　肆丁町内事</line>
-        <pb n="14" />
+        <pb n="14" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21975/full/,600/0/default.jpg" />
         <lb xml:id="0014_r_0001" />
         <line>一号六條八幡宮領分事奉行松田對馬守</line>
         <lb xml:id="0014_r_0002" />
@@ -378,7 +381,7 @@
         <line>　　　　　　　　　　對馬守貞清</line>
       </p>
       <p>
-        <pb n="15" />
+        <pb n="15" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21976/full/,600/0/default.jpg" />
         <lb xml:id="0015_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0015_r_0002" />
@@ -407,7 +410,7 @@
         <line>代高防相尋之處不去渡之段令承伏虚言之至</line>
         <lb xml:id="0015_l_0014" />
         <line>已露顕之上者所詮於當庄者可申付上乗院</line>
-        <pb n="16" />
+        <pb n="16" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21977/full/,600/0/default.jpg" />
         <lb xml:id="0016_r_0001" />
         <line>次曼陀羅寺下地任口阿弥渡状可被沙汰付之由</line>
         <lb xml:id="0016_r_0002" />
@@ -438,7 +441,7 @@
       <p>
         <lb xml:id="0016_l_0012" />
         <line>（花押）</line>
-        <pb n="17" />
+        <pb n="17" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21978/full/,600/0/default.jpg" />
         <lb xml:id="0017_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0017_r_0002" />
@@ -468,7 +471,7 @@
         <lb xml:id="0017_l_0014" />
         <line>
           <date when="1430-11-13">永享二年十一月十三日</date>　大和守貞連（花押）</line>
-        <pb n="18" />
+        <pb n="18" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21979/full/,600/0/default.jpg" />
       </p>
       <p>
         <lb xml:id="0018_r_0001" />
@@ -499,7 +502,7 @@
         <line>　雑掌相論酒鑪役事理非之</line>
         <lb xml:id="0018_l_0012" />
         <line>　段被尋仰傳奏三人訖然間</line>
-        <pb n="19" />
+        <pb n="19" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21980/full/,600/0/default.jpg" />
         <lb xml:id="0019_r_0001" />
         <line>
           <hi rend="color(#ff0000)">万里小路大納言</hi>
@@ -528,7 +531,7 @@
         <line>　取付　神輿致嗷訴之條狼籍絶常篇罪科甚不輕</line>
         <lb xml:id="0019_l_0011" />
         <line>　雖然若彼輩訴詔有其理者被免過怠為有論所於</line>
-        <pb n="20" />
+        <pb n="20" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21981/full/,600/0/default.jpg" />
         <lb xml:id="0020_r_0001" />
         <line>　御裁許今月八日夜於社務在京之宿坊召出彼代<hi rend="color(#ff0000)">祐見浄随</hi>等</line>
         <lb xml:id="0020_r_0002" />
@@ -561,7 +564,7 @@
         <line>　幷奉行人<hi rend="color(#ff0000)">為種貞元秀藤等</hi>言上仕也此上者可被付宗貞之由</line>
         <lb xml:id="0020_l_0016" />
         <line>　被　仰下訖仍就望申可被成下安堵御教書於宗貞也矣</line>
-        <pb n="21" />
+        <pb n="21" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21982/full/,600/0/default.jpg" />
         <lb xml:id="0021_r_0001" />
         <line>
           <date when="1430-12-12">永享二年十二月十二日</date>　左衛門尉秀藤（花押）</line>
@@ -594,7 +597,7 @@
         <line>尾張方之處其身逐電之間不能取返至請取</line>
         <lb xml:id="0021_l_0014" />
         <line>者返渡阿弥陀坊之時入置所領仍光聚院口入之</line>
-        <pb n="22" />
+        <pb n="22" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21983/full/,600/0/default.jpg" />
         <lb xml:id="0022_r_0001" />
         <line>間申預代官職自彼方返弁之条不及執請取</line>
         <lb xml:id="0022_r_0002" />
@@ -626,7 +629,7 @@
       <p>
         <lb xml:id="0022_l_0014" />
         <line>（花押）</line>
-        <pb n="23" />
+        <pb n="23" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21984/full/,600/0/default.jpg" />
         <lb xml:id="0023_r_0001" />
         <line>一紫野大徳寺雑掌申攝津國住吉慈恩</line>
         <lb xml:id="0023_r_0002" />
@@ -654,7 +657,7 @@
         <line>　　　　　　　　　　　加賀守基貞（花押）</line>
       </p>
       <p>
-        <pb n="24" />
+        <pb n="24" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21985/full/,600/0/default.jpg" />
         <lb xml:id="0024_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0024_r_0002" />
@@ -684,7 +687,7 @@
         <line>　　　　　　　　　　　加賀守基貞（花押）</line>
       </p>
       <p>
-        <pb n="25" />
+        <pb n="25" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21986/full/,600/0/default.jpg" />
         <line></line>
         <lb xml:id="0025_r_0001" />
         <line>（花押）</line>
@@ -713,7 +716,7 @@
         <line>（花押）</line>
       </p>
       <p>
-        <pb n="26" />
+        <pb n="26" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21987/full/,600/0/default.jpg" />
         <lb xml:id="0026_r_0001" />
         <line>一金輪院弁澄与聖行院兼睿相論南谷領近江</line>
         <lb xml:id="0026_r_0002" />
@@ -740,7 +743,7 @@
         <line>弁澄兄弟共以為彼凶徒与力随一之間被處罪過</line>
         <lb xml:id="0026_l_0013" />
         <line>為其跡明徳二年拜領以来無相違之處弁澄竊</line>
-        <pb n="27" />
+        <pb n="27" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21988/full/,600/0/default.jpg" />
         <lb xml:id="0027_r_0001" />
         <line>掠給御判立還成競望之間依支申理非糺決之程</line>
         <lb xml:id="0027_r_0002" />
@@ -773,7 +776,7 @@
         <lb xml:id="0027_l_0014" />
         <line>
           <hi rend="color(#ff0000)">※（不明）</hi>美濃國輕海郷地頭職<hi rend="color(#ff0000)">恒冨入道同庶子等跡</hi>事</line>
-        <pb n="28" />
+        <pb n="28" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21989/full/,600/0/default.jpg" />
         <lb xml:id="0028_r_0001" />
         <line>
           <hi rend="color(#ff0000)">※（不明）</hi>廣橋中納言家由緒被召出支證之處明徳</line>
@@ -806,7 +809,7 @@
       <p>
         <lb xml:id="0028_l_0014" />
         <line>一乗院家雑掌申就若宮祭礼田楽頭役</line>
-        <pb n="29" />
+        <pb n="29" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21990/full/,600/0/default.jpg" />
         <lb xml:id="0029_r_0001" />
         <line>和州門跡領所々重色十疋非重色五疋段別</line>
         <lb xml:id="0029_r_0002" />
@@ -837,7 +840,7 @@
         <lb xml:id="0029_l_0013" />
         <line>
           <hi rend="color(#ff0000)">※（不明）</hi>孫次郎申者亡父大夫次郎近吉嫁天龍寺大工</line>
-        <pb n="30" />
+        <pb n="30" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21991/full/,600/0/default.jpg" />
         <lb xml:id="0030_r_0001" />
         <line>
           <hi rend="color(#ff0000)">※（不明）</hi>圓息女是世後經數年至徳三年始而充近吉</line>
@@ -872,7 +875,7 @@
         <lb xml:id="0030_l_0016" />
         <line>
           <hi rend="color(#ff0000)">※（不明）</hi>捨其状之由申之条旁以狼籍無理之段令露顯之</line>
-        <pb n="31" />
+        <pb n="31" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21992/full/,600/0/default.jpg" />
         <lb xml:id="0031_r_0001" />
         <line>上者如元可成返補任於孫次郎之旨可申寺家之由</line>
         <lb xml:id="0031_r_0002" />
@@ -894,7 +897,7 @@
         <line>　差定五条坊門東洞院太郎五郎男之處</line>
         <lb xml:id="0031_l_0009" />
         <line>　雖為神領之内生非神人之子争令勤仕乎</line>
-        <pb n="32" />
+        <pb n="32" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21993/full/,600/0/default.jpg" />
         <lb xml:id="0032_r_0001" />
         <line>　其上　禁裏駕輿丁也云々如雑掌申者於神</line>
         <lb xml:id="0032_r_0002" />
@@ -926,7 +929,7 @@
         <line>對地頭不可有異儀地頭成敗亦無非儀之旨</line>
         <lb xml:id="0032_l_0014" />
         <line>捧請文之間四月四日可下向之由被仰付畢爰</line>
-        <pb n="33" />
+        <pb n="33" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21994/full/,600/0/default.jpg" />
         <lb xml:id="0033_r_0001" />
         <line>奥郷輩遅參之間既雖可被加治罰尚以寛</line>
         <lb xml:id="0033_r_0002" />
@@ -960,7 +963,7 @@
         <line>　十分一之由雖申之如政所寄人註申者可</line>
         <lb xml:id="0033_l_0015" />
         <line>　為一倍次十分一事不存知仕云々然者遂</line>
-        <pb n="34" />
+        <pb n="34" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21995/full/,600/0/default.jpg" />
         <lb xml:id="0034_r_0001" />
         <line>　一倍之勘定以丹波國和久庄年貢如近年可</line>
         <lb xml:id="0034_r_0002" />
@@ -988,7 +991,7 @@
         <line>　朋正信致自専任雅意令譲与聖興蔵主<hi rend="color(#ff0000)">于時知客</hi></line>
         <lb xml:id="0034_l_0012" />
         <line>　其跡常喜幷徹書記以下於于今押妨之条寺領</line>
-        <pb n="35" />
+        <pb n="35" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21996/full/,600/0/default.jpg" />
         <lb xml:id="0035_r_0001" />
         <line>　一所及失墜之由就申之被尋下常喜等召出</line>
         <lb xml:id="0035_r_0002" />
@@ -1020,7 +1023,7 @@
         <line>　源豪先師源快依有御罪科之子細為本領</line>
         <lb xml:id="0035_l_0014" />
         <line>　替父盛秀令拜領致知行之處同十九年相語</line>
-        <pb n="36" />
+        <pb n="36" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21997/full/,600/0/default.jpg" />
         <lb xml:id="0036_r_0001" />
         <line>　冨樫兵部大輔還補之条無謂之上者可被返下云々</line>
         <lb xml:id="0036_r_0002" />
@@ -1054,7 +1057,7 @@
         <line>　進之處近年神人及神事違乱申給御教書</line>
         <lb xml:id="0036_l_0015" />
         <line>　無謂知行云々如神人申者帯度々御教書當</line>
-        <pb n="37" />
+        <pb n="37" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21998/full/,600/0/default.jpg" />
         <lb xml:id="0037_r_0001" />
         <line>　知行云々所詮於神人出帯支證者皆及神事</line>
         <lb xml:id="0037_r_0002" />
@@ -1082,7 +1085,7 @@
         <line>爰去年十一月十二日以　御書被返付鷹司家訖則可</line>
         <lb xml:id="0037_l_0012" />
         <line>被成施行之處如隆信支状者為地頭進止之領家於</line>
-        <pb n="38" />
+        <pb n="38" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21999/full/,600/0/default.jpg" />
         <lb xml:id="0038_r_0001" />
         <line>下地者更不可有領家綺之由申之如雑掌重状</line>
         <lb xml:id="0038_r_0002" />
@@ -1115,7 +1118,7 @@
         <line>多去應永廿五年故介渡状者不限河邊分惣保遵行</line>
         <lb xml:id="0038_l_0016" />
         <line>上者啻對守護人被安堵思歟如此奉掠　上聞之条且</line>
-        <pb n="39" />
+        <pb n="39" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22000/full/,600/0/default.jpg" />
         <lb xml:id="0039_r_0001" />
         <line>難遁其咎且以嚴密之文章乍帯本所補任無沙汰</line>
         <lb xml:id="0039_r_0002" />
@@ -1141,7 +1144,7 @@
         <line>　寄附當院以来知行無相違之間同廿年四月十九日給</line>
         <lb xml:id="0039_l_0011" />
         <line>　安堵銘之處同年十二月十三日掠給鯰江入道明西云々爰</line>
-        <pb n="40" />
+        <pb n="40" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22001/full/,600/0/default.jpg" />
         <lb xml:id="0040_r_0001" />
         <line>　明西遺跡高真雖支申於御下文者無下名至寺家</line>
         <lb xml:id="0040_r_0002" />
@@ -1169,7 +1172,7 @@
         <line>當職刻令自専致寄進八幡宮幷若宮燈油</line>
         <lb xml:id="0040_l_0012" />
         <line>要脚於下地者偁成坊領思之条無謂之由雑掌</line>
-        <pb n="41" />
+        <pb n="41" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22002/full/,600/0/default.jpg" />
         <lb xml:id="0041_r_0001" />
         <line>申之如僧正支状者兩宮常燈断絶之間不可</line>
         <lb xml:id="0041_r_0002" />
@@ -1199,7 +1202,7 @@
           <date when="1431-08-17">永享三年八月十七日</date>　　大和守貞連（花押）</line>
         <lb xml:id="0041_l_0014" />
         <line>　　　　　　　　　　左衛門尉秀藤（花押）</line>
-        <pb n="42" />
+        <pb n="42" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22003/full/,600/0/default.jpg" />
         <lb xml:id="0042_r_0001" />
         <line>以前如此落居之處改代官申付別人堅致請文</line>
         <lb xml:id="0042_r_0002" />
@@ -1233,7 +1236,7 @@
           <date when="1431-09-06">永享三年九月六日</date>　左衛門尉秀藤</line>
       </p>
       <p>
-        <pb n="43" />
+        <pb n="43" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22004/full/,600/0/default.jpg" />
         <lb xml:id="0043_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0043_r_0002" />
@@ -1265,7 +1268,7 @@
         <line>　　　　　　　　　　對馬守貞清（花押）</line>
       </p>
       <p>
-        <pb n="44" />
+        <pb n="44" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22005/full/,600/0/default.jpg" />
         <lb xml:id="0044_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0044_r_0002" />
@@ -1294,7 +1297,7 @@
         <line>　處舊跡證據稱号所見共以無之由載状被申<hi rend="color(#ff0000)">彼状下給幸済僧都</hi></line>
         <lb xml:id="0044_l_0014" />
         <line>　争以近年之院宣壹通可被弃置相傳文書哉此上者</line>
-        <pb n="45" />
+        <pb n="45" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22006/full/,600/0/default.jpg" />
         <lb xml:id="0045_r_0001" />
         <line>　任左近将監借状被渡付彼坊於幸済僧都訖矣</line>
         <lb xml:id="0045_r_0002" />
@@ -1326,7 +1329,7 @@
         <line>　違仍去應永廿年八月十二日依幸夜叉丸訴詔被尋</line>
         <lb xml:id="0045_l_0014" />
         <line>　下一社之處殺害人子孫居神職事曽以無先規云々</line>
-        <pb n="46" />
+        <pb n="46" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22007/full/,600/0/default.jpg" />
         <lb xml:id="0046_r_0001" />
         <line>　爰松壽丸重言上於一社連署者為執行依令語</line>
         <lb xml:id="0046_r_0002" />
@@ -1360,7 +1363,7 @@
         <line>一　春日社々司与英弘相論當社御八講副曳事</line>
         <lb xml:id="0046_l_0015" />
         <line>　如社司等申者永和四年以来至應永八年寺僧</line>
-        <pb n="47" />
+        <pb n="47" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22008/full/,600/0/default.jpg" />
         <lb xml:id="0047_r_0001" />
         <line>　与社家無差別曳之云々如英弘申者為頭</line>
         <lb xml:id="0047_r_0002" />
@@ -1390,7 +1393,7 @@
         <line>　拜領甲賀郡満綱雖支申之於彼郡内他人領知</line>
         <lb xml:id="0047_l_0013" />
         <line>　繁多也何限此地可申子細哉既明徳三年</line>
-        <pb n="48" />
+        <pb n="48" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22009/full/,600/0/default.jpg" />
         <lb xml:id="0048_r_0001" />
         <line>　楢葉所給之御下文分明之上者不及豫儀若謬而</line>
         <lb xml:id="0048_r_0002" />
@@ -1422,7 +1425,7 @@
         <line>　兼季如訴申者於小野社神主職者小野六郎就時衆</line>
         <lb xml:id="0048_l_0014" />
         <line>　殺害之罪科被闕所之去應永十五年被成御下文之</line>
-        <pb n="49" />
+        <pb n="49" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22010/full/,600/0/default.jpg" />
         <lb xml:id="0049_r_0001" />
         <line>　處彼等違背御成敗終不去渡下地云云松夜叉丸如支</line>
         <lb xml:id="0049_r_0002" />
@@ -1454,7 +1457,7 @@
         <line>　　　　　　　　　　　左衛門尉秀藤（花押）</line>
       </p>
       <p>
-        <pb n="50" />
+        <pb n="50" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22011/full/,600/0/default.jpg" />
         <lb xml:id="0050_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0050_r_0002" />
@@ -1483,7 +1486,7 @@
         <line>　甲賀郡内正脉院數年知行之旨注進分明之上者</line>
         <lb xml:id="0050_l_0014" />
         <line>　不日退山上保競望可沙汰付論所於寺家雑掌</line>
-        <pb n="51" />
+        <pb n="51" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22012/full/,600/0/default.jpg" />
         <lb xml:id="0051_r_0001" />
         <line>　由被成御教書於守護人幷山門使節中訖</line>
         <lb xml:id="0051_r_0002" />
@@ -1516,7 +1519,7 @@
         <line>　　　　　　　　　　　散　位　貞元（花押）</line>
       </p>
       <p>
-        <pb n="52" />
+        <pb n="52" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22013/full/,600/0/default.jpg" />
         <lb xml:id="0052_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0052_r_0002" />
@@ -1540,7 +1543,7 @@
         <line>　　　　　　　　　　　　對馬守貞清（花押）</line>
       </p>
       <p>
-        <pb n="53" />
+        <pb n="53" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22014/full/,600/0/default.jpg" />
         <lb xml:id="0053_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0053_r_0002" />
@@ -1568,7 +1571,7 @@
         <line>　　　　　　　　　　　　加賀守基貞（花押）</line>
       </p>
       <p>
-        <pb n="54" />
+        <pb n="54" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22015/full/,600/0/default.jpg" />
         <lb xml:id="0054_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0054_r_0002" />
@@ -1596,7 +1599,7 @@
         <line>　　　　　　　　　　加賀守為行（花押）</line>
       </p>
       <p>
-        <pb n="55" />
+        <pb n="55" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22016/full/,600/0/default.jpg" />
         <lb xml:id="0055_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0055_r_0002" />
@@ -1624,7 +1627,7 @@
         <line>　　　　　　　　　　加賀守為行（花押）</line>
       </p>
       <p>
-        <pb n="56" />
+        <pb n="56" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22017/full/,600/0/default.jpg" />
         <lb xml:id="0056_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0056_r_0002" />
@@ -1651,7 +1654,7 @@
         <line>被仰付大勸進如根本所被定置廿五分也</line>
         <lb xml:id="0056_l_0013" />
         <line>次十三口之衆造營常供常燈以下不可有</line>
-        <pb n="57" />
+        <pb n="57" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22018/full/,600/0/default.jpg" />
         <lb xml:id="0057_r_0001" />
         <line>無沙汰之由被成御教書訖</line>
         <lb xml:id="0057_r_0002" />
@@ -1675,7 +1678,7 @@
         <line>
           <hi rend="color(#ff0000)">※</hi>
           <hi rend="color(#ff0000)">（二文字不明）</hi>庄主執沙汰員數同篇也而翌年好文</line>
-        <pb n="58" />
+        <pb n="58" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22019/full/,600/0/default.jpg" />
         <lb xml:id="0058_r_0001" />
         <line>
           <hi rend="color(#ff0000)">※（二文字不明）</hi>令所望補任多年致知行訖爰寺納分</line>
@@ -1708,7 +1711,7 @@
         <line>　　　　　　　　　　　左衛門尉秀藤</line>
       </p>
       <p>
-        <pb n="59" />
+        <pb n="59" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22020/full/,600/0/default.jpg" />
         <lb xml:id="0059_r_0001" />
         <line>一　細河駿河守氏家与和田中務丞親直相論</line>
         <lb xml:id="0059_r_0002" />
@@ -1733,7 +1736,7 @@
         <line>知行云云無跡形姧曲也就中違背御下知事曽不存知</line>
         <lb xml:id="0059_l_0012" />
         <line>題目旁可被任當知行之由支之所詮糺明之處於違背之</line>
-        <pb n="60" />
+        <pb n="60" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22021/full/,600/0/default.jpg" />
         <lb xml:id="0060_r_0001" />
         <line>科者不及子孫之由傳奏雖被勘申如評定衆等申者</line>
         <lb xml:id="0060_r_0002" />
@@ -1762,7 +1765,7 @@
         <lb xml:id="0060_l_0012" />
         <line>
           <hi rend="color(#ff0000)">※（不明）</hi>祐言申状彼在所者亡父圓念興行也於納物</line>
-        <pb n="61" />
+        <pb n="61" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22022/full/,600/0/default.jpg" />
         <lb xml:id="0061_r_0001" />
         <line>
           <hi rend="color(#ff0000)">※（不明）</hi>或成寺領或分親類以其利平配分之爰伯</line>
@@ -1797,7 +1800,7 @@
         <lb xml:id="0061_l_0016" />
         <line>
           <date when="1431-12-27">永享三年十二月廿七日</date>　　大和守貞連</line>
-        <pb n="62" />
+        <pb n="62" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22023/full/,600/0/default.jpg" />
         <lb xml:id="0062_r_0001" />
         <line>　　　　　　　　　　　左衛門尉秀藤</line>
       </p>
@@ -1824,7 +1827,7 @@
         <line>員職相續奉公仕之旨万里少路大納言廣橋中納言</line>
         <lb xml:id="0062_l_0012" />
         <line>各被注進之間任先日之　勅許可被返付員職</line>
-        <pb n="63" />
+        <pb n="63" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22024/full/,600/0/default.jpg" />
         <lb xml:id="0063_r_0001" />
         <line>仰地方頭人可被成下奉書也矣</line>
         <lb xml:id="0063_r_0002" />
@@ -1852,7 +1855,7 @@
         <line>令参差者歟此上者社領内兩人所帯被付社家之</line>
         <lb xml:id="0063_l_0012" />
         <line>由被成御教書訖</line>
-        <pb n="64" />
+        <pb n="64" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22025/full/,600/0/default.jpg" />
         <lb xml:id="0064_r_0001" />
         <line>
           <date when="1432-04-14">永享四年四月十四日</date>　　肥前守為種</line>
@@ -1881,7 +1884,7 @@
         <lb xml:id="0064_l_0012" />
         <line>
           <hi rend="color(#ff0000)">長利亡父</hi>所給之御判被成御下知於當寺訖其時申加惣郷</line>
-        <pb n="65" />
+        <pb n="65" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22026/full/,600/0/default.jpg" />
         <lb xml:id="0065_r_0001" />
         <line>御判<hi rend="color(#ff0000)">應永七</hi>之条始而令存知云々所詮於境内者盡未來際</line>
         <lb xml:id="0065_r_0002" />
@@ -1911,7 +1914,7 @@
         <line>者本所進止之条帯貞應元年六月十一日暦應</line>
         <lb xml:id="0065_l_0013" />
         <line>二年九月十七日御下知為各別之處性宗為地頭</line>
-        <pb n="66" />
+        <pb n="66" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22027/full/,600/0/default.jpg" />
         <lb xml:id="0066_r_0001" />
         <line>令進退領家人足剰押領所職相綺撿断之段無其謂</line>
         <lb xml:id="0066_r_0002" />
@@ -1939,7 +1942,7 @@
       <p>
         <lb xml:id="0066_l_0012" />
         <line>一　寶幢寺雑掌與得平源太相論播磨國安田庄</line>
-        <pb n="67" />
+        <pb n="67" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22028/full/,600/0/default.jpg" />
         <lb xml:id="0067_r_0001" />
         <line>　　領家職内高田郷事</line>
         <lb xml:id="0067_r_0002" />
@@ -1973,7 +1976,7 @@
         <lb xml:id="0067_l_0016" />
         <line>
           <date when="1432-06-11">永享四年六月十一日</date>　肥前守為種</line>
-        <pb n="68" />
+        <pb n="68" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22029/full/,600/0/default.jpg" />
         <lb xml:id="0068_r_0001" />
         <line>　　　　　　　　　　對馬守貞清</line>
       </p>
@@ -1999,7 +2002,7 @@
         <line>　　　　　　　　　　　民部丞基世</line>
       </p>
       <p>
-        <pb n="69" />
+        <pb n="69" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22030/full/,600/0/default.jpg" />
         <lb xml:id="0069_r_0001" />
         <line>一　岩堀三郎左衛門入道妙玄申地蔵院門跡</line>
         <lb xml:id="0069_r_0002" />
@@ -2026,7 +2029,7 @@
         <line>比丘尼様實相院等之處各御知行内諸給人領知</line>
         <lb xml:id="0069_l_0013" />
         <line>敢以無相違之旨載御文被申御返事也此上者</line>
-        <pb n="70" />
+        <pb n="70" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22031/full/,600/0/default.jpg" />
         <lb xml:id="0070_r_0001" />
         <line>如元可被返付妙玄之由度々被仰出被召下</line>
         <lb xml:id="0070_r_0002" />
@@ -2048,7 +2051,7 @@
         <line>百姓剰一人令誅云々且云中間狼籍且云鹿苑</line>
         <lb xml:id="0070_l_0009" />
         <line>院殿御佛事中旁以領主難遁其咎爰</line>
-        <pb n="71" />
+        <pb n="71" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22032/full/,600/0/default.jpg" />
         <lb xml:id="0071_r_0001" />
         <line>持長不存知之由陳申之然者代官<hi rend="color(#ff0000)">于時庄主</hi>所行</line>
         <lb xml:id="0071_r_0002" />
@@ -2078,7 +2081,7 @@
         <line>帯去應永九年九月十七日御下文之處於木根者</line>
         <lb xml:id="0071_l_0013" />
         <line>桃井治部少輔入道常欽令混乱惣庄押妨云々</line>
-        <pb n="72" />
+        <pb n="72" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22033/full/,600/0/default.jpg" />
         <lb xml:id="0072_r_0001" />
         <line>如常欽支状者去應永十八年笠原庄被成下</line>
         <lb xml:id="0072_r_0002" />
@@ -2114,7 +2117,7 @@
         <line>　　　　　　　　　　美作守秀藤</line>
       </p>
       <p>
-        <pb n="73" />
+        <pb n="73" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22034/full/,600/0/default.jpg" />
         <lb xml:id="0073_r_0001" />
         <line>一　東南院雑掌申山城國飛鳥田事</line>
         <lb xml:id="0073_r_0002" />
@@ -2140,7 +2143,7 @@
           <date when="1432-09-03">永享四年九月三日</date>　大和守貞連</line>
       </p>
       <p>
-        <pb n="74" />
+        <pb n="74" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22035/full/,600/0/default.jpg" />
         <lb xml:id="0074_r_0001" />
         <line>一　　近江國愛智下庄霊山寺与延壽寺就</line>
         <lb xml:id="0074_r_0002" />
@@ -2170,7 +2173,7 @@
         <line>　　　　　　　　　　　對馬守貞清</line>
       </p>
       <p>
-        <pb n="75" />
+        <pb n="75" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22036/full/,600/0/default.jpg" />
         <lb xml:id="0075_r_0001" />
         <line>一　興福寺西金堂与東北院相論大和國</line>
         <lb xml:id="0075_r_0002" />
@@ -2194,7 +2197,7 @@
       <p>
         <lb xml:id="0075_l_0010" />
         <line>一　高野山高祖院雑掌与細河陸奥守</line>
-        <pb n="76" />
+        <pb n="76" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22037/full/,600/0/default.jpg" />
         <lb xml:id="0076_r_0001" />
         <line>　　満經代相論和泉國土生郷地頭職三</line>
         <lb xml:id="0076_r_0002" />
@@ -2224,7 +2227,7 @@
       <p>
         <lb xml:id="0076_l_0013" />
         <line>一　南宮社雑掌与土岐鷲巣右馬頭満康</line>
-        <pb n="77" />
+        <pb n="77" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22038/full/,600/0/default.jpg" />
         <lb xml:id="0077_r_0001" />
         <line>　　相論美濃國垂井八間在家事</line>
         <lb xml:id="0077_r_0002" />
@@ -2254,7 +2257,7 @@
         <line>　　伊勢國原庄幷冨田庄各半分事</line>
         <lb xml:id="0077_l_0013" />
         <line>　如秀直申者為父通直之處分帯去應永</line>
-        <pb n="78" />
+        <pb n="78" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22039/full/,600/0/default.jpg" />
         <lb xml:id="0078_r_0001" />
         <line>　卅五年潤三月十五日譲状之處宗直令抑留之</line>
         <lb xml:id="0078_r_0002" />
@@ -2284,7 +2287,7 @@
         <line>洞院家雑掌如申者為左馬寮領之</line>
         <lb xml:id="0078_l_0013" />
         <line>別納之處南都佛地院知行無謂云々即</line>
-        <pb n="79" />
+        <pb n="79" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22040/full/,600/0/default.jpg" />
         <lb xml:id="0079_r_0001" />
         <line>被尋仰之處菊庭家十九ヶ年沽却之</line>
         <lb xml:id="0079_r_0002" />
@@ -2310,7 +2313,7 @@
         <line>　上裁之旨長郷申之爰件官符宣校正之案文也</line>
         <lb xml:id="0079_l_0011" />
         <line>　非無御疑貽哉而就被尋下如評定衆等注申者</line>
-        <pb n="80" />
+        <pb n="80" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22041/full/,600/0/default.jpg" />
         <lb xml:id="0080_r_0001" />
         <line>　校正之物准據正文之段古今傍例云云将又被</line>
         <lb xml:id="0080_r_0002" />
@@ -2340,7 +2343,7 @@
         <line>　先代官大谷豊前入道玄本雖申子細所領者可</line>
         <lb xml:id="0080_l_0013" />
         <line>　為領主計哉於負物者行結解之段玄本既</line>
-        <pb n="81" />
+        <pb n="81" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22042/full/,600/0/default.jpg" />
         <lb xml:id="0081_r_0001" />
         <line>　承伏之上者任用定申請可被成下御教書焉</line>
         <lb xml:id="0081_r_0002" />
@@ -2368,7 +2371,7 @@
         <line>　依参錦少路殿方為彼跡拜領云々然者可出帯證據之</line>
         <lb xml:id="0081_l_0012" />
         <line>　由被仰出之處不明申之上於石野者帯正平六年御判</line>
-        <pb n="82" />
+        <pb n="82" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22043/full/,600/0/default.jpg" />
         <lb xml:id="0082_r_0001" />
         <line>　以来至文和度々赤松則祐等感状炳焉也仍被尋評定</line>
         <lb xml:id="0082_r_0002" />
@@ -2392,7 +2395,7 @@
         <line>　永代去渡之無他妨者也然間一期之後者令譲与得長</line>
         <lb xml:id="0082_l_0010" />
         <line>　侍者之處存命之中稱我物成建仁寺西来院末寺</line>
-        <pb n="83" />
+        <pb n="83" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22044/full/,600/0/default.jpg" />
         <lb xml:id="0083_r_0001" />
         <line>　取本院擧状當身申給安堵　御判令追出伯父建竪</line>
         <lb xml:id="0083_r_0002" />
@@ -2420,7 +2423,7 @@
         <line>　壹ヶ年令沽却明重於参ヶ年者知行仕者也爰</line>
         <lb xml:id="0083_l_0012" />
         <line>　彼所南都一乗院依訴詔暫不知行之間空罷過</line>
-        <pb n="84" />
+        <pb n="84" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22045/full/,600/0/default.jpg" />
         <lb xml:id="0084_r_0001" />
         <line>　訖然而去年千夜叉丸令安堵之間如元雖可令知行依</line>
         <lb xml:id="0084_r_0002" />
@@ -2446,7 +2449,7 @@
         <line>　可有御存知之由被下御令旨之處自去年</line>
         <lb xml:id="0084_l_0011" />
         <line>　甘呂庄被押置之条不便之由言上之如御門</line>
-        <pb n="85" />
+        <pb n="85" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22046/full/,600/0/default.jpg" />
         <lb xml:id="0085_r_0001" />
         <line>　跡雑掌申者廰務冨小路号私臺所</line>
         <lb xml:id="0085_r_0002" />
@@ -2476,7 +2479,7 @@
         <line>　如雑掌申者自大覺寺御門跡為御寄進之</line>
         <lb xml:id="0085_l_0013" />
         <line>　地帯御判幷度々令旨知行之處去應永六年</line>
-        <pb n="86" />
+        <pb n="86" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22047/full/,600/0/default.jpg" />
         <lb xml:id="0086_r_0001" />
         <line>　無故押領云々如寺僧等支申者号西霞寺田</line>
         <lb xml:id="0086_r_0002" />
@@ -2491,6 +2494,11 @@
         <lb xml:id="0086_r_0006" />
         <line>　　　　　　　　　　　　加賀守為行</line>
       </p>
+      <pb n="87" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22048/full/,600/0/default.jpg" />
+      <pb n="88" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22049/full/,600/0/default.jpg" />
+      <pb n="89" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22050/full/,600/0/default.jpg" />
+      <pb n="90" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22051/full/,600/0/default.jpg" />
+      <pb n="91" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22052/full/,600/0/default.jpg" />
     </body>
   </text>
 </TEI>
