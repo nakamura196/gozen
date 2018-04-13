@@ -28,6 +28,11 @@ structures = []
 
 for p in list(body):
 
+    es = list(p)
+    if len(es) > 0:
+        if es[0].tag == "{http://www.tei-c.org/ns/1.0}pb":
+            page_array = []
+
     text_sum = ""
 
     title = ""
@@ -70,7 +75,7 @@ for p in list(body):
             st["canvases"].append("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+n)
         st["@id"] = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/c"+str(count)
         st["@type"] = "sc:Range"
-        st["label"] = dateStr + " : " + title
+        st["label"] = date.text+"（"+dateStr+"）: " + title
 
         count += 1
 
