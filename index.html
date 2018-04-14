@@ -7,7 +7,6 @@
   <meta name="author" content="">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css"/>
 
   <link rel="stylesheet" type="text/css" href="//getbootstrap.com/docs/4.1/examples/album/album.css"/>
 
@@ -26,66 +25,53 @@
       </div>
     </section>
 
-    <div class="text-center" id="loading">
-      <img src="//upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"/>
-    </div>
-
     <div class="album py-5 bg-light">
-
       <div class="container">
 
-        <div class="card mb-4 box-shadow">
-          <div class="card-body">
-            <form>
-
-              <div class="form-group row">
-                <label for="inputEmail3" class="col-sm-2 col-form-label">Text</label>
-                <div class="col-sm-10">
-                  <input type="text" class="form-control" name="text" id="text">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card mb-4 box-shadow">
+              <img class="card-img-top" src="assets/images/histgram.png">
+              <div class="card-body">
+                <p class="card-text">Application to visualize the number of litigations by month</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                      <a class="btn btn-sm btn-outline-secondary" href="https://nakamura196.github.io/gozen/histgram.html">View</a>
+                  </div>
                 </div>
               </div>
-              <div class="form-group row">
-                <div class="col-sm-10">
-                  <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i>&nbsp;Search</button>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 box-shadow">
+              <img class="card-img-top" src="assets/images/timeline.png">
+              <div class="card-body">
+                <p class="card-text">Convert into the timeline with Google Sheets and Timeline JS</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <a class="btn btn-sm btn-outline-secondary" href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rOaKd9WRRI4kMiihQvYw-UgbIek6gXy3iml_CSWhzww&lang=ja&initial_zoom=0&height=650">View</a>
+                    <a class="btn btn-sm btn-outline-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVZnWhsE1eVf8yyoOaZ-o8T-VdElN5mZVqsavOFWyF9JaWIv88Rn_NA02acOix7yBBxAlJJFtWyYpJ/pubhtml">Sheets</a>
+                  </div>
                 </div>
               </div>
-            </form>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 box-shadow">
+              <img class="card-img-top" src="assets/images/iiif.png">
+              <div class="card-body">
+                <p class="card-text">Convert into the structure information of IIIF manifest</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <a class="btn btn-sm btn-outline-secondary" href="https://nakamura196.github.io/gozen/mirador/?manifest=https://nakamura196.github.io/gozen/data/manifest.json">View</a>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-
-        <div class="card mb-4 box-shadow">
-          <div class="card-body">
-            <table class="table table-hover" id="table">
-              <thead id="thead">
-                <tr>
-                  <th></th>
-                  <th>Headline</th>
-                  <th>Text</th>
-                  <th>Date</th>
-                  <th></th>
-                </tr>
-              </thead>
-              <tbody id="resourceListBody">
-              </tbody>
-            </table>
-          </div>
-        </div>
-
-        <div class="card mb-4 box-shadow">
-          <div class="card-body">
-            <div id="container4month" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-          </div>
-        </div>
-
-        <div class="card mb-4 box-shadow">
-          <div class="card-body">
-            <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-          </div>
-        </div>
-        
       </div>
     </div>
-
   </main>
 
   <footer class="text-muted">
@@ -99,217 +85,5 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
-  <script type="text/javascript" src="//cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
-
-
-  <script src="//code.highcharts.com/highcharts.js"></script>
-
-  <script>
-
-  var arg  = new Object;
-  url = location.search.substring(1).split('&');
-
-  for(i=0; url[i]; i++) {
-    var k = url[i].split('=');
-    arg[k[0]] = decodeURIComponent(k[1]);
-  }
-
-  var text = arg["text"] != null ? arg["text"] : "";
-  $("#text").val(text);
-
-  jQuery(document).ready(function() {
-
-    jQuery.ajaxSetup({
-      cache : false
-    });
-
-    search()
-
-  });
-
-  function search() {
-
-    var query = " SELECT * ";
-    query += " where { ";
-
-    query += " ?s dc11:title ?title . ";
-    query += " ?s dc11:description ?description . ";
-    if(text != ""){
-      query += " filter regex ( ?description , '"+text+"' , 'i' ) . ";
-    }
-    query += " ?s dc11:date ?date . ";
-    //query += " ?s ex:person ?person . ";
-    query += " } order by ?date "
-
-    $.ajax({
-      url:'https://dydra.com/ut-digital-archives/gozen/sparql',
-      type:'POST',
-      data:{
-        query : query,
-        format : "json"
-      }
-    })
-    // Ajaxリクエストが成功した時発動
-    .done( (data) => {
-      var result = data.results.bindings;
-
-      var tmp = new Array();
-
-      var tbody = $("#resourceListBody");
-
-      dates = new Object()
-      monthes = new Object()
-
-      for (var i = 0; i < result.length; i++) {
-        var obj = result[i];
-
-        var tr = $("<tr>");
-        tbody.append(tr);
-
-        var td = $("<td>");
-        tr.append(td);
-
-        td = $("<td>");
-        tr.append(td);
-        td.append(obj.title.value);
-
-        td = $("<td>");
-        tr.append(td);
-        td.append(obj.description.value);
-
-        var date = obj.date.value
-
-        td = $("<td>");
-        tr.append(td);
-        td.append(date);
-
-        if(!dates[date]){
-          dates[date] = 0
-        }
-        dates[date] = dates[date] + 1
-
-        month = date.split("-")[0]+"-"+date.split("-")[1]
-        if(!monthes[month]){
-          monthes[month] = 0
-        }
-        monthes[month] = monthes[month] + 1
-
-        td = $("<td>");
-        tr.append(td);
-
-        var a = $("<a>");
-        td.append(a);
-        a.attr("class", "btn btn-secondary")
-        a.attr("target", "_blank")
-        a.attr("href", "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/law/document/d507a810-cff7-4168-bc10-70a32a55920f");
-        a.append("画像")
-      }
-
-      categories = []
-      data = []
-      for(key in dates){
-        categories.push(key)
-        data.push(dates[key])
-      }
-
-      categories4month = []
-      data4month = []
-      for(key in monthes){
-        categories4month.push(key)
-        data4month.push(monthes[key])
-      }
-
-      Highcharts.chart('container', {
-        chart: {
-          type: 'column'
-        },
-        title: {
-          text: 'Timeline by Day'
-        },
-        xAxis: {
-          categories: categories,
-          crosshair: true
-        },
-        yAxis: {
-          min: 0,
-          title: {
-            text: 'Number'
-          }
-        },
-        tooltip: {
-          shared: true,
-          useHTML: true
-        },
-        plotOptions: {
-          column: {
-            pointPadding: 0.2,
-            borderWidth: 0
-          }
-        },
-        series: [{
-          name: 'Record',
-          data: data
-        }]
-      });
-
-      Highcharts.chart('container4month', {
-        chart: {
-          type: 'column'
-        },
-        title: {
-          text: 'Timeline by Month'
-        },
-        xAxis: {
-          categories: categories4month,
-          crosshair: true
-        },
-        yAxis: {
-          min: 0,
-          title: {
-            text: 'Number'
-          }
-        },
-        tooltip: {
-          shared: true,
-          useHTML: true
-        },
-        plotOptions: {
-          column: {
-            pointPadding: 0.2,
-            borderWidth: 0
-          }
-        },
-        series: [{
-          name: 'Record',
-          data: data4month
-        }]
-      });
-
-      // DataTable
-      var table = $('#table').DataTable({
-        "iDisplayLength" : 10,
-        "order" : [ [ 3, "asc" ] ]
-      });
-
-      table.on('order.dt search.dt', function() {
-        table.column(0, {
-          search : 'applied',
-          order : 'applied'
-        }).nodes().each(function(cell, i) {
-          cell.innerHTML = i + 1;
-        });
-      }).draw();
-    })
-    // Ajaxリクエストが失敗した時発動
-    .fail( (data) => {
-      alert(data.statusText);
-    })
-    // Ajaxリクエストが成功・失敗どちらでも発動
-    .always( (data) => {
-      $("#loading").empty()
-    });
-  }
-</script>
 </body>
 </html>
