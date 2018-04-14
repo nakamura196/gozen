@@ -158,7 +158,7 @@
         <lb xml:id="0007_l_0014" />
         <line>被成下御教書也焉</line>
         <lb xml:id="0007_l_0015" />
-        <line>同　日　　　大和守貞連（花押）</line>
+        <line><date when="1430-09-03">同　日</date>　　　大和守貞連（花押）</line>
         <lb xml:id="0007_l_0016" />
         <line>　　　　　左衛門尉秀藤（花押）</line>
       </p>
@@ -688,7 +688,6 @@
       </p>
       <p>
         <pb n="25" facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/21986/full/,600/0/default.jpg" />
-        <line></line>
         <lb xml:id="0025_r_0001" />
         <line>（花押）</line>
         <lb xml:id="0025_r_0002" />

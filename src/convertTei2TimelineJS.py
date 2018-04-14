@@ -50,8 +50,10 @@ with open(outputpath, 'w', encoding='shift_jis', errors='replace') as f:
                     text = line.text
                     if i == 0:
                         title = text
-                        if title == "（花押）":
+                        if title.find("花押") > -1:
                             title = lines[i+1].text
+                            if title.find("花押") > -1:
+                                title = lines[i+2].text
 
                     text_sum += text + "<br/>\r\n"
 
@@ -80,6 +82,8 @@ with open(outputpath, 'w', encoding='shift_jis', errors='replace') as f:
             caption = "<a href=\"https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/manifest.json&canvasID="+canvasId+"\">御前落居記録 p."+start_page+"</a>"
 
             text_sum += "<br/>" + caption
+
+            title = str(count)+": "+title
 
             line = []
             line.append(title)

@@ -47,8 +47,10 @@ for p in list(body):
                 text = line.text
                 if i == 0:
                     title = text
-                    if title == "（花押）":
+                    if title.find("花押") > -1:
                         title = lines[i+1].text
+                        if title.find("花押") > -1:
+                            title = lines[i+2].text
 
                 text_sum += text + "\r\n"
 
@@ -75,7 +77,7 @@ for p in list(body):
             st["canvases"].append("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+n)
         st["@id"] = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/c"+str(count)
         st["@type"] = "sc:Range"
-        st["label"] = date.text+"（"+dateStr+"）: " + title
+        st["label"] = str(count)+": "+date.text+"（"+dateStr+"）: " + title
 
         count += 1
 

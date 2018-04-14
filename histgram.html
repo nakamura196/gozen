@@ -82,7 +82,7 @@
             <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
           </div>
         </div>
-        
+
       </div>
     </div>
 
@@ -139,6 +139,7 @@
       query += " filter regex ( ?description , '"+text+"' , 'i' ) . ";
     }
     query += " ?s dc11:date ?date . ";
+    query += " ?s dc11:relation ?url . ";
     //query += " ?s ex:person ?person . ";
     query += " } order by ?date "
 
@@ -202,7 +203,7 @@
         td.append(a);
         a.attr("class", "btn btn-secondary")
         a.attr("target", "_blank")
-        a.attr("href", "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/law/document/d507a810-cff7-4168-bc10-70a32a55920f");
+        a.attr("href", obj.url.value);
         a.append("画像")
       }
 
