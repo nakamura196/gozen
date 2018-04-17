@@ -21,8 +21,8 @@
 
     <section class="jumbotron text-center">
       <div class="container">
-        <h1 class="jumbotron-heading">御前落居記録</h1>
-        <p class="lead text-muted">TEI Usage Demo<br/><a href="http://tapasproject.org/tapas-commons/files/御前落居記録">http://tapasproject.org/tapas-commons/files/御前落居記録</a></p>
+        <h1 class="jumbotron-heading">TEI Usage Demo</h1>
+        <p class="lead text-muted">Application to visualize the number of litigations by month</p>
       </div>
     </section>
 
@@ -45,6 +45,16 @@
                 </div>
               </div>
               <div class="form-group row">
+                <label for="inputEmail3" class="col-sm-2 col-form-label">Subject</label>
+                <div class="col-sm-10">
+                  <select class="form-control" name="subject" id="subject">
+                    <option></option>
+                    <option value="kiroku">御前落居記録</option>
+                    <option value="hosyo">御前落居奉書</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group row">
                 <div class="col-sm-10">
                   <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i>&nbsp;Search</button>
                 </div>
@@ -60,6 +70,7 @@
                 <tr>
                   <th></th>
                   <th>Headline</th>
+                  <th>Subject</th>
                   <th>Text</th>
                   <th>Date</th>
                   <th></th>
@@ -107,6 +118,10 @@
 
   <script>
 
+  var map = new Object()
+  map["kiroku"] = "御前落居記録"
+  map["hosyo"] = "御前落居奉書"
+
   var arg  = new Object;
   url = location.search.substring(1).split('&');
 
@@ -117,6 +132,9 @@
 
   var text = arg["text"] != null ? arg["text"] : "";
   $("#text").val(text);
+
+  var subject = arg["subject"] != null ? arg["subject"] : "";
+  $("#subject").val(subject);
 
   jQuery(document).ready(function() {
 
@@ -131,6 +149,8 @@
   function search() {
 
     var query = " SELECT * ";
+    query += " from <http://example.org/kiroku/> ";
+    query += " from <http://example.org/hosyo/> ";
     query += " where { ";
 
     query += " ?s dc11:title ?title . ";
@@ -140,7 +160,10 @@
     }
     query += " ?s dc11:date ?date . ";
     query += " ?s dc11:relation ?url . ";
-    //query += " ?s ex:person ?person . ";
+    query += " ?s dc11:subject ?subject . ";
+    if(subject != ""){
+      query += " filter regex ( ?subject , '"+subject+"' , 'i' ) . ";
+    }
     query += " } order by ?date "
 
     $.ajax({
@@ -161,6 +184,16 @@
 
       dates = new Object()
       monthes = new Object()
+      for(var y = 30; y < 33; y++){
+        year = "14"+y;
+        for(var m = 1; m < 13; m++){
+          m = ( '00'  + m ).slice( -2 ); // '01' を返す
+          month = year + "-" + m
+          monthes[month] = new Object()
+          monthes[month]["kiroku"] = 0
+          monthes[month]["hosyo"] = 0
+        }
+      }
 
       for (var i = 0; i < result.length; i++) {
         var obj = result[i];
@@ -174,6 +207,11 @@
         td = $("<td>");
         tr.append(td);
         td.append(obj.title.value);
+
+        td = $("<td>");
+        tr.append(td);
+        subject = obj.subject.value
+        td.append(map[subject]);
 
         td = $("<td>");
         tr.append(td);
@@ -191,10 +229,10 @@
         dates[date] = dates[date] + 1
 
         month = date.split("-")[0]+"-"+date.split("-")[1]
-        if(!monthes[month]){
-          monthes[month] = 0
+
+        if(monthes[month]){
+          monthes[month][subject] = monthes[month][subject] + 1
         }
-        monthes[month] = monthes[month] + 1
 
         td = $("<td>");
         tr.append(td);
@@ -212,13 +250,16 @@
       for(key in dates){
         categories.push(key)
         data.push(dates[key])
+
       }
 
       categories4month = []
-      data4month = []
+      month4kiroku = []
+      month4hosyo = []
       for(key in monthes){
         categories4month.push(key)
-        data4month.push(monthes[key])
+        month4kiroku.push(monthes[key]["kiroku"])
+        month4hosyo.push(monthes[key]["hosyo"])
       }
 
       Highcharts.chart('container', {
@@ -277,20 +318,24 @@
         },
         plotOptions: {
           column: {
+            stacking: 'normal',
             pointPadding: 0.2,
             borderWidth: 0
           }
         },
         series: [{
-          name: 'Record',
-          data: data4month
+          name: map["kiroku"],
+          data: month4kiroku
+        },{
+          name: map["hosyo"],
+          data: month4hosyo
         }]
       });
 
       // DataTable
       var table = $('#table').DataTable({
         "iDisplayLength" : 10,
-        "order" : [ [ 3, "asc" ] ]
+        "order" : [ [ 4, "asc" ] ]
       });
 
       table.on('order.dt search.dt', function() {

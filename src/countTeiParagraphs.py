@@ -33,7 +33,7 @@ def main(path_to_xml):
 
     body = root.find(prefix+"body")
 
-    count = 1
+    count = 0
 
     page_array = []
     last_page = ""
@@ -54,6 +54,8 @@ def main(path_to_xml):
             title = ""
 
             lines = p.findall(prefix+"line")
+
+
 
             if len(lines) > 0:
 
@@ -79,16 +81,17 @@ def main(path_to_xml):
                 uri_map[n] = facs
 
             date = p.find(prefix+"date")
+            print(str(count)+":\t"+title)
             if date != None:
 
-                print(str(count)+":\t"+title)
+                # print(str(count)+":\t"+title)
 
                 dateStr = date.get("when")
 
                 start_page = page_array[0]
 
                 media_uri = uri_map[start_page]
-                thumb_uri = media_uri.replace(",600", ",200");
+                thumb_uri = ""
 
                 canvasId = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+str(start_page);
 
@@ -108,11 +111,13 @@ def main(path_to_xml):
 
                 writer.writerow(line)
 
-                count += 1
+
 
 
             page_array = []
             page_array.append(last_page)
+
+            count += 1
 
 
 if __name__ == "__main__":

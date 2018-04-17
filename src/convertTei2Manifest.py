@@ -1,88 +1,129 @@
 import xml.etree.ElementTree as ET
 import json
+import argparse
+import sys
 
-'''
-paramter
-'''
+def parse_args(args=sys.argv[1:]):
+    """ Get the parsed arguments specified on this script.
+    """
+    parser = argparse.ArgumentParser(description="")
 
-inputpath = '../data/kiroku.xml'
+    parser.add_argument(
+        'path_to_xml',
+        action='store',
+        type=str,
+        help='Ful path to tei file.')
 
-'''
-main
-'''
+    parser.add_argument(
+        'path_to_manifest',
+        action='store',
+        type=str,
+        help='Ful path to manifest file.')
 
-prefix = ".//{http://www.tei-c.org/ns/1.0}"
+    return parser.parse_args(args)
 
-tree = ET.parse(inputpath)
-root = tree.getroot()
+def main(path_to_xml, path_to_manifest):
 
-body = root.find(prefix+"body")
+    f = open(path_to_manifest, "r") #ここが(1)
+    manifest = json.load(f) #ここが(2)
+    f.close()
 
-count = 1
+    inputpath = path_to_xml
+    omeka_id = "21835"
 
-page_array = []
-last_page = ""
-uri_map = dict()
+    prefix = ".//{http://www.tei-c.org/ns/1.0}"
 
-structures = []
+    tree = ET.parse(inputpath)
+    root = tree.getroot()
 
-for p in list(body):
+    body = root.find(prefix+"body")
 
-    es = list(p)
-    if len(es) > 0:
-        if es[0].tag == "{http://www.tei-c.org/ns/1.0}pb":
-            page_array = []
+    count = 0
 
-    text_sum = ""
+    page_array = []
+    last_page = ""
+    uri_map = dict()
 
-    title = ""
+    structures = []
 
-    lines = p.findall(prefix+"line")
+    ps = body.findall(prefix+"p")
 
-    if len(lines) > 0:
+    for p in list(ps):
 
-        for i in range(0, len(lines)):
-            line = lines[i]
-            if line.text != None:
-                text = line.text
-                if i == 0:
-                    title = text
-                    if title.find("花押") > -1:
-                        title = lines[i+1].text
+        es = list(p)
+        if len(es) > 0:
+            if es[0].tag == "{http://www.tei-c.org/ns/1.0}pb":
+                page_array = []
+
+        text_sum = ""
+
+        title = ""
+
+        lines = p.findall(prefix+"line")
+
+        if len(lines) > 0:
+
+            for i in range(0, len(lines)):
+                line = lines[i]
+                if line.text != None:
+                    text = line.text
+                    if i == 0:
+                        title = text
                         if title.find("花押") > -1:
-                            title = lines[i+2].text
+                            title = lines[i+1].text
+                            if title.find("花押") > -1:
+                                title = lines[i+2].text
 
-                text_sum += text + "\r\n"
+                    text_sum += text + "\r\n"
 
-    pages = p.findall(prefix+"pb")
-    for page in pages:
-        n = page.get("n")
-        facs = page.get("facs")
-        page_array.append(n)
-        last_page = n
-        uri_map[n] = facs
+        pages = p.findall(prefix+"pb")
+        for page in pages:
+            n = page.get("n")
+            facs = page.get("facs")
+            page_array.append(n)
+            last_page = n
+            uri_map[n] = facs
 
-    date = p.find(prefix+"date")
-    if date != None:
+        date = p.find(prefix+"date")
+        dateText = ""
+        if date != None:
+            dateText = date.text
+        # if date != None:
 
         print(str(count)+":\t"+title)
 
-        dateStr = date.get("when")
+        dateStr = ""
+        if date != None:
+            dateStr = date.get("when")
+            dateStr = "（"+dateStr+"）"
 
-        st = dict()
-        structures.append(st)
+        if count != 0:
 
-        st["canvases"] = []
-        for n in page_array:
-            st["canvases"].append("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+n)
-        st["@id"] = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/c"+str(count)
-        st["@type"] = "sc:Range"
-        st["label"] = str(count)+": "+date.text+"（"+dateStr+"）: " + title
+            st = dict()
+            structures.append(st)
+
+            st["canvases"] = []
+            for n in page_array:
+                st["canvases"].append("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/"+omeka_id+"/canvas/p"+n)
+            st["@id"] = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/"+omeka_id+"/c"+str(count)
+            st["@type"] = "sc:Range"
+            st["label"] = str(count)+": "+dateText+dateStr+": " + title
 
         count += 1
 
 
-    page_array = []
-    page_array.append(last_page)
+        page_array = []
+        page_array.append(last_page)
 
-print(structures)
+    manifest["structures"] = structures
+
+    fw = open(path_to_manifest,'w')
+    json.dump(manifest,fw,indent=4)
+    fw.close()
+
+if __name__ == "__main__":
+    args = parse_args()
+
+    main(
+        args.path_to_xml,
+        args.path_to_manifest)
