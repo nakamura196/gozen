@@ -35,8 +35,8 @@ def main(path_to_xml, omeka_id, name):
     inputpath = path_to_xml
     outputpath = inputpath+".rdf"
 
-    manifest_filename = "kiroku.json"
-    filename = "御前落居記録"
+    manifest_filename = "hosyo.json"
+    filename = "御前落居奉書"
 
     prefix = ".//{http://www.tei-c.org/ns/1.0}"
     prefix2 = "{http://www.tei-c.org/ns/1.0}"
