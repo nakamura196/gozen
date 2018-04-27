@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/dc/elements/1.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/hosyo/066">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一御料所近江國兵主郷内二宮國田職等持&#13;
+　知行分事於上分米者嚴密可被曳進山上&#13;
+　至下地者可被沙汰付等持寺都官雑掌&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享三年十一月七日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　山門使節御中&#13;
+</ns1:description>
+    <ns1:date>1431-11-07</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p41"/>
+    <ns1:title>66: 一御料所近江國兵主郷内二宮國田職</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/064">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一山門西塔院二季講領江州普光寺奉行職&#13;
+　事如元可被致沙汰之由所被仰下也仍&#13;
+　執達如件&#13;
+　　　　永享三年十月廿七日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　肥前守&#13;
+　　　　　　　　光聚院&#13;
+</ns1:description>
+    <ns1:title>64: 一山門西塔院二季講領江州普光寺奉行職</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p40"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-10-27</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/118">
+    <ns1:description>一觀察智院領近江國愛智郡内彦冨&#13;
+　名事預置坐禅院云々早寺家可&#13;
+　被致直務之由候也仍執達如件&#13;
+　　　　永享四十二月廿七日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　當院住持&#13;
+</ns1:description>
+    <ns1:date>1432-12-27</ns1:date>
+    <ns1:title>118: 一觀察智院領近江國愛智郡内彦冨</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p74"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/055">
+    <ns1:title>55: 一光聚院猷秀事可帰山之由被仰付訖</ns1:title>
+    <ns1:date>1431-09-22</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一光聚院猷秀事可帰山之由被仰付訖&#13;
+　早可令存知之旨可被相觸三塔之由&#13;
+　所被仰下也仍執達如件&#13;
+　　　　永享三年九月廿二日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　肥前守&#13;
+　　　　　　　　山門使節御中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/023">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一遠江國小松祝田事雖被入御借物&#13;
+　首弘都官同國淺羽庄内正作&#13;
+　幷國衙年貢以下不載毎年&#13;
+　勘定状之間糺明之處引負之&#13;
+　條勿論之上者早退周琳蔵主&#13;
+　庄主如元可有御知行之旨可被&#13;
+　申入之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享三年三月廿八日　　　　　　　　和泉守&#13;
+　　　　　　　　　　　　　　　　　　　　散　位&#13;
+　　　　　　　　三上美濃入道殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p19"/>
+    <ns1:title>23: 一遠江國小松祝田事雖被入御借物</ns1:title>
+    <ns1:date>1431-03-28</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/067">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p42"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一善入寺末寺近江國淺小井庄内正覚菴&#13;
+　同庵領等事難被混山内跡之上者如&#13;
+　元被返付本寺訖早當庵幷庵領等&#13;
+　可被沙汰付寺家雑掌之由所被仰下也&#13;
+　仍執達如件&#13;
+　　　　永享三年十一月七日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　對馬守&#13;
+　　　　　　　　佐々木加賀入道殿&#13;
+</ns1:description>
+    <ns1:date>1431-11-07</ns1:date>
+    <ns1:title>67: 一善入寺末寺近江國淺小井庄内正覚菴</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/099">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p62"/>
+    <ns1:title>99: 一薩摩日向兩國文章同前</ns1:title>
+    <ns1:description>一薩摩日向兩國文章同前&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/024">
+    <ns1:title>24: 一住吉社日供料所攝津國江口関所</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p20"/>
+    <ns1:date>1431-04-02</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一住吉社日供料所攝津國江口関所&#13;
+　代官職孫左衛門尉家次分事可令補任&#13;
+　清寥菴之旨被仰社家訖早&#13;
+　可被存知之由候也仍執達如件&#13;
+　　　　永享三四月二日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　秀藤&#13;
+　　　　　　　　當庵主&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/097">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p61"/>
+    <ns1:title>97: 一弓矢事可停止之若有子細者追就注進</ns1:title>
+    <ns1:date>1432-09-05</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>一弓矢事可停止之若有子細者追就注進&#13;
+　可被經御沙汰之由所被仰下也仍執達如件&#13;
+　　　　永享四年九月五日　　　　　　　　大和守&#13;
+　　　　　　　　伊集院弾正少弼入道殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/054">
+    <ns1:title>54: 一冨士淺間宮造替事役所等相定之處</ns1:title>
+    <ns1:date>1431-09-15</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一冨士淺間宮造替事役所等相定之處&#13;
+　駿河國段錢徳錢剰他國以下被付其足連&#13;
+　年雖致其沙汰未事行云々且不怖神&#13;
+　慮且不顧民煩之条甚不可然所詮不日&#13;
+　遂造功可被申請遷宮日時勘文之由所&#13;
+　被仰下也仍執達如件&#13;
+　　　　永享三年九月十五日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　沙　弥&#13;
+　　　　　　　　今川上總介殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/109">
+    <ns1:date>1432-10-21</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p68"/>
+    <ns1:description>一伊勢國山鹿左京亮跡事有渡殘云々&#13;
+　不日可被沙汰付立阿代之由候也仍執達如件&#13;
+　　　　永享四十月廿一日　　　　　　　　為種&#13;
+　　　　　　　　土岐大膳大夫殿&#13;
+</ns1:description>
+    <ns1:title>109: 一伊勢國山鹿左京亮跡事有渡殘</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/094">
+    <ns1:title>94: 一九郎次郎申知行分當國吉祥院内田地</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p59"/>
+    <ns1:description>一九郎次郎申知行分當國吉祥院内田地&#13;
+　人夫事就冨士御下向令催促之處&#13;
+　及異儀云々所詮於細々夫役者可停止之&#13;
+　至如此役者可致沙汰之旨可被相觸百姓等&#13;
+　由候也仍執達如件&#13;
+　　　　永享四九月四日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　北野長者殿&#13;
+</ns1:description>
+    <ns1:date>1432-09-04</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/091">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>91: 一聖護院門跡雑掌申於近江國蔵田庄</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p58"/>
+    <ns1:description>一聖護院門跡雑掌申於近江國蔵田庄&#13;
+　被相懸人夫以下課役云々事実者太&#13;
+　不可然不日可被止其責之由候也仍執達如件&#13;
+　　　　永享四八月卅日　　　　　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　守護&#13;
+</ns1:description>
+    <ns1:date>1432-08-30</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/105">
+    <ns1:description>一白山若衆跡去年分年貢事長吏相共&#13;
+　納置之可被註進之由候也仍執達&#13;
+　如件&#13;
+　　　　十月十一日　　　　　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　基貞&#13;
+　　　　　　　　冨樫介殿&#13;
+</ns1:description>
+    <ns1:title>105: 一白山若衆跡</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p65"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/032">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p26"/>
+    <ns1:date>1431-06-24</ns1:date>
+    <ns1:title>32: 一真如寺領但馬國高田庄年貢事明日</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一真如寺領但馬國高田庄年貢事明日&#13;
+　中可究済之旨對都官及催促云々豊田庄&#13;
+　勘定之間先可止其責之由候也仍執達如件&#13;
+　　　　永享三六月廿四日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　貞清&#13;
+　　　　　　　　當寺&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/065">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一三千聖供領近江國栗見庄預所職事&#13;
+　退春千代丸如元可被沙汰付猿満丸代之&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享三年十一月七日　　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　左衛門尉&#13;
+　　　　　　　　山門使節御中&#13;
+</ns1:description>
+    <ns1:date>1431-11-07</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>65: 一三千聖供領近江國栗見庄預所職事</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p41"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/034">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p27"/>
+    <ns1:date>1431-07-12</ns1:date>
+    <ns1:description>一壹万部御經御料所同國同庄事為庄務被&#13;
+　差下蜷川越中守親吉畢自然百姓及強訴令&#13;
+　逃散雖落着冨田庄一切不可有許容之儀若&#13;
+　不承引者就惣庄可有殊沙汰之由候也仍執達&#13;
+　如件&#13;
+　　　　同日　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　秀藤&#13;
+　　　　　　　　道家次郎左衛門尉殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>34: 一壹万部御經御料所同國同庄事為庄務被</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/003">
+    <ns1:title>3: 一大舘上総入道於納銭方借用分肆千参百</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p5"/>
+    <ns1:date>1430-10-20</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一大舘上総入道於納銭方借用分肆千参百&#13;
+　五拾貫文事為質券彼領知内拾壹ヶ&#13;
+　所在所注文別紙封裏遣之本利相當之間致知行可遂&#13;
+　勘定之由候也仍執達如件&#13;
+　　　　永享二十月廿日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　秀定&#13;
+　　　　　　　　一衆中&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/057">
+    <ns1:title>57: 一松梅院禅能知行分加賀國冨墓福田兩庄</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p35"/>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一松梅院禅能知行分加賀國冨墓福田兩庄&#13;
+　和泉國坂本庄美作國吉野林野兩保等&#13;
+　事就禅能借物可被渡下地於光聚院&#13;
+　雑掌之由候也仍執達如件&#13;
+　　　　永享三十月八日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　土倉方一衆中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-10-08</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/110">
+    <ns1:description>一日吉社々司等申近江國小幡郷内閤村種&#13;
+　村事度々雖被仰無當知行之仁云々此上&#13;
+　者糺明下地可被沙汰付雑掌若有子細者&#13;
+　可被註申之由所被仰下也仍執達如件&#13;
+　　　　永享四十月廿九日　　　　　　　　肥前守&#13;
+　　　　　　　　佐々木大膳大夫殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p69"/>
+    <ns1:date>1432-10-29</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>110: 一日吉社々司等申近江國小幡郷内閤村種</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/111">
+    <ns1:description>一北野社領和泉國八田庄事可被沙汰付&#13;
+　松光院法印秀慶同青松院法眼継祐&#13;
+　代之由所被仰下也仍執達如件&#13;
+　　　　永享四十一月六日　　　　　　　　為種&#13;
+　　　　　　　　兩守護代&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p69"/>
+    <ns1:date>1432-11-06</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>111: 一北野社領和泉國八田庄事可被沙汰付</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/084">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p53"/>
+    <ns1:description>一於興福寺去々年永享二淄州會新入違乱之時&#13;
+　被追出六人衆事被赦免畢此分可有&#13;
+　御下知之旨可被申入當寺別當僧正御房&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享四八月十一日　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　尊光院僧都御房&#13;
+</ns1:description>
+    <ns1:date>1432-08-11</ns1:date>
+    <ns1:title>84: 一於興福寺去々年</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/005">
+    <ns1:date>1430-11-07</ns1:date>
+    <ns1:title>5: 一曼陀羅寺領山城國粟田庄内貮拾石下地</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一曼陀羅寺領山城國粟田庄内貮拾石下地&#13;
+　事有糺明之處藤賀丸代不去渡下地之間&#13;
+　被改替給主訖早任去應永卅四年十月十三日&#13;
+　口阿弥渡状彼下地付上米公事物以下可被沙汰付當寺&#13;
+　旨可被申當給主上乗院代之由被仰出候也仍&#13;
+　執達如件&#13;
+　　　　永享二十一月七日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　伊与法眼御房&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/079">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p50"/>
+    <ns1:description>一延壽寺衆徒等与坐禅院珎全父子令同&#13;
+　意發向當寺之間衆徒等悉令離山云々太&#13;
+　不可然早如元可沙汰居之旨被仰守護人&#13;
+　訖次於山林境幷珎全等狼籍者可有糺明&#13;
+　者也不日令帰住任先規可被専御祈祷之由&#13;
+　被仰下候也仍執達如件&#13;
+　　　　永享四六月五日　　　　　　　　　　　　為秀&#13;
+　　　　　　　　　　　　　　　　　　　　貞清&#13;
+　　　　　　　　霊山寺衆徒中&#13;
+</ns1:description>
+    <ns1:title>79: 一延壽寺衆徒等与坐禅院珎全父子令同</ns1:title>
+    <ns1:date>1432-06-05</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/069">
+    <ns1:date>1431-11-08</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p43"/>
+    <ns1:title>69: 一文章同前</ns1:title>
+    <ns1:description>一文章同前&#13;
+　　　　　　　　同日&#13;
+　　　　　　　　坐禅院　　　　　　　　上林坊　　　　　　　　杦生坊&#13;
+　　　　　　　　行壽坊　　　　　　　　成願坊　　　　　　　　圓城坊&#13;
+　　　　　　　　真乗坊　　　　　　　　善勝坊　　　　　　　　喜樂坊&#13;
+　　　　　　　　前樹下殿　　　　三井寺上光坊　　　　賀茂西殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/038">
+    <ns1:description>一豊場鳴海　　　　　　　　　　　　三寶院雑掌&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:title>38: 一豊場鳴海　　　　　　　　　　　　三寶院雑掌</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/080">
+    <ns1:title>80: 一造　外宮料信濃國役夫工米事為</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p51"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-06-06</ns1:date>
+    <ns1:description>一造　外宮料信濃國役夫工米事為&#13;
+　使節令下向依田新右衛門尉之處&#13;
+　知行分幷一族被官人等難澁云々事&#13;
+　実者甚不可然不日可究済之由所被&#13;
+　仰下也仍執達如件&#13;
+　　　　永享四年六月六日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　村上中務大輔殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/028">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p23"/>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一中御門高倉南西頬口拾参丈奥拾陸丈玖&#13;
+　尺同西南頬口柒丈奥貮拾参丈捌尺五寸&#13;
+　屋地裏松中納言家知行分事早可令領知之由候也&#13;
+　仍執達如件&#13;
+　　　　永享三五月十六日　　　　　　　　貞清&#13;
+　　　　　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　熊谷下野入道殿&#13;
+</ns1:description>
+    <ns1:title>28: 一中御門高倉南西頬口拾参丈奥拾陸丈玖</ns1:title>
+    <ns1:date>1431-05-16</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/056">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p35"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-09-22</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一出雲國朝山郷幷来海庄御年貢夫賃&#13;
+　事先年土民等逢起之刻任雅意國中&#13;
+　夫賃加増云々甚不可然所詮可為如先規&#13;
+　旨可被相觸之若令緩怠者為被處罪&#13;
+　科可注申交名之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享三年九月廿二日　　　　　　　　大和守&#13;
+　　　　　　　　佐々木鹽冶五郎左衛門尉殿&#13;
+</ns1:description>
+    <ns1:title>56: 一出雲國朝山郷幷来海庄御年貢夫賃</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/008">
+    <ns1:date>1430-11-07</ns1:date>
+    <ns1:title>8: 一興福寺々物</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一興福寺々物米錢就令借用猥借与之条&#13;
+　不可然於向後者堅可被停止之由也仍執達&#13;
+　如件&#13;
+　　　　永享二閏十一月七日　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　唐院&#13;
+　　　　　　　　新坊&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/043">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:description>一松葉　　　　　　　　　　　　　　　　土岐美濃守殿&#13;
+</ns1:description>
+    <ns1:title>43: 一松葉　　　　　　　　　　　　　　　　土岐美濃守殿</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/058">
+    <ns1:title>58: 一松梅院禅能知行分山城國池田庄事就</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一松梅院禅能知行分山城國池田庄事就&#13;
+　禅能負物彼年貢可被沙汰渡光聚院&#13;
+　雑掌之由候也仍執達如件&#13;
+　　　　永享三十月八日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　遊佐豊後入道殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-10-08</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/037">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:title>37: 一味鏡　　　　　　　　　　　　　　　　玉泉寺雑掌</ns1:title>
+    <ns1:description>一味鏡　　　　　　　　　　　　　　　　玉泉寺雑掌&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/114">
+    <ns1:date>1432-11-13</ns1:date>
+    <ns1:description>一北野宮雑掌申号網代落要脚社領&#13;
+　近江國八坂庄相懸段錢云々何様事哉&#13;
+　不日止其責可被申披子細之由候也仍執達&#13;
+　如件&#13;
+　　　　永享四十一月十三日　　　　　　　　為種&#13;
+　　　　　　　　山門使節御中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>114: 一北野宮雑掌申号網代落要脚社領</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p71"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/033">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一壹万部御經御料所尾張國山田庄事為&#13;
+　庄務被差下蜷川越中守親吉訖自然百姓等&#13;
+　及強訴者令合力之可被沙汰居親吉於庄家&#13;
+　若致逃散有許容他領之族者為被處罪科&#13;
+　云落着在所云領主交名載起請之詞可被注申&#13;
+　由候也仍執達如件&#13;
+　　　　永享三七月十二日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　秀藤&#13;
+　　　　　　　　守護代&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-07-12</ns1:date>
+    <ns1:title>33: 一壹万部御經御料所尾張國山田庄事為</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/053">
+    <ns1:title>53: 一紀伊国造雑掌与日前宮下白冠千顯</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一紀伊国造雑掌与日前宮下白冠千顯&#13;
+　相論同國社領十八名幷寺領等事&#13;
+　先度有其沙汰之處如雑掌訴状者為&#13;
+　一社惣官社領以下相計之条勿論也爰&#13;
+　下白冠彼十八名等可進退之旨掠給御&#13;
+　教書云々如千顯支状者彼名々年貢納置&#13;
+　之年中神事執行之處国造令押妨或&#13;
+　寄進寺庵或沽却方々之由申之所詮兩&#13;
+　方申詞尚不分明之上者被差下廉直之&#13;
+　使節召出神官等以湯起請致糺明就失有&#13;
+　無可被注申之由所被仰下也仍執達如件&#13;
+　　　　永享三年九月十五日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　沙　弥&#13;
+　　　　　　　　守護代&#13;
+</ns1:description>
+    <ns1:date>1431-09-15</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/002">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>2: 一嵯峨正禪院事号檀那申請去年依</ns1:title>
+    <ns1:date>1430-10-05</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p5"/>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一嵯峨正禪院事号檀那申請去年依&#13;
+　有歎申族被稱長得院末寺之處對勝&#13;
+　定院數通書状在之而参差之儀歟甚不&#13;
+　可然早如元為當院可被定置住持之由候&#13;
+　也仍執達如件&#13;
+　　　　永享二十月五日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　貞清&#13;
+　　　　　　　　勝定院雑掌&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/071">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p45"/>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一日吉社領近江國建部庄内佐野九郎入道父子&#13;
+　跡名田畠等事早任去至徳三年九月十四日&#13;
+　御判之旨為社家可被領知之由所被仰下也&#13;
+　仍執達如件&#13;
+　　　　永享三年十一月廿二日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　對馬守&#13;
+　　　　　　　　樹下殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-11-22</ns1:date>
+    <ns1:title>71: 一日吉社領近江國建部庄内佐野九郎入道父子</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/020">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一比留田佐渡入道々音申清閑寺領山城國&#13;
+　音羽庄公文職事為寺家令補任尾藤&#13;
+　太郎左衛門尉訖爰去應永卅四年十月十日於&#13;
+　山門使節中致糺明如元返付道音之處&#13;
+　不能許容云々所詮出使節状以後有罪科&#13;
+　者可注申之旨雖被仰之不明申之上者&#13;
+　退尾藤可沙汰付道音之由所被仰下也&#13;
+　仍執達如件&#13;
+　　　　永享二年十二月廿六日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　對馬守&#13;
+　　　　　　　　當寺々僧中&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p17"/>
+    <ns1:title>20: 一比留田佐渡入道々音申清閑寺領山城國</ns1:title>
+    <ns1:date>1430-12-26</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/013">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一伊勢國山田神人与地下人等和睦事三方土一揆&#13;
+　可書進上起請文之旨可被下知之由所被仰下&#13;
+　也仍執達如件&#13;
+　　　　永享二年閏十一月廿六日　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　祭主殿&#13;
+　　　　　　　　内造宮使殿&#13;
+</ns1:description>
+    <ns1:title>13: 一伊勢國山田神人与地下人等和睦事三方土一揆</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p12"/>
+    <ns1:date>1430-11-26</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/070">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一和泉國堺南庄事先々不被居庄主&#13;
+　旨地下人等就歎申糺決之處地下請&#13;
+　条分明之上者任去應永廿六年二月廿八日&#13;
+　寺家充状召置柒佰参拾貫文請文可&#13;
+　専寺役之由所被仰下也仍執達如件&#13;
+　　　　永享三年十一月八日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　肥前守&#13;
+　　　　　　　　崇壽院&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-11-08</ns1:date>
+    <ns1:title>70: 一和泉國堺南庄事先々不被居庄主</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p44"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/113">
+    <ns1:date>1432-11-13</ns1:date>
+    <ns1:title>113: 一立阿申伊勢國山鹿左京亮跡事彼</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p70"/>
+    <ns1:description>一立阿申伊勢國山鹿左京亮跡事彼&#13;
+　親類被官人以下注文在之令居住當所及違乱云々&#13;
+　太不可然為罪科人与黨之上者不日追出彼等&#13;
+　可被全立阿代所務之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享四十一月十三日　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　土岐大膳大夫殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/104">
+    <ns1:description>一三間御厩御材木飛騨國山出人夫事&#13;
+　不謂諸權門領相觸國中平均不日可&#13;
+　被召進之由所被仰下也仍執達如件&#13;
+　　　　永享四年十月四日　　　　　　　　大和守&#13;
+　　　　　　　　佐々木治部少輔殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p65"/>
+    <ns1:date>1432-10-04</ns1:date>
+    <ns1:title>104: 一三間御厩御材木飛騨國山出人夫事</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/026">
+    <ns1:date>1431-04-10</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p22"/>
+    <ns1:title>26: 一興福寺学侶衆徒与西金堂衆相論大和國</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一興福寺学侶衆徒与西金堂衆相論大和國&#13;
+　鳥見矢田兩庄番頭米納所事理非&#13;
+　次第無親疎可有註進随左右可有裁許之&#13;
+　上者於當堂修正者不日可遂行若所&#13;
+　及異儀者共以不可被許容訴訟之旨可&#13;
+　令下知給之由所被仰下也仍執達如件&#13;
+　　　　永享三年四月十日　　　　　　　　肥前守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　當寺別當僧正御房&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/019">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一伊勢國鈴鹿路事可被定置關所之間官&#13;
+　幣使幷参　宮之輩無其煩之様可致警固&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享二年十二月廿三日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　四通被成之&#13;
+　　　　　　　　山中六郎左衛門入道殿&#13;
+　　　　　　　　山中太郎左衛門入道殿&#13;
+　　　　　　　　岩室太郎左衛門尉殿&#13;
+　　　　　　　　佐治太郎左衛門入道殿&#13;
+</ns1:description>
+    <ns1:title>19: 一伊勢國鈴鹿路事可被定置關所之間官</ns1:title>
+    <ns1:date>1430-12-23</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p16"/>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/083">
+    <ns1:description>一坂本西塔関事任先度御判之旨令&#13;
+　執務可令専堂舎修造之由所被仰下也&#13;
+　仍執達如件&#13;
+　　　　永享四七月十三日　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　光聚院&#13;
+</ns1:description>
+    <ns1:title>83: 一坂本西塔関事任先度御判之旨令</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p53"/>
+    <ns1:date>1432-07-13</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/089">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-08-27</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p57"/>
+    <ns1:description>一尾張國宮道場倉事可被開封之&#13;
+　由候也仍執達如件&#13;
+　　　　永享四八月廿七日　　　　　　　　貞連&#13;
+　　　　　　　　守護代&#13;
+</ns1:description>
+    <ns1:title>89: 一尾張國宮道場倉事可被開封之</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/063">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p40"/>
+    <ns1:date>1431-10-17</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>63: 一殿下渡領丹波國賀悦庄領家職事</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一殿下渡領丹波國賀悦庄領家職事&#13;
+　可有御直務之旨可被申入攝政家之&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享三年十月十七日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　肥前守&#13;
+　　　　　　　　鷹司左兵衛督殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/082">
+    <ns1:description>一東大寺領郷内祇園會事任先規&#13;
+　致其用意之處方衆以下可相綺&#13;
+　有風聞云々事実者太不可然若有&#13;
+　狼籍輩者可被注申交名之由所被&#13;
+　仰下也仍執達如件&#13;
+　　　　永享四年六月十二日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　對馬守&#13;
+　　　　　　　　筒井殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p52"/>
+    <ns1:title>82: 一東大寺領郷内祇園會事任先規</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-06-12</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/029">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一清水寺懺法御料所美濃國羽崎墨俣&#13;
+　年貢余分柒貫七百文事毎月可被渡&#13;
+　武田小次郎代之由被仰下候也仍執達如件&#13;
+　　　　永享三五月廿日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　籾井備後入道殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p24"/>
+    <ns1:title>29: 一清水寺懺法御料所美濃國羽崎墨俣</ns1:title>
+    <ns1:date>1431-05-20</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/007">
+    <ns1:date>1430-11-25</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p8"/>
+    <ns1:title>7: 一興福寺雑掌申山城國狛野庄事為</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一興福寺雑掌申山城國狛野庄事為&#13;
+　十二大會幷若宮祭礼料所之處北野&#13;
+　宮雑掌苅取作稲及狼籍云々事実者&#13;
+　太不可然所詮於理非者追可被糺明之&#13;
+　先可改代官之由候也仍執達如件&#13;
+　　　　永享二十一月廿五日　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　徳松院&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/030">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p25"/>
+    <ns1:title>30: 一太神宮領近江國八坂郷内宮司神祝上分去年分</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一太神宮領近江國八坂郷内宮司神祝上分去年分&#13;
+　参拾八石當年分参拾八石事可沙汰渡宮司&#13;
+　忠清代之旨可被加下知之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享三年六月十一日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　北野光薗院&#13;
+</ns1:description>
+    <ns1:date>1431-06-11</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/061">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p38"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1431-10-10</ns1:date>
+    <ns1:title>61: 海老名駿河入道了元与大舘駿河入道常安相論丹後國</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+海老名駿河入道了元与大舘駿河入道常安相論丹後國&#13;
+賀悦庄内近重名事止領家之妨如元所被返付也&#13;
+早可被沙汰付下地於了元之由被　仰出訖仍執達&#13;
+如件&#13;
+　　　　永享三十月十日　　　　　　　　　　　　秀藤&#13;
+　　　　　　　　　　　　　　　　　　　　貞清&#13;
+　　　　　　　　守護代&#13;
+此相論事就訴陳召調守護代延永注進可伺申之處&#13;
+不可及糺決可被付海老名早可成奉書之由今日十&#13;
+以飯尾大和守被　仰下也&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/006">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1430-11-13</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p7"/>
+    <ns1:title>6: 一西園寺京極家領山城國鳥羽庄幷魚市</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一西園寺京極家領山城國鳥羽庄幷魚市&#13;
+　河内國會賀牧等各参分壹事去年&#13;
+　四月廿日還補之處三分二方雑掌令抑留&#13;
+　年貢云々太不可然所詮以彼所々當年分&#13;
+　内去年未進任員數可被沙汰渡京極家&#13;
+　雑掌之由候也仍執達如件&#13;
+　　　　永享二十一月十三日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　貞清&#13;
+　　　　　　　　木澤常陸入道殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/088">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p56"/>
+    <ns1:description>一法華寺御領山城國上桂東御代官&#13;
+　職事如元被仰付熊谷近江入道訖&#13;
+　早可被渡彼代之由候也仍執達如件&#13;
+　　　　永享四八月廿五日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　三上美濃入道殿&#13;
+</ns1:description>
+    <ns1:date>1432-08-25</ns1:date>
+    <ns1:title>88: 一法華寺御領山城國上桂東御代官</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/112">
+    <ns1:date>1432-11-08</ns1:date>
+    <ns1:title>112: 一錦少路冨少路東頬</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>一錦少路冨少路東頬南北弐拾丈東西壹町但京極面南北拾八丈&#13;
+　中条伊豆入道跡屋地事可被沙汰付城存撿校&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享四年十一月八日　　　　　　　　掃部頭&#13;
+　　　　　　　　一色修理大夫殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p70"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/085">
+    <ns1:date>1432-08-11</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>85: 一御料所近江國山前内佐々名嶋郷幷</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p54"/>
+    <ns1:description>一御料所近江國山前内佐々名嶋郷幷&#13;
+　朝國内下地等持跡事未去渡云々&#13;
+　子細何事哉太不可然不日沙汰付&#13;
+　御代官可被執進請取之由候也仍執達&#13;
+　如件&#13;
+　　　　永享四八月十一日　　　　　　　　貞連&#13;
+　　　　　　　　守護&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/015">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p13"/>
+    <ns1:title>15: 一伊勢國山田神人与地下人和睦事可書進上</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一伊勢國山田神人与地下人和睦事可書進上&#13;
+　起請文之旨可被下知神人等之由所被仰下也仍&#13;
+　執達如件&#13;
+　　　　永享二年閏十一月廿八日　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　祭主殿&#13;
+　　　　　　　　内造宮使殿&#13;
+</ns1:description>
+    <ns1:date>1430-11-28</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/100">
+    <ns1:title>100: 一弥次郎跡同家倉代等事以前雖被支配錢主</ns1:title>
+    <ns1:date>1432-09-08</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p62"/>
+    <ns1:description>一弥次郎跡同家倉代等事以前雖被支配錢主&#13;
+　方依有多少圓妙与寶重寺相論及訴論上者&#13;
+　随本借書之分限各令配分之可被召進請取&#13;
+　由被仰出候也仍執達如件&#13;
+　　　　永享四九月八日　　　　　　　　　　　　為行&#13;
+　　　　　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　金輪院&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/062">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p39"/>
+    <ns1:date>1431-10-17</ns1:date>
+    <ns1:title>62: 一洛中洛外土倉質物事於絹布類者</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一洛中洛外土倉質物事於絹布類者&#13;
+　十二箇月至武具者廿四ヶ月之由所被定&#13;
+　置也若過彼數月不請出者為流物可致&#13;
+　計沙汰之旨可相觸諸土倉之由所被仰下也&#13;
+　仍執達如件&#13;
+　　　　永享三年十月十七日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　備中守&#13;
+　　　　　　　　土倉方一衆中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/010">
+    <ns1:date>1430-11-19</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一白山若衆徒等乱入南禅寺領宮保事衆徒狼&#13;
+　籍罪科不輕所詮於社頭警固者被仰付長&#13;
+　吏畢早至彼悪徒等者相懸親類催國中之&#13;
+　輩可被加退治之由所被仰下也仍執達如件&#13;
+　　　　永享二年閏十一月十九日　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　冨樫介殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p10"/>
+    <ns1:title>10: 一白山若衆徒等乱入南禅寺領宮保事衆徒狼</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/101">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p63"/>
+    <ns1:date>1432-09-08</ns1:date>
+    <ns1:description>一弥次郎跡支配事被仰付金輪院之上者&#13;
+　可被開圓妙家倉之由被仰出候也仍執達&#13;
+　如件&#13;
+　　　　永享四九月八日　　　　　　　　　　　　為行&#13;
+　　　　　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　圓明坊&#13;
+</ns1:description>
+    <ns1:title>101: 一弥次郎跡支配事被仰付金輪院之上者</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/087">
+    <ns1:date>1432-08-15</ns1:date>
+    <ns1:title>87: 一寶重寺代榮光与圓妙相論松崎</ns1:title>
+    <ns1:description>一寶重寺代榮光与圓妙相論松崎&#13;
+　弥次郎男家倉事圓妙令自専&#13;
+　沽却之旨就訴申為糺決圓妙土倉&#13;
+　被封置訖所詮於山上彼岸米者開倉任&#13;
+　員數渡之以後如元可封置之由候也仍執&#13;
+　達如件&#13;
+　　　　永享四八月十五日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　圓明坊&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p56"/>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/001">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>1: 一賀茂社領美作國下河内庄年貢内貮拾</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一賀茂社領美作國下河内庄年貢内貮拾&#13;
+　貫文事為同國倭文庄年貢内員數同前替&#13;
+　地毎年可被沙汰渡正珎之由候也仍執達如件&#13;
+　　　　永享二九月廿九日　　　　　　　　貞連&#13;
+　　　　　　　　當國田色中坊&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/016">
+    <ns1:title>16: 一杦生坊暹賢事被召加使節訖可被</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1430-12-03</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一杦生坊暹賢事被召加使節訖可被&#13;
+　存知之由被仰出候也仍執達如件&#13;
+　　　　永享貮十二月三日　　　　　　　　為行&#13;
+　　　　　　　　　　　　　　　　　　　　宗秀&#13;
+　　　　　　　　山門使節御中&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/052">
+    <ns1:date>1431-09-11</ns1:date>
+    <ns1:title>52: 一硫黄事以上品拾五万斤被納之不</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p32"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一硫黄事以上品拾五万斤被納之不&#13;
+　日可有運送之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享三年九月十一日　　　　　　　　大和守&#13;
+　　　　　　　　嶋津陸奥守殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/068">
+    <ns1:date>1431-11-08</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一光聚院猷秀申借物事當年中令弁&#13;
+　済可申其左右若有難澁者以所帯土貢&#13;
+　可被付彼弁之由被仰出候也仍執達如件&#13;
+　　　　永享三十一月八日　　　　　　　　為行&#13;
+　　　　　　　　　　　　　　　　　　　　貞元&#13;
+　　　　　　　　　　　　　　　　　　　　秀藤&#13;
+　　　　　　　　坂本寶福寺&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p43"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>68: 一光聚院猷秀申借物事當年中令弁</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/031">
+    <ns1:date>1431-06-18</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p25"/>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一攝州多田庄内槻並村平瀬三郎左衛門&#13;
+　尉中池新左衛門尉降参仕候之上者御&#13;
+　免候仍當村事悉可被閣之候於六瀬&#13;
+　村者急加治罸可被註進之由候也仍執達&#13;
+　如件&#13;
+　　　　永享三六月十八日　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　貞清&#13;
+　　　　　　　　守護代&#13;
+</ns1:description>
+    <ns1:title>31: 一攝州多田庄内槻並村平瀬三郎左衛門</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/048">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一大夫太郎宗弘与左衛門尉助貞相論&#13;
+　山門惣持院大工職事召決兩方之處於&#13;
+　助貞者去應永廿二年十一月二日奉書之外&#13;
+　不出帯本證文之上者任補任以下之旨&#13;
+　一圓可被沙汰付宗弘之由所被仰下也仍&#13;
+　執達如件&#13;
+　　　　永享三年八月七日　　　　　　　　肥前守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　山門使節御中&#13;
+</ns1:description>
+    <ns1:title>48: 一大夫太郎宗弘与左衛門尉助貞相論</ns1:title>
+    <ns1:date>1431-08-07</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/025">
+    <ns1:title>25: 一住吉社日供料所攝津國江口関所代官</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p21"/>
+    <ns1:date>1431-04-02</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一住吉社日供料所攝津國江口関所代官&#13;
+　職孫左衛門尉家次分事可被補任清寥庵慶音&#13;
+　由候也仍執達如件&#13;
+　　　　永享三四月二日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　秀藤&#13;
+　　　　　　　　當社神主殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/095">
+    <ns1:date>1432-09-05</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p60"/>
+    <ns1:description>一万部御經料所尾張國山田庄御代官職&#13;
+　事被仰付一衆中畢可被沙汰付彼代&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享四九月五日　　　　　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　守護代&#13;
+</ns1:description>
+    <ns1:title>95: 一万部御經料所尾張國山田庄御代官職</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/072">
+    <ns1:date>1431-11-23</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p45"/>
+    <ns1:title>72: 一東大寺領郷民源七郎男所役事相懸</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>一東大寺領郷民源七郎男所役事相懸&#13;
+　百貫文借錢云々事実者甚不可然不日&#13;
+　可被止其責若又有子細者可被注申之旨可&#13;
+　被申入一乗院家之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享三年十二月廿三日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　對馬守&#13;
+　　　　　　　　慈恩院僧都御房&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/022">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>22: 一野遠屋妙基与同本阿弥相論泉州</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一野遠屋妙基与同本阿弥相論泉州&#13;
+　堺觀阿跡野遠屋幷所々家倉等事&#13;
+　妙基雖申子細不帯一紙支證之上者&#13;
+　任去應永廿二年十二月十一日觀阿譲状&#13;
+　本阿弥領掌不可有相違之由所&#13;
+　被仰下也仍下知如件&#13;
+　　　　永享二年十二月卅日&#13;
+　　　　　　　　　　　　　　　　　　　　　肥前守&#13;
+　　　　　　　　　　　　　　　　　　　　左衛門尉&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p18"/>
+    <ns1:date>1430-12-30</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/051">
+    <ns1:date>1431-09-11</ns1:date>
+    <ns1:title>51: 一太神宮々中衛護事役人等依無沙汰盗人参</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p31"/>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一太神宮々中衛護事役人等依無沙汰盗人参&#13;
+　昇令連續云々甚不可然早守先例嚴密&#13;
+　可参勤之若有違犯之輩者就注進可&#13;
+　處罪科之旨可加下知之由所被仰下也仍&#13;
+　執達如件&#13;
+　　　　永享三年九月十一日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　祭主殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/004">
+    <ns1:date>1430-11-06</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一青蓮院御門跡領山城國粟田庄事&#13;
+　任藤賀丸知行之旨上乗院可被領知之由&#13;
+　被仰出候也仍執達如件&#13;
+　　　　永享二十一月六日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　伊与法眼御房&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p6"/>
+    <ns1:title>4: 一青蓮院御門跡領山城國粟田庄事</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/009">
+    <ns1:date>1430-11-27</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一造　外宮料安藝國安南佐東山縣等&#13;
+　参郡役夫工米事早守事書之旨&#13;
+　不日可被究済之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享二年閏十一月廿七日　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　武田伊豆守殿&#13;
+</ns1:description>
+    <ns1:title>9: 一造　外宮料安藝國安南佐東山縣等</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/012">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p11"/>
+    <ns1:title>12: 一白山若衆徒等乱入南禅寺領宮保事太不</ns1:title>
+    <ns1:date>1430-11-19</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一白山若衆徒等乱入南禅寺領宮保事太不&#13;
+　可然所詮於社頭警固者被仰付惣長吏&#13;
+　畢早屬守護手可退治悪行之衆徒之&#13;
+　由所被仰下也仍執達如件&#13;
+　　　　永享二年閏十一月十九日　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　金釵宮衆徒中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/077">
+    <ns1:description>一壹万部御經料所山城國草内郷飯&#13;
+　岡事被預置訖早於年貢者嚴密&#13;
+　可被執進之由候也仍執達如件&#13;
+　　　　永享四五月廿五日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　延永土左守殿&#13;
+</ns1:description>
+    <ns1:title>77: 一壹万部御經料所山城國草内郷飯</ns1:title>
+    <ns1:date>1432-05-25</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p48"/>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/078">
+    <ns1:description>一光聚院猷秀申方々借物事差日限&#13;
+　可致其沙汰之旨雖被觸仰于今不明申之&#13;
+　上者可被沙汰付彼質券於猷秀代之由被&#13;
+　仰出候也仍執達如件&#13;
+　　　　永享四六月五日　　　　　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　佐々木大膳大夫殿&#13;
+</ns1:description>
+    <ns1:date>1432-06-05</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>78: 一光聚院猷秀申方々借物事差日限</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p49"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/074">
+    <ns1:description>一日吉社司申近江國神崎郡小幡郷内&#13;
+　閤村種村事糺決之可被召進當知行&#13;
+　仁之由候也仍執達如件&#13;
+　　　　永享四三月九日　　　　　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　佐々木大膳大夫殿&#13;
+</ns1:description>
+    <ns1:title>74: 一日吉社司申近江國神崎郡小幡郷内</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p47"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-03-09</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/047">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:title>47: 一狩津　　　　　　　　　　　　　　　　加治左京亮殿</ns1:title>
+    <ns1:description>一狩津　　　　　　　　　　　　　　　　加治左京亮殿&#13;
+　　　　以上　此所々文章同前&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/046">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>46: 一堀江郷　　　　　　　　　　　　大草三郎左衛門尉殿</ns1:title>
+    <ns1:description>一堀江郷　　　　　　　　　　　　大草三郎左衛門尉殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/014">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1430-11-26</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p13"/>
+    <ns1:title>14: 一就伊勢國山田神人与地下人和睦事可有糺明</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一就伊勢國山田神人与地下人和睦事可有糺明&#13;
+　御沙汰早宇治五郷地下人等中可然之輩可被&#13;
+　召進之由所被仰下也仍執達如件&#13;
+　　　　永享二年閏十一月廿六日　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　祭主殿&#13;
+　　　　　　　　内造宮使殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/081">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-06-12</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p51"/>
+    <ns1:description>一東大寺領郷内祇園會事任先規&#13;
+　致其用意之處方衆以下可相綺有&#13;
+　風聞云々事実者甚不可然若有狼&#13;
+　籍輩者可被注申交名之旨可被申入&#13;
+　別當僧正御房之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享四年六月十二日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　對馬守&#13;
+　　　　　　　　尊光院僧都御房&#13;
+</ns1:description>
+    <ns1:title>81: 一東大寺領郷内祇園會事任先規</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/027">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一和州鳥見矢田兩庄番頭米事近日可&#13;
+　有糺決先於當堂修正者不日可被遂行&#13;
+　由候也仍執達如件&#13;
+　　　　永享三四月十日　　　　　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　西金堂衆御中&#13;
+</ns1:description>
+    <ns1:title>27: 一和州鳥見矢田兩庄番頭米事近日可</ns1:title>
+    <ns1:date>1431-04-10</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/049">
+    <ns1:title>49: 一宗金九州下向周防長門兩國事嚴密致</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一宗金九州下向周防長門兩國事嚴密致&#13;
+　警固無其煩可被勘過之次来年二月上路&#13;
+　云々同以可致其沙汰之由候也仍執達如件&#13;
+　　　　永享三八月十日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　内藤肥後入道殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p30"/>
+    <ns1:date>1431-08-10</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/075">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p47"/>
+    <ns1:title>75: 一内宮内院殿舎事要脚去年被皆下</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-04-25</ns1:date>
+    <ns1:description>一内宮内院殿舎事要脚去年被皆下&#13;
+　上者當年九月以前可皆作之旨可下知&#13;
+　頭工等之由所被仰下也仍執達如件&#13;
+　　　　永享四年四月廿五日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　内造宮使殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/050">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一鷹司油小路西北頬東西貮拾丈南北拾丈屋地治部越前守宗秀跡&#13;
+　事為御寄附持寶院地替可被沙汰付&#13;
+　御霊殿雑掌之由所被仰下也仍執達如件&#13;
+　　　　永享三年八月十八日　　　　　　　　大和守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　赤松左京大夫入道殿&#13;
+</ns1:description>
+    <ns1:title>50: 一鷹司油小路西北頬</ns1:title>
+    <ns1:date>1431-08-18</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p30"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/039">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:description>一犬山　　　　　　　　　　　　　　　　林光院雑掌&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>39: 一犬山　　　　　　　　　　　　　　　　林光院雑掌</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/036">
+    <ns1:description>一柏井　市邊　井戸田　　　　　　　　等持院出官&#13;
+</ns1:description>
+    <ns1:title>36: 一柏井　市邊　井戸田　　　　　　　　等持院出官</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/116">
+    <ns1:title>116: 一僧等派申去正長元年十月日料足捌拾貫文</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p72"/>
+    <ns1:date>1432-12-19</ns1:date>
+    <ns1:description>一僧等派申去正長元年十月日料足捌拾貫文&#13;
+　預置四条室町糸屋喜阿内於伍拾貫文者借遣&#13;
+　等持院周越副寺訖爰彼喜阿預状幷周越&#13;
+　副寺借書一通三十貫一通弐十貫都合参通令紛失云々雖然&#13;
+　云借錢云殘参拾貫文預料足共以令承伏出状&#13;
+　上者等派可令進退之条不可有相違之旨所被&#13;
+　仰下也仍下知如件&#13;
+　　　　永享四年十二月十九日&#13;
+　　　　　　　　　　　　掃部頭藤原朝臣&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/107">
+    <ns1:date>1432-10-11</ns1:date>
+    <ns1:title>107: 一鳩塗師申鷹司以南油少路東頬</ns1:title>
+    <ns1:description>一鳩塗師申鷹司以南油少路東頬口壹丈六尺&#13;
+　奥貮拾丈口壹丈弐尺奥拾丈屋地事如元令居住於地子&#13;
+　者嚴密可致其沙汰之旨可被相觸之由所&#13;
+　被仰下也仍執達如件&#13;
+　　　　永享四年十月十一日　　　　　　　　肥前守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　赤松左京大夫入道殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/011">
+    <ns1:title>11: 一白山若衆徒等乱入南禅寺領宮保事衆徒狼</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一白山若衆徒等乱入南禅寺領宮保事衆徒狼&#13;
+　籍罪科不輕所詮令警固社頭令注進守護&#13;
+　所可退治悪行之衆徒若彼悪徒等令遂電&#13;
+　幷社頭之煩出来者長吏可為同罪之由所&#13;
+　被仰下也仍執達如件&#13;
+　　　　永享二年閏十一月十九日　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　加賀守&#13;
+　　　　　　　　白山惣長吏法印御房&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p11"/>
+    <ns1:date>1430-11-19</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/060">
+    <ns1:date>1431-10-08</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>60: 一皇太神宮事當年中可奉成遷宮若頭工等</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一皇太神宮事當年中可奉成遷宮若頭工等&#13;
+　令無沙汰者被仰付國司幷守護堅可被處罪科&#13;
+　且又無疎略連々可加下知之由所被仰下也仍執達&#13;
+　如件&#13;
+　　　　永享三年十月八日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　内造宮使殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/076">
+    <ns1:date>1432-05-25</ns1:date>
+    <ns1:title>76: 一壹万部御經料所山城國草内郷飯</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>一壹万部御經料所山城國草内郷飯&#13;
+　岡所務職事被仰付延永土左守訖早&#13;
+　可被渡彼代之由候也仍執達如件&#13;
+　　　　永享四五月廿五日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　正実坊&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p48"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/115">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p72"/>
+    <ns1:description>一霊松菴雑掌与北畠中将雑掌相論&#13;
+　伊勢國行田郷散在名雲出内吉安名&#13;
+　事去正長元入部刻者寺家庄主當知&#13;
+　行歟又中将雑掌知行哉否尋究巨細&#13;
+　載起請之詞可被注申之由候也仍執達&#13;
+　如件&#13;
+　　　　永享四十一月廿八日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　土岐大膳大夫殿&#13;
+</ns1:description>
+    <ns1:title>115: 一霊松菴雑掌与北畠中将雑掌相論</ns1:title>
+    <ns1:date>1432-11-28</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/098">
+    <ns1:date>1432-09-05</ns1:date>
+    <ns1:title>98: 一大隅國弓矢事可停止之有子細者就</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p62"/>
+    <ns1:description>一大隅國弓矢事可停止之有子細者就&#13;
+　注進可有御成敗若於不承引輩者不日可被&#13;
+　加治罸之由所被仰下也仍執達如件&#13;
+　　　　永享四年九月五日　　　　　　　　大和守&#13;
+　　　　　　　　當國々人御中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/092">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p58"/>
+    <ns1:description>一賀茂社脩平申播磨國安志庄衣服来&#13;
+　納米幷社領内正覚寺押領分等事理&#13;
+　非糺決之間可置所務於中之旨可被相觸&#13;
+　由候也仍執達如件&#13;
+　　　　永享四九月三日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為秀&#13;
+　　　　　　　　守護&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-09-03</ns1:date>
+    <ns1:title>92: 一賀茂社脩平申播磨國安志庄衣服来</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/096">
+    <ns1:description>一分國弓矢事早令停止之追就被注進&#13;
+　子細可有御成敗若於不承引輩者不日&#13;
+　可被加治罸之由所被仰下也仍執達如件&#13;
+　　　　永享四年九月五日　　　　　　　　大和守&#13;
+　　　　　　　　嶋津陸奥守殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>96: 一分國弓矢事早令停止之追就被注進</ns1:title>
+    <ns1:date>1432-09-05</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p61"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/041">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:description>一那古野　　　　　　　　　　　　今川左京亮殿代&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>41: 一那古野　　　　　　　　　　　　今川左京亮殿代</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/102">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>一江州敏満寺雑掌申臨時課役事為&#13;
+　御祈祷所帯諸公事免除御判之處及&#13;
+　非分催促云々事実者太不可然早止其責&#13;
+　可被申披子細之由所被仰下也仍執達如件&#13;
+　　　　永享四九月十八日　　　　　　　　為種&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　佐々木治部少輔殿&#13;
+</ns1:description>
+    <ns1:date>1432-09-18</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p64"/>
+    <ns1:title>102: 一江州敏満寺雑掌申臨時課役事為</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/108">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>108: 一嵯峨善入寺雑掌申備中國草壁庄</ns1:title>
+    <ns1:date>1432-10-21</ns1:date>
+    <ns1:description>一嵯峨善入寺雑掌申備中國草壁庄&#13;
+　内永平名案主職事廣石次郎押妨云々&#13;
+　理非糺決之間可被置所務於中之由候也&#13;
+　仍執達如件&#13;
+　　　　永享四十月廿一日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　細河治部少輔殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/017">
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一山門本御修法事於供用料所江州武士&#13;
+　領年貢者御祈祷人數各廿四人如先々&#13;
+　令配分歳末年始御祈祷可被致精誠之&#13;
+　由被仰下候也仍執達如件&#13;
+　　　　永享貮十二月七日　　　　　　　　宗秀&#13;
+　　　　本御修法御祈祷衆御中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>17: 一山門本御修法事於供用料所江州武士</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p15"/>
+    <ns1:date>1430-12-07</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/093">
+    <ns1:description>一長慶寺雑掌申深坂刑部大輔入道&#13;
+　良源負物事御糺明之間良源知行&#13;
+　分美濃國深坂郷先可被置所務於中&#13;
+　由候也仍執達如件&#13;
+　　　　永享四九月三日　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　守護&#13;
+</ns1:description>
+    <ns1:date>1432-09-03</ns1:date>
+    <ns1:title>93: 一長慶寺雑掌申深坂刑部大輔入道</ns1:title>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p59"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/117">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>一山城國蓼倉庄事可被渡付景勝季長&#13;
+　季久代之由候也仍執達如件&#13;
+　　　　永享四十二月廿四日　　　　　　　　為種&#13;
+　　　　　　　　守護代&#13;
+</ns1:description>
+    <ns1:date>1432-12-24</ns1:date>
+    <ns1:title>117: 一山城國蓼倉庄事可被渡付景勝季長</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p73"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/021">
+    <ns1:title>21: 一多田院新命事可被仰付當寺</ns1:title>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一多田院新命事可被仰付當寺一室明悟房之&#13;
+　旨就執申先度被仰訖仍今為造營之時分&#13;
+　閣他寺住持可被座當院之旨被仰出候也&#13;
+　仍執達如件&#13;
+　　　　永享二十二月廿六日　　　　　　　　貞清&#13;
+　　　　　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　西大寺&#13;
+</ns1:description>
+    <ns1:date>1430-12-26</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/042">
+    <ns1:title>42: 一則武　　　　　　　　　　　　　　　　畠山右馬頭殿代</ns1:title>
+    <ns1:description>一則武　　　　　　　　　　　　　　　　畠山右馬頭殿代&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/018">
+    <ns1:date>1430-12-12</ns1:date>
+    <ns1:title>18: 一伊勢國神三郡内御糸以下土一揆等事如山田地</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p15"/>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一伊勢國神三郡内御糸以下土一揆等事如山田地&#13;
+　下人以起請文幷請文可歎申之若彼等及異&#13;
+　儀者可被加退治之上者此趣堅可被下知三郡内&#13;
+　土一揆之由所被仰下也仍執達如件&#13;
+　　　　永享二年十二月十二日　　　　　　　　加賀守&#13;
+　　　　　　　　　　　　　　　　　　　　掃部頭&#13;
+　　　　　　　　外宮一祢宜殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/106">
+    <ns1:date>1432-10-11</ns1:date>
+    <ns1:description>一近江國建部社祢宜与天龍寺雑掌相論&#13;
+　同國建部庄事去年以来糺明之間被置&#13;
+　所務於中之處何為寺家可懸課段錢哉&#13;
+　不日可停止催促次於庄務者随左右可致&#13;
+　其沙汰之旨可被相觸之由候也仍執達如件&#13;
+　　　　永享四十月十一日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　貞清&#13;
+　　　　　　　　佐々木大膳大夫殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p66"/>
+    <ns1:title>106: 一近江國建部社祢宜与天龍寺雑掌相論</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/040">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>40: 一豊場　　　　　　　　　　　　　　　　中院殿雑掌</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:description>一豊場　　　　　　　　　　　　　　　　中院殿雑掌&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/044">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>44: 一熱田　　　　　　　　　　　　　　　　千秋刑部少輔殿</ns1:title>
+    <ns1:description>一熱田　　　　　　　　　　　　　　　　千秋刑部少輔殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/059">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>59: 一松梅院禅能知行分河内國馬伏郷同國</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p37"/>
+    <ns1:date>1431-10-08</ns1:date>
+    <ns1:description>　　　　　　　　（花押影）&#13;
+一松梅院禅能知行分河内國馬伏郷同國&#13;
+　葛原郷事就禅能負物彼年貢可被&#13;
+　沙汰渡光聚院雑掌之由候也仍執達如件&#13;
+　　　　同日　　　　　　　　　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為種&#13;
+　　　　　　　　木澤常陸入道殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/086">
+    <ns1:title>86: 一寶重寺代榮光与圓妙相論松</ns1:title>
+    <ns1:description>一寶重寺代榮光与圓妙相論松&#13;
+　崎弥次郎男家倉事圓妙令自&#13;
+　専沽却之旨就訴申為糺決圓妙&#13;
+　土倉被封置訖先彼岸米召出渡遣&#13;
+　山上以後重可封之次訴論共以加扶持云々&#13;
+　以前又此在所相綺之上者旁任理非無親&#13;
+　疎可致成敗若有引汲之儀及庭中以下&#13;
+　者堅可有糺明御沙汰更不可有緩怠之&#13;
+　由候也仍執達如件&#13;
+　　　　永享四八月十五日　　　　　　　　貞連&#13;
+　　　　　　　　　　　　　　　　　　　　為行&#13;
+　　　　　　　　金輪院&#13;
+</ns1:description>
+    <ns1:date>1432-08-15</ns1:date>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p55"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/073">
+    <ns1:title>73: 一実城事被召加衆中訖早可存知之</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p46"/>
+    <ns1:date>1431-11-26</ns1:date>
+    <ns1:description>一実城事被召加衆中訖早可存知之&#13;
+　由候也仍執達如件&#13;
+　　　　永享三十二月廿六日　　　　　　　　貞連&#13;
+　　　　　　　　土倉方一衆中&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/035">
+    <ns1:description>一八事　　　　　　　　　　　　　　　　高田下総入道殿&#13;
+</ns1:description>
+    <ns1:title>35: 一八事　　　　　　　　　　　　　　　　高田下総入道殿</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+    <ns1:subject>hosyo</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/090">
+    <ns1:title>90: 一文章同前　　　　千秋刑部少輔殿</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p57"/>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:description>一文章同前　　　　千秋刑部少輔殿&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/103">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p64"/>
+    <ns1:title>103: 一七間御厩御材木</ns1:title>
+    <ns1:description>一七間御厩御材木注文別紙在之事妻籠兵庫&#13;
+　助申付之不日可被召進之由所被仰下&#13;
+　也仍執達如件&#13;
+　　　　永享四年九月廿九日　　　　　　　　大和守&#13;
+　　　　　　　　土岐美濃守殿&#13;
+</ns1:description>
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:date>1432-09-29</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/hosyo/045">
+    <ns1:subject>hosyo</ns1:subject>
+    <ns1:title>45: 一八事　　　　　　　　　　　　　　　　三上美濃入道殿</ns1:title>
+    <ns1:description>一八事　　　　　　　　　　　　　　　　三上美濃入道殿&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p28"/>
+  </rdf:Description>
+</rdf:RDF>

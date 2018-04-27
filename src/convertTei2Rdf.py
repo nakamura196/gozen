@@ -16,98 +16,87 @@ def parse_args(args=sys.argv[1:]):
         type=str,
         help='Ful path to tei file.')
 
+    parser.add_argument(
+        'omeka_id',
+        action='store',
+        type=str,
+        help='omeka id')
+
+    parser.add_argument(
+        'name',
+        action='store',
+        type=str,
+        help='name')
+
     return parser.parse_args(args)
 
-def main(path_to_xml):
+def main(path_to_xml, omeka_id, name):
 
     inputpath = path_to_xml
     outputpath = inputpath+".rdf"
 
-    omeka_id = "21834"
-    name = "kiroku"
+    manifest_filename = "kiroku.json"
+    filename = "御前落居記録"
 
     prefix = ".//{http://www.tei-c.org/ns/1.0}"
+    prefix2 = "{http://www.tei-c.org/ns/1.0}"
+    prefix3 = "{http://www.w3.org/XML/1998/namespace}"
 
     tree = ET.parse(inputpath)
     root = tree.getroot()
 
     body = root.find(prefix+"body")
 
-    page_array = []
-
     g = Graph()
 
-    count = 0
+    count = 1
 
-    ps = body.findall(prefix+"p")
+    divs = body.findall(prefix+"div")
 
-    for p in list(ps):
+    for div in divs:
 
-        es = list(p)
-        if len(es) > 0:
-            if es[0].tag == "{http://www.tei-c.org/ns/1.0}pb":
-                page_array = []
+        ss = div.findall(prefix+"s")
 
-        text_sum = ""
+        attrs = ss[0].attrib[prefix3+"id"].split("_")
+        page = int(attrs[0][3:])
 
-        title = ""
+        title = ss[0].text
 
-        lines = p.findall(prefix+"line")
-
-        if len(lines) > 0:
-
-            for i in range(0, len(lines)):
-                line = lines[i]
-                if line.text != None:
-                    text = line.text
-                    if i == 0:
-                        title = text
-                        if title.find("花押") > -1:
-                            title = lines[i+1].text
-                            if title.find("花押") > -1:
-                                title = lines[i+2].text
-
-                    text_sum += text + "\r\n"
-
-        pages = p.findall(prefix+"pb")
-        for page in pages:
-            n = page.get("n")
-            facs = page.get("facs")
-            page_array.append(n)
-
-        date = p.find(prefix+"date")
-        dateText = ""
-        if date != None:
-            dateText = date.text
-
-        print(str(count)+":\t"+title)
-
-        dateStr = ""
-        if date != None:
-            dateStr = date.get("when")
-
-        s = URIRef("http://example.org/"+name+"/"+'{0:03d}'.format(count))
+        if title.find("花押") > -1:
+            title = ss[1].text
+            if title.find("花押") > -1:
+                title = ss[2].text
 
         title = str(count)+": "+title
 
-        start_page = page_array[0]
+        text = ""
+        for s in ss:
+            for ite in s.itertext():
+                text += ite
+            text += "\r\n"
 
-        canvasId = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/"+omeka_id+"/canvas/p"+str(start_page);
+        canvasId = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/"+omeka_id+"/canvas/p"+str(page);
 
-        caption = "https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/"+name+".json&canvasID="+canvasId
+        caption = "https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/"+manifest_filename+"&canvasID="+canvasId
+
+        date = div.find(prefix+"date")
+        dateText = ""
+        if date != None:
+            dateText = date.get("when")
+
+        s = URIRef("http://example.org/"+name+"/"+'{0:03d}'.format(count))
 
         url = URIRef(caption)
 
-        if count != 0:
-
-            g.add((s, DC.title, Literal(title)))
-            g.add((s, DC.description, Literal(text_sum)))
-            if dateStr != "":
-                g.add((s, DC.date, Literal(dateStr)))
-            g.add((s, DC.relation, url))
-            g.add((s, DC.subject, Literal(name)))
+        g.add((s, DC.title, Literal(title)))
+        g.add((s, DC.description, Literal(text)))
+        if dateText != "":
+            g.add((s, DC.date, Literal(dateText)))
+        g.add((s, DC.relation, url))
+        g.add((s, DC.subject, Literal(name)))
 
         count += 1
+
 
     f = open(outputpath, "wb")
     f.write(g.serialize(format='xml'))
@@ -118,4 +107,6 @@ if __name__ == "__main__":
     args = parse_args()
 
     main(
-        args.path_to_xml)
+        args.path_to_xml,
+        args.omeka_id,
+        args.name)

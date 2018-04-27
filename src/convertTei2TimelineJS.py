@@ -22,11 +22,17 @@ def main(path_to_xml):
     inputpath = path_to_xml
     outputpath = inputpath+"_sjis.csv"
 
+    omeka_id = "21834"
+    manifest_filename = "kiroku.json"
+    filename = "御前落居記録"
+
     '''
     main
     '''
 
     prefix = ".//{http://www.tei-c.org/ns/1.0}"
+    prefix2 = "{http://www.tei-c.org/ns/1.0}"
+    prefix3 = "{http://www.w3.org/XML/1998/namespace}"
 
     tree = ET.parse(inputpath)
     root = tree.getroot()
@@ -35,85 +41,61 @@ def main(path_to_xml):
 
     count = 1
 
-    page_array = []
-    last_page = ""
-    uri_map = dict()
+    imgMap = dict()
 
     with open(outputpath, 'w', encoding='shift_jis', errors='replace') as f:
         writer = csv.writer(f, lineterminator='\n') # 改行コード（\n）を指定しておく
 
-        for p in list(body):
 
-            es = list(p)
-            if len(es) > 0:
-                if es[0].tag == "{http://www.tei-c.org/ns/1.0}pb":
-                    page_array = []
+        pages = body.findall(prefix+"pb")
+        for page in pages:
+            n = page.get("n")
+            facs = page.get("facs")
+            imgMap[int(n)] = facs
 
-            text_sum = ""
+        divs = body.findall(prefix2+"div")
+        for div in divs:
 
-            title = ""
+            ss = div.findall(prefix+"s")
 
-            lines = p.findall(prefix+"line")
+            attrs = ss[0].attrib[prefix3+"id"].split("_")
+            page = int(attrs[0][3:])
 
-            if len(lines) > 0:
+            title = ss[0].text
 
-                for i in range(0, len(lines)):
-                    line = lines[i]
-                    if line.text != None:
-                        text = line.text
-                        if i == 0:
-                            title = text
-                            if title.find("花押") > -1:
-                                title = lines[i+1].text
-                                if title.find("花押") > -1:
-                                    title = lines[i+2].text
+            if title.find("花押") > -1:
+                title = ss[1].text
+                if title.find("花押") > -1:
+                    title = ss[2].text
 
-                        text_sum += text + "<br/>\r\n"
+            title = str(count)+": "+title
 
-            pages = p.findall(prefix+"pb")
-            for page in pages:
-                n = page.get("n")
-                facs = page.get("facs")
-                page_array.append(n)
-                last_page = n
-                uri_map[n] = facs
+            text = ""
+            for s in ss:
+                for ite in s.itertext():
+                    text += ite
+                text += "<br/>\r\n"
 
-            date = p.find(prefix+"date")
-            if date != None:
+            canvasId = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/"+omeka_id+"/canvas/p"+str(page);
 
-                print(str(count)+":\t"+title)
+            caption = "<a href=\"https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/"+manifest_filename+"&canvasID="+canvasId+"\">"+filename+" p."+str(page)+"</a>"
 
-                dateStr = date.get("when")
+            text += "<br/>"+caption
 
-                start_page = page_array[0]
+            media = imgMap[page]
+            thumb = media.replace(",600", ",200")
 
-                media_uri = uri_map[start_page]
-                thumb_uri = media_uri.replace(",600", ",200");
+            line = []
+            line.append(title)
+            line.append(text)
+            line.append(media)
+            line.append("") #Media Credit
+            line.append("") #Media Caption
+            line.append(thumb)
 
-                canvasId = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+str(start_page);
+            writer.writerow(line)
 
-                caption = "<a href=\"https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/manifest.json&canvasID="+canvasId+"\">御前落居記録 p."+start_page+"</a>"
-
-                text_sum += "<br/>" + caption
-
-                title = str(count)+": "+title
-
-                line = []
-                line.append(title)
-                line.append(text_sum)
-                line.append(media_uri)
-                line.append("") #Media Credit
-                line.append("") #Media Caption
-                line.append(thumb_uri)
-
-                writer.writerow(line)
-
-                count += 1
-
-
-            page_array = []
-            page_array.append(last_page)
-
+            count += 1
 
 if __name__ == "__main__":
     args = parse_args()
