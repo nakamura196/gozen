@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link rel="stylesheet" type="text/css" href="mirador/css/mirador-combined.css">
+  <link rel="stylesheet" type="text/css" href="mirador/plugins/mirador-dragndrop-link-plugin/dragndrop-link.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+
+
+  <title>Mirador Viewer</title>
+  <style type="text/css">
+  #viewer {
+    display: block;
+    width: 95%;
+    height: 600px;
+    margin: 1em 5%;
+    position: relative;
+  }
+  #target {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+  }
+  </style>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108072134-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108072134-1');
+</script>
+
+
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">TEI & IIIF</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </nav>
+
+  <br/>
+
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col">
+
+        <br/>
+
+        <div id="target" style="width:100%; overflow-x:scroll;">
+        </div>
+      </div>
+      <div class="col"><div id="viewer"></div></div>
+    </div>
+  </div>
+
+  <footer class="container">
+    <hr/>
+    <p>&copy; 東京大学学術資産アーカイブ化推進室</p>
+  </footer>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+
+  <script src="mirador/mirador.min.js"></script>
+  <script src="mirador/plugins/mirador-dragndrop-link-plugin/dragndrop-link.js"></script>
+
+  <script type="text/javascript" language="javascript">
+
+
+  $(function(){
+    $.ajax({
+      url:'kiroku.xml',
+      type:'GET',
+      dataType:'xml',
+      timeout:1000,
+      error:function() {
+        alert("ロード失敗");
+      },
+      success:function(xml){
+        $(xml).find("s").each(function() {
+          var p = $("<p>");
+          $s = $(this);
+          p.append($s.text());
+          p.attr('onClick', 'test("'+$s.attr("xml:id")+'");');
+          $("#target").append(p);
+        });
+
+
+
+      }
+    });
+  });
+
+  $(function() {
+
+    var vars = {};
+    var param = location.search.substring(1).split('&');
+    for(var i = 0; i < param.length; i++) {
+      var keySearch = param[i].search(/=/);
+      var key = '';
+      if(keySearch != -1) key = param[i].slice(0, keySearch);
+      var val = param[i].slice(param[i].indexOf('=', 0) + 1);
+      if(key != '') vars[key] = decodeURI(val);
+    }
+
+    vars["manifest"] = "https://nakamura196.github.io/gozen/data/kiroku.json";
+
+    var tmpManifests = new Object();
+    var windowObjects = new Array();
+    var layout;
+
+    var data = new Array();
+
+    if(vars["manifest"]){
+      var manifests = vars["manifest"];
+      var array = manifests.split(";");
+
+      for(var i = 0; i < array.length; i++){
+        var manifest = array[i];
+        var obj = new Object();
+        obj["loadedManifest"] = manifest;
+        //obj["viewType"] = "BookView";//"ImageView";
+        obj["canvasID"] = "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/uparl/images/A005935-03/ASIA0004-00-0035.tif/p15";
+        //obj["loadedManifest"] = "http://dms-data.stanford.edu/data/manifests/Walters/qm670kv1873/manifest.json";
+        //obj["canvasID"]  = "http://dms-data.stanford.edu/data/manifests/Walters/qm670kv1873/canvas/canvas-1";
+        obj["viewType"] = "ImageView";
+        obj["windowOptions"] = new Object();
+        windowObjects.push(obj);
+        tmpManifests[manifest] = "";
+      }
+
+      layout = "1x"+array.length;
+
+    } else {
+
+      for(var key in tmpManifests){
+
+        var manifest = key;
+
+        var obj = new Object();
+        obj["loadedManifest"] = manifest;
+        obj["viewType"] = "ImageView";
+        windowObjects.push(obj);
+
+
+      }
+
+      layout ="2x2";
+
+
+    }
+
+    for(var key in tmpManifests){
+
+      var manifest = key;
+
+      var obj = new Object();
+      obj["manifestUri"] = manifest;
+      obj["location"] = tmpManifests[key];
+      data.push(obj);
+
+
+    }
+
+    Mirador(
+      {
+        "id": "viewer",
+        "layout": "1x1",
+        "data": [
+          { "manifestUri": vars["manifest"], "location": ""}
+        ],
+        "windowSettings": {
+          "sidePanel": true,
+          "canvasControls": {
+            "annotations": {
+              "annotationState": "on",
+              "annotationCreation": true
+            }
+          }
+        },
+        "windowObjects": [{
+          loadedManifest: vars["manifest"],
+          canvasID: vars["canvasID"],
+          viewType: "ImageView"
+        }],
+        "annotationEndpoint": { "name":"Local Storage", "module": "LocalStorageEndpoint" }
+      }
+    );
+
+  });
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113082469-1');
+
+  function test(id){
+
+    page = Number(id.split("_")[0].substring(1));
+
+    $("#viewer").empty();
+
+    vars = new Object()
+    vars["manifest"] = "https://nakamura196.github.io/gozen/data/kiroku.json";
+    vars["canvasID"] = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+page;
+
+    Mirador(
+      {
+        "id": "viewer",
+        "layout": "1x1",
+        "data": [
+          { "manifestUri": vars["manifest"], "location": ""}
+        ],
+        "windowSettings": {
+          "sidePanel": true,
+          "canvasControls": {
+            "annotations": {
+              "annotationState": "on",
+              "annotationCreation": true
+            }
+          }
+        },
+        "windowObjects": [{
+          loadedManifest: vars["manifest"],
+          canvasID: vars["canvasID"],
+          viewType: "ImageView"
+        }],
+        "annotationEndpoint": { "name":"Local Storage", "module": "LocalStorageEndpoint" }
+      }
+    );
+  }
+
+</script>
+</body>
+</html>
