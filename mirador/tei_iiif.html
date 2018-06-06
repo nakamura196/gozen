@@ -85,7 +85,7 @@
 
   <script src="mirador/mirador.min.js"></script>
   <script src="mirador/plugins/mirador-dragndrop-link-plugin/dragndrop-link.js"></script>
-
+  <script src="mirador/plugins/mirador-jump-to-page/jump_to_page.js"></script>
   <script type="text/javascript" language="javascript">
 
 
@@ -221,12 +221,16 @@
 
     page = Number(id.split("_")[0].substring(1));
 
-    $("#viewer").empty();
+    //$("#viewer").empty();
 
-    vars = new Object()
-    vars["manifest"] = "https://nakamura196.github.io/gozen/data/kiroku.json";
-    vars["canvasID"] = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+page;
+    //vars = new Object()
+    //vars["manifest"] = "https://nakamura196.github.io/gozen/data/kiroku.json";
+    //vars["canvasID"] = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+page;
 
+    $(".page-select").val("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p"+page)
+    $(".page-select").change()
+
+    /*
     Mirador(
       {
         "id": "viewer",
@@ -251,6 +255,7 @@
         "annotationEndpoint": { "name":"Local Storage", "module": "LocalStorageEndpoint" }
       }
     );
+    */
   }
 
 </script>
