@@ -183,6 +183,7 @@
       var tbody = $("#resourceListBody");
 
       dates = new Object()
+
       monthes = new Object()
       for(var y = 30; y < 33; y++){
         year = "14"+y;
@@ -215,7 +216,7 @@
 
         td = $("<td>");
         tr.append(td);
-        td.append(obj.description.value);
+        td.append(obj.description.value.replace(/\r\n/g, '<br/>'));
 
         var date = obj.date.value
 
@@ -224,9 +225,11 @@
         td.append(date);
 
         if(!dates[date]){
-          dates[date] = 0
+          dates[date] = new Object()
+          dates[date]["kiroku"] = 0
+          dates[date]["hosyo"] = 0
         }
-        dates[date] = dates[date] + 1
+        dates[date][subject] = dates[date][subject] + 1
 
         month = date.split("-")[0]+"-"+date.split("-")[1]
 
@@ -246,11 +249,12 @@
       }
 
       categories = []
-      data = []
+      data4kiroku = []
+      data4hosyo = []
       for(key in dates){
         categories.push(key)
-        data.push(dates[key])
-
+        data4kiroku.push(dates[key]["kiroku"])
+        data4hosyo.push(dates[key]["hosyo"])
       }
 
       categories4month = []
@@ -285,13 +289,17 @@
         },
         plotOptions: {
           column: {
+            stacking: 'normal',
             pointPadding: 0.2,
             borderWidth: 0
           }
         },
         series: [{
-          name: 'Record',
-          data: data
+          name: map["kiroku"],
+          data: data4kiroku
+        },{
+          name: map["hosyo"],
+          data: data4hosyo
         }]
       });
 

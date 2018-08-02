@@ -3,11 +3,50 @@
    xmlns:ns1="http://purl.org/dc/elements/1.1/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="http://example.org/kiroku/006">
-    <ns1:title>6: 一賀茂社片岡祢宜冨久与前神主資久相論若狹</ns1:title>
+  <rdf:Description rdf:about="http://example.org/kiroku/038">
+    <ns1:date>1431-11-08</ns1:date>
+    <ns1:title>38: 一　　楢葉近江守満清与佐々木大膳大夫満綱</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p47"/>
+    <ns1:description>（花押）&#13;
+一　　楢葉近江守満清与佐々木大膳大夫満綱&#13;
+　　　相論江州甲賀郡内蔵田庄地頭職事&#13;
+　就満清訴状出帯文和四年正月十五日御書稱令&#13;
+　拜領甲賀郡満綱雖支申之於彼郡内他人領知&#13;
+　繁多也何限此地可申子細哉既明徳三年&#13;
+　楢葉所給之御下文分明之上者不及豫儀若謬而&#13;
+　被成下御判於楢葉者後日對満綱父争不被成下&#13;
+　還補御判乎爰明徳四年幷應永十七年雖被成&#13;
+　甲賀郡之安堵除地在之由被書載訖然者楢葉&#13;
+　所給之御下文為先日之間旁以叶理致歟仍止&#13;
+　押領如元可沙汰付満清之旨被成御教書訖焉&#13;
+
+            永享三年十一月八日　左衛門尉秀藤（花押） &#13;
+　　　　　　　　　　右衛門尉為秀（花押）&#13;
+</ns1:description>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1430-10-11</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/018">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p24"/>
+    <ns1:description>（花押）&#13;
+一益若丸与松梅院相論太神宮領尾張&#13;
+　國本神戸司職内咋井五郎丸西小嶋八女等事 &#13;
+　如益若丸訴申者為太神宮領本神戸&#13;
+　司職七郷内之處安威入道性遵掠給御&#13;
+　判剰比丘尼眞照性遵息女寄進北野宮寺 &#13;
+　云々松梅院帯安堵御判雖支申性遵&#13;
+　觀應二年正月廿六日御下文未施行之&#13;
+　上眞照不帯譲状社家又無寄進&#13;
+　状者也旁不分明者哉兩祭主清忠宗直執申 &#13;
+　上者可被成下御判於益若丸也矣&#13;
+
+            永享二年十二月廿三日　和泉守秀定 &#13;
+　　　　　　　　　　　加賀守基貞（花押）&#13;
+</ns1:description>
+    <ns1:date>1430-12-23</ns1:date>
+    <ns1:title>18: 一益若丸与松梅院相論太神宮領尾張</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/006">
     <ns1:description>（花押）&#13;
 一賀茂社片岡祢宜冨久与前神主資久相論若狹&#13;
 　國宮川庄本家領家公文等三職事冨久&#13;
@@ -23,197 +62,110 @@
             永享二年十月十一日　肥前守為種（花押） &#13;
 　　　　　　　　　　大和守貞連（花押）&#13;
 </ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p10"/>
+    <ns1:title>6: 一賀茂社片岡祢宜冨久与前神主資久相論若狹</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1430-10-11</ns1:date>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/067">
-    <ns1:title>67: 一　　武藤与次郎用定申遠江國一宮庄代官</ns1:title>
-    <ns1:description>一　　武藤与次郎用定申遠江國一宮庄代官&#13;
-　　　職事&#13;
-　先代官大谷豊前入道玄本雖申子細所領者可&#13;
-　為領主計哉於負物者行結解之段玄本既&#13;
-　承伏之上者任用定申請可被成下御教書焉&#13;
+  <rdf:Description rdf:about="http://example.org/kiroku/031">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>31: 一　　觀勝寺大悲院与鯰江五郎左衛門尉高真</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p39"/>
+    <ns1:date>1431-08-15</ns1:date>
+    <ns1:description>（花押）&#13;
+一　　觀勝寺大悲院与鯰江五郎左衛門尉高真&#13;
+　　　相論飛騨國大野郡内恒武名号西一色事&#13;
+　如大悲院申者去應永十八年三月十六日伊地知次郎氏和&#13;
+　寄附當院以来知行無相違之間同廿年四月十九日給&#13;
+　安堵銘之處同年十二月十三日掠給鯰江入道明西云々爰&#13;
+　明西遺跡高真雖支申於御下文者無下名至寺家&#13;
+　者自應永十八年至同廿年十月當知行之所見分明也&#13;
+　依何不忠寺領可被闕所哉且又評定衆意見如此&#13;
+　然上者被返付觀勝寺大悲院則被成下　御判訖矣&#13;
 
-            永享四年十二月二日　美作守秀藤 &#13;
+            永享三年八月十五日　右衛門尉為秀（花押） &#13;
+　　　　　　　　　　左衛門尉秀藤（花押）&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/034">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p43"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1431-09-12</ns1:date>
+    <ns1:description>（花押）&#13;
+一　花山院門跡雑掌申近江國榎木庄半済事&#13;
+　當庄者一圓為門跡舊領之處至半済佐々木山内&#13;
+　源三令押領云々其已後彼山内依有御罪科子細&#13;
+　就臨川寺御寄附于今半分門跡不知行也可&#13;
+　被返付之旨申之仍被召出臨川寺文書之處&#13;
+　為佐々木山内源三跡去嘉慶元年十二月五日御&#13;
+　寄進之条見于　御判畢雖然尚以被尋問&#13;
+　評定衆意見之處門跡舊領之段仁平以来證文&#13;
+　分明之上者於當所者被返付門跡至臨川寺者&#13;
+　可被寄替地歟之由令言上之任理運一圓被&#13;
+　付門跡之旨被成　御判畢矣&#13;
+
+            永享三年九月十二日　加賀守為行（花押） &#13;
+　　　　　　　　　　對馬守貞清（花押）&#13;
+</ns1:description>
+    <ns1:title>34: 一　花山院門跡雑掌申近江國榎木庄半済事</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/052">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p64"/>
+    <ns1:title>52: 一　疋田彦三郎長利与參河國渥美郡高足</ns1:title>
+    <ns1:date>1432-04-26</ns1:date>
+    <ns1:description>一　疋田彦三郎長利与參河國渥美郡高足&#13;
+　　郷舩形寺雑掌相論境内雲谷手洗山寺&#13;
+　　三名事&#13;
+如長利訴申者於彼三名者雖為寺家之境内&#13;
+為高足郷内高祖父以来持來之地也殊帯去應永七年&#13;
+十二月廿七日安堵幷同十七年九月十日御教書當知行之&#13;
+處舩形寺又申給御判押領云々如雑掌支申者文治&#13;
+四年九月十五日御寄進状以後於境内者更以無他妨者也&#13;
+爰疋田雖掠給御教書應永十七就歎申翌年被召返利正 &#13;
+
+            長利亡父所給之御判被成御下知於當寺訖其時申加惣郷 &#13;
+御判應永七之条始而令存知云々所詮於境内者盡未來際 &#13;
+不可成他綺之旨文治御寄附状文章異于他而先申&#13;
+加安堵經数年重掠申御教書之段造意之咎甚是&#13;
+重尤雖可被収公惣郷以御寛宥被閣者也仍向後可&#13;
+停止訴訟之由被召下長利請文之上者寺家永代可全&#13;
+領知之旨被成　御判畢&#13;
+
+            永享四年四月廿六日　散　位貞元 &#13;
 　　　　　　　　　　民部丞基世&#13;
 </ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p80"/>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1432-12-02</ns1:date>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/005">
-    <ns1:title>5: 一足助次郎淳重申参河國足助庄内仁木郷</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p8"/>
-    <ns1:subject>kiroku</ns1:subject>
+  <rdf:Description rdf:about="http://example.org/kiroku/039">
+    <ns1:title>39: 一　海老名美濃守兼季与小野松夜叉丸幷河野</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p48"/>
     <ns1:description>（花押）&#13;
-一足助次郎淳重申参河國足助庄内仁木郷&#13;
-事先年足助左馬助御敵之時祖父重胤&#13;
+一　海老名美濃守兼季与小野松夜叉丸幷河野&#13;
+　　加賀入道性永相論近江國小野社神主職同國則永&#13;
+　　名事&#13;
+　兼季如訴申者於小野社神主職者小野六郎就時衆&#13;
+　殺害之罪科被闕所之去應永十五年被成御下文之&#13;
+　處彼等違背御成敗終不去渡下地云云松夜叉丸如支&#13;
+　申者海老名雖致無理之競望帯兩度安堵應永廿一年同廿九年&#13;
+　當知行云云雖然非還補之上不申披所犯旁以紕謬令&#13;
+　露顯之趣有沙汰被成下御下知於兼季畢八　十八　落居&#13;
+　次則永名事兼季如訴状者河野依為御賀兒當時帥&#13;
+　被官人被没収彼名雖令拜領御下文同前本主於國支置之 &#13;
+　剰掠給御判之由訟之性永如陳状者御賀家來之跡可&#13;
+　被収公所帯重科何事哉其上帯同廿二年安堵領知&#13;
+　無相違之由陳之所詮彼被官之輩可被召放所領之段&#13;
+　凡為不便歟雖然為其時之法申給訴人非無由緒就中&#13;
+　立帰遵行之地押領之条難遁其過之旨同被經御沙汰&#13;
+　被下　御判於兼季訖&#13;
 
-            左馬助舎弟雖令諷諫不承引仕之間隠居仕之處 &#13;
-被聞食披被召出之致忠節被下還補御判&#13;
-等訖雖然土岐宮内少輔押領之其後土岐御器&#13;
-所知行之刻土岐肥田瀬申給之条難堪也云々&#13;
-肥田瀬宮内大輔支状云為御器所拜領之間稱&#13;
-本主歎申之条更無其謂云々所詮足助有勲&#13;
-功無其誤之上者任證文等之旨被下還補&#13;
-御判於淳重訖&#13;
-　土肥次郎貞平窮困事管領被執申之仍&#13;
-　不可有准據之儀限一人以契約在所可申&#13;
-　旨被仰出之間以此在所申請令契約訖&#13;
-　即不謂御銘之次第令披露者也焉&#13;
-
-            永享二年九月十八日　肥前守為種（花押） &#13;
-　　　　　　　　　　加賀守基貞（花押）&#13;
+            永享三年十一月十三日　散　位　貞元（花押） &#13;
+　　　　　　　　　　　左衛門尉秀藤（花押）&#13;
 </ns1:description>
-    <ns1:date>1430-09-18</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/044">
+    <ns1:date>1431-11-13</ns1:date>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>44: 一　高野山智荘嚴院雑掌与細河土左入道常仙</ns1:title>
-    <ns1:description>（花押）&#13;
-一　高野山智荘嚴院雑掌与細河土左入道常仙&#13;
-　　相論和泉國近木庄内八ケ権門領但除内膳村事 &#13;
-如雑掌訴申者當所就本主之寄附帯去應永&#13;
-廿年六月五日安堵當知行之處常仙掠給之條&#13;
-無謂之旨言上之常仙者捧同廿三年九月八日御&#13;
-下文當知行之旨論之仍被訪評定衆幷右筆&#13;
-意見訖所詮常仙所給者云未施行云後日御下文&#13;
-難被許容之雑掌所申非無其謂之由意見皆&#13;
-同之間可被成御判於智荘嚴院也矣&#13;
-
-            永享三年十一月卅日　對馬守貞清（花押） &#13;
-　　　　　　　　　　加賀守為行（花押）&#13;
-</ns1:description>
-    <ns1:date>1431-11-30</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p54"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/064">
-    <ns1:date>1432-11-28</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>一　神祇權大副大中臣秀直与舎兄宗直相論&#13;
-　　伊勢國原庄幷冨田庄各半分事&#13;
-　如秀直申者為父通直之處分帯去應永&#13;
-　卅五年潤三月十五日譲状之處宗直令抑留之&#13;
-　如形加扶持之条難堪之由秀直申之宗直又&#13;
-　於年貢者可致其沙汰至下地者可自専之&#13;
-　旨論之所詮宗直之出帯譲状可持下地文言&#13;
-　無之上於御糺明中間出去状訖旁不及豫儀&#13;
-　歟然者云以前未進云兩所下地可去渡秀直&#13;
-　由被召仰宗直訖&#13;
-
-            永享四年十一月廿八日　對馬守貞清 &#13;
-　　　　　　　　　　　加賀守基貞&#13;
-</ns1:description>
-    <ns1:title>64: 一　神祇權大副大中臣秀直与舎兄宗直相論</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p77"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/017">
-    <ns1:description>（花押）&#13;
-一紫野大徳寺雑掌申攝津國住吉慈恩&#13;
-　寺幷玄通寺等事為當寺末寺之處&#13;
-　嵯峨門徒梵策依為住吉社前神主兄弟&#13;
-　掠執補任押領云々如神主支状者為神主&#13;
-　親類居住造立之由言上之間他門之僧住&#13;
-　院之先蹤雖被尋下任補任賜安堵御教書&#13;
-　外無他事者也然者任去應永十九年七月十三&#13;
-　日御判正文紛失之間被召出奉行所符案幷神主先祖國量状 &#13;
-　等為末寺大徳寺可領掌之由被成御教書&#13;
-　訖焉&#13;
-
-            永享二年十二月廿一日　肥前守為種（花押） &#13;
-　　　　　　　　　　　加賀守基貞（花押）&#13;
-</ns1:description>
-    <ns1:title>17: 一紫野大徳寺雑掌申攝津國住吉慈恩</ns1:title>
-    <ns1:date>1430-12-21</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p23"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/012">
-    <ns1:description>（花押）&#13;
-（花押）&#13;
-一左衛門督入道代申西園寺京極家領山城&#13;
-　國鳥羽庄幷魚市河内國會賀牧等各&#13;
-　参分壹方事&#13;
-彼所々一圓去年以来預申訖但於鳥羽魚&#13;
-市者去年所務三分二方先納之至會賀牧者&#13;
-雖為數年預所年貢者同前爰京極家永&#13;
-享元四　廿還補之處西園寺北山抑留三分壹年 &#13;
-貢云々就被訴申為貞連御使可沙汰渡申&#13;
-旨被仰下之同者可被成下御奉書之由被&#13;
-望申所詮以當年内去年未進任員數可被渡&#13;
-遣京極家代之旨松田對馬守相共可成奉&#13;
-書也矣&#13;
-
-            永享二年十一月十三日　大和守貞連（花押） &#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p16"/>
-    <ns1:date>1430-11-13</ns1:date>
-    <ns1:title>12: 一左衛門督入道代申西園寺京極家領山城</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/022">
-    <ns1:description>一乗院家雑掌申就若宮祭礼田楽頭役&#13;
-和州門跡領所々重色十疋非重色五疋段別&#13;
-錢事被懸課之處学侶衆徒号祈願寺&#13;
-寄人及異儀之条無其謂云々如学侶申&#13;
-者重色五疋非重色三疋可懸課之但於&#13;
-祈願寺寄人者可被閣之旨申之雖然&#13;
-不帯免除之状之上至門跡者出帯度々&#13;
-段錢納帳之間可被懸沙汰之由被成御教書&#13;
-訖焉&#13;
-
-            永享二年十二月廿九日　肥前守為種（花押） &#13;
-　　　　　　　　　　　加賀守為行（花押）&#13;
-</ns1:description>
-    <ns1:date>1430-12-29</ns1:date>
-    <ns1:title>22: 一乗院家雑掌申就若宮祭礼田楽頭役</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p28"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/063">
-    <ns1:title>63: 一　南宮社雑掌与土岐鷲巣右馬頭満康</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p76"/>
-    <ns1:date>1432-11-27</ns1:date>
-    <ns1:description>一　南宮社雑掌与土岐鷲巣右馬頭満康&#13;
-　　相論美濃國垂井八間在家事&#13;
-　如雑掌申者於八間在家者為社領之處&#13;
-　満康混不破善正跡押領之由訴之如満康&#13;
-　支申者彼八間在家事者為不破善正跡之&#13;
-　由陳申之間被召決兩方證文處至件論所&#13;
-　地者満康出帯所見不分明旁以所申無&#13;
-　其實上者任貞治三年九月十五日御下知如&#13;
-　元被成御判於社家訖&#13;
-
-            永享四年十一月廿七日　左兵衛尉熈基 &#13;
-　　　　　　　　　　　右衛門尉為秀&#13;
-</ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/003">
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1430-09-03</ns1:date>
-    <ns1:description>（花押）&#13;
-一常陸房宴珎与石泉院雑掌相論近江&#13;
-　國岸下庄号清水預所職事&#13;
-如宴珎申状者雖為當門跡領於預所職者去&#13;
-文和三年六月十五日僧正忠性于時院主被譲補若壽 &#13;
-丸訖帯同附弟尋源安堵幷相續状等知行&#13;
-處石泉院召放被申付別人不便之由申之&#13;
-如雑掌支状者宴珎祖父永珎知行之段無&#13;
-子細歟守其例可永領之旨稱之支證何事&#13;
-哉永珎息舜珎相語小倉鯰江就違乱為山上&#13;
-出連暑畢如此依不忠改替之由申之　御定&#13;
-已先師代々譲状云未来永々不可有相違文章&#13;
-幷相傳状等分明之處不帯支證捧胸臆支状&#13;
-菟角申之歟理不盡之至也早可被申付&#13;
-宴珎之旨兩人罷向石泉院可申之同可&#13;
-被成下御教書也焉&#13;
-
-            同　日　　　大和守貞連（花押） &#13;
-　　　　　左衛門尉秀藤（花押）&#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p6"/>
-    <ns1:title>3: 一常陸房宴珎与石泉院雑掌相論近江</ns1:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/020">
+    <ns1:subject>kiroku</ns1:subject>
     <ns1:date>1430-12-23</ns1:date>
     <ns1:description>（花押）&#13;
 一金輪院弁澄与聖行院兼睿相論南谷領近江&#13;
@@ -243,84 +195,170 @@
             永享二年十二月廿三日　加賀守為行（花押） &#13;
 　　　　　　　　　　　民部丞基世（花押）&#13;
 </ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p26"/>
     <ns1:title>20: 一金輪院弁澄与聖行院兼睿相論南谷領近江</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p26"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/009">
-    <ns1:title>9: 一妙法寺領</ns1:title>
+  <rdf:Description rdf:about="http://example.org/kiroku/014">
+    <ns1:title>14: 一造酒正師俊与中御門大納言家</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p18"/>
     <ns1:description>（花押）&#13;
-一妙法寺領号穴蒲堂敷地北小路町北頬 &#13;
-　肆丁町内事&#13;
-一号六條八幡宮領分事奉行松田對馬守&#13;
-一河原口道場前寮分事奉行飯尾加賀守&#13;
-　　於此兩所者不帯　公驗之間被付當寺&#13;
-　　訖&#13;
-一赤松伊豆守被官人小柴今者金阿云々分事 &#13;
-　雖捧地方奉書應永廿年十月廿五日&#13;
-　任以前御　判等之旨被付寺家訖&#13;
-一山門三宮領分事　　奉行飯尾加賀守&#13;
-一野道場　　分事　　同人 &#13;
-　此二个所事任　公驗之旨被閣之訖&#13;
+一造酒正師俊与中御門大納言家&#13;
+　雑掌相論酒鑪役事理非之&#13;
+　段被尋仰傳奏三人訖然間&#13;
 
-            永享二年十一月三日　和泉守秀定 &#13;
-　　　　　　　　　　加賀守為行&#13;
-　　　　　　　　　　對馬守貞清&#13;
+            万里小路大納言觀修寺中納言廣橋中納言意見状 &#13;
+　分明之上者可被付師俊之由&#13;
+　被仰下訖仍被成奉書者也&#13;
+
+            永享二年十一月廿三日　和泉守秀定 &#13;
+　　　　　　　　　　　加賀守基貞（花押）&#13;
 </ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p13"/>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1430-11-03</ns1:date>
+    <ns1:date>1430-11-23</ns1:date>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/027">
-    <ns1:date>1431-05-25</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>27: 一大原勝林院通嚴申来迎院領備中國</ns1:title>
-    <ns1:description>（花押）&#13;
-一大原勝林院通嚴申来迎院領備中國小田甲努&#13;
-　新賀山口四箇村事 &#13;
-　為年来當院領之處中古院務本達上人同&#13;
-　朋正信致自専任雅意令譲与聖興蔵主于時知客&#13;
-　其跡常喜幷徹書記以下於于今押妨之条寺領&#13;
-　一所及失墜之由就申之被尋下常喜等召出&#13;
-　支證備　上覧訖尤以合奉行雖可有御糺明&#13;
-　所令出帯如支状幷文書案正文紛失云々者本券正信 &#13;
-　譲状也何非住持之儀可相計寺領哉縦雖為院&#13;
-　務一代住持譲状難被許容歟旁以通嚴所申&#13;
-　非無其謂然早任暦應三年十二月四日　院宣之旨&#13;
-　以　御判可被返付来迎院也矣&#13;
+  <rdf:Description rdf:about="http://example.org/kiroku/056">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p69"/>
+    <ns1:description>一　岩堀三郎左衛門入道妙玄申地蔵院門跡&#13;
+　　領尾張國枳豆志庄西方内垂水檜原兩&#13;
+　　郷事&#13;
+彼輩知行分帯洪恩院殿幷養徳院殿御充状&#13;
+各領知無相違之處限妙玄知行分地蔵院殿&#13;
+有御勘落之旨妙玄歎申者也雖然於地蔵院御&#13;
+相傳之地者止給人知行一圓可有御領知之由被&#13;
+定置歟養徳院殿御譲等事可尋申三寶院&#13;
+由被　仰出訖無御譲状等之由被申御返事訖&#13;
+地蔵院殿雑掌申詞同前也将又自余之輩彼&#13;
+御恩地如元令知行哉否被尋申妙雲院幷御&#13;
+比丘尼様實相院等之處各御知行内諸給人領知&#13;
+敢以無相違之旨載御文被申御返事也此上者&#13;
+如元可被返付妙玄之由度々被仰出被召下&#13;
+渡状也&#13;
 
-            永享三年五月廿五日　大和守貞連（花押） &#13;
+            永享四年六月廿日　左衛門尉秀藤 &#13;
+　　　　　　　　　　大和守貞連&#13;
 </ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p34"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>56: 一　岩堀三郎左衛門入道妙玄申地蔵院門跡</ns1:title>
+    <ns1:date>1432-06-20</ns1:date>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/021">
-    <ns1:date>1430-12-25</ns1:date>
-    <ns1:title>21: 
-            </ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p27"/>
+  <rdf:Description rdf:about="http://example.org/kiroku/025">
     <ns1:description>（花押）&#13;
+一　佐々木佐渡入道祐繁申攝津國多田庄&#13;
+　　御家人地頭對捍事&#13;
+召上彼御家人等相尋之處於口郷分九人者&#13;
+對地頭不可有異儀地頭成敗亦無非儀之旨&#13;
+捧請文之間四月四日可下向之由被仰付畢爰&#13;
+奥郷輩遅參之間既雖可被加治罰尚以寛&#13;
+宥之儀無怖畏可参之旨被成奉書被差&#13;
+下多田院住持者也仍可參洛之通申御請雖&#13;
+上洛仕寄事於怖畏不参對之上者可被加對治&#13;
+由被仰細川右京大夫赤松左京大夫入道同兵部&#13;
+少輔訖&#13;
 
-            ※（不明）美濃國輕海郷地頭職恒冨入道同庶子等跡事 &#13;
-
-            ※（不明）廣橋中納言家由緒被召出支證之處明徳 &#13;
-三年五月三日祖父以御書但正文紛失拜領以来當知 &#13;
-行之處去應永十五年大舘申給云々爰被召&#13;
-出彼證文訖去明徳元潤三　十六亡父以御下文被下之 &#13;
-中間廣橋家雖被申給其後勝定院殿御代&#13;
-被返下于今當知行之由申之於大舘者御下&#13;
-文先日之間所申雖非無其謂未施行也又應&#13;
-永年中御判為還補者争不載其詞哉旁以&#13;
-非無御不審所詮至廣橋者雖令紛失御書&#13;
-既而施行分明之上細々奉公之間難被對揚&#13;
-上者以御判可被返付廣橋家也焉&#13;
-
-            永享二年十二月廿五日　大和守貞連（花押） &#13;
-（花押）&#13;
+            永享三年五月十六日　肥前守為種（花押） &#13;
+　　　　　　　　　　大和守貞連（花押）&#13;
+　　　　　　　　　　對馬守貞清（花押）&#13;
 </ns1:description>
+    <ns1:date>1431-05-16</ns1:date>
+    <ns1:title>25: 一　佐々木佐渡入道祐繁申攝津國多田庄</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/002">
+    <ns1:title>2: 一北野宮寺祠官松光院法眼秀慶与</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p5"/>
+    <ns1:date>1430-09-03</ns1:date>
+    <ns1:description>（花押）&#13;
+一北野宮寺祠官松光院法眼秀慶与&#13;
+　同社祠官禅宣相論近江國中庄内&#13;
+　田井郷事&#13;
+如秀慶訴状者佐々木佐渡大夫判官入道&#13;
+導譽觀應三七　廿五令寄附當宮於奉行 &#13;
+職者致其沙汰訖其後導譽對故石見&#13;
+法印禅嚴一旦雖書与状去永和元九　十八高秀 &#13;
+如元返付松光院之處同五年三月十二日禅&#13;
+嚴号當知行掠給御判押妨之由申之如&#13;
+禅宣支状者帯判官入道寄進状同安堵&#13;
+以下于今相續當知行之旨稱之　御定両方&#13;
+申詞枝葉雖多之高秀去永和元九　十八返付松光 &#13;
+院以後禅嚴不帯還補状申給御判剰申&#13;
+成施行旁以非無不審所詮掠領之段無子&#13;
+細歟早任本券可被返付秀慶可書上御判也矣&#13;
+
+            永享二年九月三日　大和守貞連（花押） &#13;
+　　　　　　　　　加賀守基貞（花押）&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/068">
+    <ns1:title>68: 一　　攝津國海光菴雑掌与宇野帯刀左衛</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p81"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>一　　攝津國海光菴雑掌与宇野帯刀左衛&#13;
+　　　門尉弘祐相論播磨國三木本郷内則久名事&#13;
+　如雑掌申者彼名本主播磨國御家人石野太郎&#13;
+　左衛門尉久名為譜代相傳地之間且成親子契約&#13;
+　且為菩提應安二年十月十三日令譲与僧希胤海光菴主&#13;
+　知行無相違之處永和四年十二月十二日赤松能登入道今号宇野&#13;
+　掠給　御判押領云々如弘祐支申者石野太郎左衛門尉&#13;
+　依参錦少路殿方為彼跡拜領云々然者可出帯證據之&#13;
+　由被仰出之處不明申之上於石野者帯正平六年御判&#13;
+　以来至文和度々赤松則祐等感状炳焉也仍被尋評定&#13;
+　衆意見之處海光菴所申有其謂之由言上之間被成&#13;
+　還補　御判於當菴訖&#13;
+
+            永享四年十二月十七日　右衛門尉為秀 &#13;
+　　　　　　　　　　　　加賀守基貞&#13;
+</ns1:description>
+    <ns1:date>1432-12-17</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/069">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>一　建竪書記与得長蔵主相論近江國坂田郡大原&#13;
+　　庄内長禅寺幷寺領等事&#13;
+　彼寺者建竪舎兄佐々木近江入道善源依有異子細&#13;
+　永代去渡之無他妨者也然間一期之後者令譲与得長&#13;
+　侍者之處存命之中稱我物成建仁寺西来院末寺&#13;
+　取本院擧状當身申給安堵　御判令追出伯父建竪&#13;
+　書記訖爰彼得長重望申安堵御判之處壇那大原&#13;
+　判官就此寺住持職有子細之由支申之間其時被召&#13;
+　出彼建竪申披之已前以得長所給　御判等下給建竪&#13;
+　重被成還補　御判畢&#13;
+
+            永享四年十二月十七日　右衛門尉為秀 &#13;
+　　　　　　　　　　　　美作守秀藤&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p82"/>
+    <ns1:title>69: 一　建竪書記与得長蔵主相論近江國坂田郡大原</ns1:title>
+    <ns1:date>1432-12-17</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/003">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p6"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1430-09-03</ns1:date>
+    <ns1:description>（花押）&#13;
+一常陸房宴珎与石泉院雑掌相論近江&#13;
+　國岸下庄号清水預所職事&#13;
+如宴珎申状者雖為當門跡領於預所職者去&#13;
+文和三年六月十五日僧正忠性于時院主被譲補若壽 &#13;
+丸訖帯同附弟尋源安堵幷相續状等知行&#13;
+處石泉院召放被申付別人不便之由申之&#13;
+如雑掌支状者宴珎祖父永珎知行之段無&#13;
+子細歟守其例可永領之旨稱之支證何事&#13;
+哉永珎息舜珎相語小倉鯰江就違乱為山上&#13;
+出連暑畢如此依不忠改替之由申之　御定&#13;
+已先師代々譲状云未来永々不可有相違文章&#13;
+幷相傳状等分明之處不帯支證捧胸臆支状&#13;
+菟角申之歟理不盡之至也早可被申付&#13;
+宴珎之旨兩人罷向石泉院可申之同可&#13;
+被成下御教書也焉&#13;
+
+            同　日　　　大和守貞連（花押） &#13;
+　　　　　左衛門尉秀藤（花押）&#13;
+</ns1:description>
+    <ns1:title>3: 一常陸房宴珎与石泉院雑掌相論近江</ns1:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/023">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p29"/>
     <ns1:description>（花押）&#13;
 一檜皮師孫次郎与同孫九郎相論相國寺大工職事&#13;
 
@@ -350,358 +388,107 @@
             永享二年十二月卅日　　加賀守為行（花押） &#13;
 　　　　　　　　　　左衛門尉秀藤（花押）&#13;
 </ns1:description>
-    <ns1:date>1430-12-30</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
     <ns1:title>23: 一檜皮師孫次郎与同孫九郎相論相國寺大工職事</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1430-12-30</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p29"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/056">
+  <rdf:Description rdf:about="http://example.org/kiroku/047">
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p69"/>
-    <ns1:title>56: 一　岩堀三郎左衛門入道妙玄申地蔵院門跡</ns1:title>
-    <ns1:date>1432-06-20</ns1:date>
-    <ns1:description>一　岩堀三郎左衛門入道妙玄申地蔵院門跡&#13;
-　　領尾張國枳豆志庄西方内垂水檜原兩&#13;
-　　郷事&#13;
-彼輩知行分帯洪恩院殿幷養徳院殿御充状&#13;
-各領知無相違之處限妙玄知行分地蔵院殿&#13;
-有御勘落之旨妙玄歎申者也雖然於地蔵院御&#13;
-相傳之地者止給人知行一圓可有御領知之由被&#13;
-定置歟養徳院殿御譲等事可尋申三寶院&#13;
-由被　仰出訖無御譲状等之由被申御返事訖&#13;
-地蔵院殿雑掌申詞同前也将又自余之輩彼&#13;
-御恩地如元令知行哉否被尋申妙雲院幷御&#13;
-比丘尼様實相院等之處各御知行内諸給人領知&#13;
-敢以無相違之旨載御文被申御返事也此上者&#13;
-如元可被返付妙玄之由度々被仰出被召下&#13;
-渡状也&#13;
+    <ns1:title>47: 一建福寺雑掌与梵積都官</ns1:title>
+    <ns1:description>一建福寺雑掌与梵積都官号松月菴相論 &#13;
+　丹後國凡海郷代官職事&#13;
+如雑掌訴状者相替先規得分減少之間去&#13;
+應永廿七年為糺明奉憑彼都官差遣當郷&#13;
 
-            永享四年六月廿日　左衛門尉秀藤 &#13;
-　　　　　　　　　　大和守貞連&#13;
+            ※（二文字不明）庄主執沙汰員數同篇也而翌年好文 &#13;
+
+            ※（二文字不明）令所望補任多年致知行訖爰寺納分 &#13;
+尚依有不審去年為寺家差下使節就尋&#13;
+究地下答分参拾六石余庄主隠置之段無子細&#13;
+由申之如松月菴支状者郷務職預置涯分致&#13;
+粉骨年貢外二百五拾余貫文不加利平罷立&#13;
+寺用者也彼借物返給被改替歟不然者當足&#13;
+勘弁之間可知行之旨申之仍被尋下評定衆之&#13;
+處兩方申詞雖端多三拾六石余知行之段露顯者&#13;
+難遁其咎歟早云寺家負物云彼隠置分共以&#13;
+被弃破之自今以後寺家可被直務之由意見訖&#13;
+所詮勘状之趣無参差之上者可沙汰付下地於雑掌&#13;
+旨可成御教書也矣&#13;
+
+            永享三年十二月廿七日　　大和守貞連 &#13;
+　　　　　　　　　　　左衛門尉秀藤&#13;
 </ns1:description>
+    <ns1:date>1431-12-27</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p57"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/052">
-    <ns1:title>52: 一　疋田彦三郎長利与參河國渥美郡高足</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p64"/>
+  <rdf:Description rdf:about="http://example.org/kiroku/063">
+    <ns1:description>一　南宮社雑掌与土岐鷲巣右馬頭満康&#13;
+　　相論美濃國垂井八間在家事&#13;
+　如雑掌申者於八間在家者為社領之處&#13;
+　満康混不破善正跡押領之由訴之如満康&#13;
+　支申者彼八間在家事者為不破善正跡之&#13;
+　由陳申之間被召決兩方證文處至件論所&#13;
+　地者満康出帯所見不分明旁以所申無&#13;
+　其實上者任貞治三年九月十五日御下知如&#13;
+　元被成御判於社家訖&#13;
+
+            永享四年十一月廿七日　左兵衛尉熈基 &#13;
+　　　　　　　　　　　右衛門尉為秀&#13;
+</ns1:description>
+    <ns1:title>63: 一　南宮社雑掌与土岐鷲巣右馬頭満康</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p76"/>
+    <ns1:date>1432-11-27</ns1:date>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1432-04-26</ns1:date>
-    <ns1:description>一　疋田彦三郎長利与參河國渥美郡高足&#13;
-　　郷舩形寺雑掌相論境内雲谷手洗山寺&#13;
-　　三名事&#13;
-如長利訴申者於彼三名者雖為寺家之境内&#13;
-為高足郷内高祖父以来持來之地也殊帯去應永七年&#13;
-十二月廿七日安堵幷同十七年九月十日御教書當知行之&#13;
-處舩形寺又申給御判押領云々如雑掌支申者文治&#13;
-四年九月十五日御寄進状以後於境内者更以無他妨者也&#13;
-爰疋田雖掠給御教書應永十七就歎申翌年被召返利正 &#13;
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/050">
+    <ns1:date>1432-03-08</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p62"/>
+    <ns1:title>50: 一　織部正員職与経師良秀相論織部司町地</ns1:title>
+    <ns1:description>一　織部正員職与経師良秀相論織部司町地&#13;
+　　事&#13;
+彼敷地員職之祖父秀職任當官去貞治二年令&#13;
+拜領此織部町致知行之處同六年経師良勝非分&#13;
+申給之條無謂之旨歎申之畢爰如良秀支申者&#13;
+良勝以来相傳當知行證文為連綿云云所詮就&#13;
+官爵被恩補之段非無由緒乎雖然彼時代員職之&#13;
+祖父秀職有罪科否勘舊記可被注申之由被&#13;
+仰傳奏訖仍貞治比秀職参役數十箇年無違失&#13;
+員職相續奉公仕之旨万里少路大納言廣橋中納言&#13;
+各被注進之間任先日之　勅許可被返付員職&#13;
+仰地方頭人可被成下奉書也矣&#13;
 
-            長利亡父所給之御判被成御下知於當寺訖其時申加惣郷 &#13;
-御判應永七之条始而令存知云々所詮於境内者盡未來際 &#13;
-不可成他綺之旨文治御寄附状文章異于他而先申&#13;
-加安堵經数年重掠申御教書之段造意之咎甚是&#13;
-重尤雖可被収公惣郷以御寛宥被閣者也仍向後可&#13;
-停止訴訟之由被召下長利請文之上者寺家永代可全&#13;
-領知之旨被成　御判畢&#13;
-
-            永享四年四月廿六日　散　位貞元 &#13;
+            永享四年三月八日　左衛門尉秀藤 &#13;
 　　　　　　　　　　民部丞基世&#13;
 </ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/051">
-    <ns1:description>一　石清水八幡宮雑掌申中村佐渡入道上月&#13;
-　　大和守狼籍事&#13;
-於神領播磨國西河合中村上月誅社家被官郷鼻彦左衛門入道&#13;
-抑留年貢之由就訴申尋究之處或時彼彦九郎&#13;
-入道号譜代被官人或時稱若黨親敵雖支申不足&#13;
-御信用之間以湯起請可糺決之旨被仰付定日次&#13;
-及三ヶ度雖觸仰中村上月終不遂其節之上者&#13;
-令参差者歟此上者社領内兩人所帯被付社家之&#13;
-由被成御教書訖&#13;
-
-            永享四年四月十四日　　肥前守為種 &#13;
-　　　　　　　　　　左衛門尉秀藤&#13;
-</ns1:description>
-    <ns1:date>1432-04-14</ns1:date>
-    <ns1:title>51: 一　石清水八幡宮雑掌申中村佐渡入道上月</ns1:title>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p63"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/065">
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>65: 一　洞院家雑掌申山城國乙訓郡東方</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p78"/>
-    <ns1:date>1432-11-28</ns1:date>
-    <ns1:description>一　洞院家雑掌申山城國乙訓郡東方&#13;
-　　間事&#13;
-洞院家雑掌如申者為左馬寮領之&#13;
-別納之處南都佛地院知行無謂云々即&#13;
-被尋仰之處菊庭家十九ヶ年沽却之&#13;
-仍十余年知行之旨被申之雖然菊庭&#13;
-家遺跡断絶之間彼跡悉令飛行訖然&#13;
-早任證文可有知行之旨被仰出被御&#13;
-書於洞院家者也矣&#13;
-
-            永享四年十一月廿八日　肥前守為種 &#13;
-</ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/041">
-    <ns1:title>41: 一　　大田七郎頼忠与日野中納言家雑掌相</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
+  <rdf:Description rdf:about="http://example.org/kiroku/012">
+    <ns1:date>1430-11-13</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p16"/>
     <ns1:description>（花押）&#13;
-一　　大田七郎頼忠与日野中納言家雑掌相&#13;
-　　　論攝津國大田保内所職田畠畠田五郎左衛門入道浄忠跡&#13;
-　　　事&#13;
-　對論之趣評定衆申意見訖但浄忠為罪科人&#13;
-　由本所雑掌差申之上者不能御許容先&#13;
-　彼地可被預置伊勢守也可沙汰付之旨可&#13;
-　申付守護代也矣&#13;
+（花押）&#13;
+一左衛門督入道代申西園寺京極家領山城&#13;
+　國鳥羽庄幷魚市河内國會賀牧等各&#13;
+　参分壹方事&#13;
+彼所々一圓去年以来預申訖但於鳥羽魚&#13;
+市者去年所務三分二方先納之至會賀牧者&#13;
+雖為數年預所年貢者同前爰京極家永&#13;
+享元四　廿還補之處西園寺北山抑留三分壹年 &#13;
+貢云々就被訴申為貞連御使可沙汰渡申&#13;
+旨被仰下之同者可被成下御奉書之由被&#13;
+望申所詮以當年内去年未進任員數可被渡&#13;
+遣京極家代之旨松田對馬守相共可成奉&#13;
+書也矣&#13;
 
-            永享三年十一月十五日　左衛門尉秀藤（花押） &#13;
-　　　　　　　　　　　散　位　貞元（花押）&#13;
-</ns1:description>
-    <ns1:date>1431-11-15</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p51"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/032">
-    <ns1:title>32: 一東大寺雑掌与尊乗院經弁僧正雑掌</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p40"/>
-    <ns1:date>1431-08-17</ns1:date>
-    <ns1:description>（花押）&#13;
-一東大寺雑掌与尊乗院經弁僧正雑掌&#13;
-　相論山城國玉井庄事&#13;
-如雑掌訴状者代々為寺務傳領之處經弁僧正&#13;
-當職刻令自専致寄進八幡宮幷若宮燈油&#13;
-要脚於下地者偁成坊領思之条無謂之由雑掌&#13;
-申之如僧正支状者兩宮常燈断絶之間不可&#13;
-然旨鹿苑院殿御代依觸御耳可注申闕所&#13;
-由雖被仰出更就不尋出此地幸相計候人等給恩&#13;
-間以是可有御寄附歟之旨申之則被成下御判&#13;
-至下地者可致奉行之由被仰下于今致其沙汰云々&#13;
-依無彼燈油料以人給被付其足之段無子細歟但&#13;
-當庄事代々為寺務領之處何惣庄尊乗院可&#13;
-相計哉啻為此地於自専掠申歟無理之至也所詮&#13;
-所被定置御願嚴密致其沙汰於下地者如元&#13;
-被返付寺家之旨可書上　御判矣次彼要脚&#13;
-有難澁之儀者以寺務坊領可被付其足之由&#13;
-毎度可出請文之旨可申含彼雑掌也焉&#13;
-
-            永享三年八月十七日　　大和守貞連（花押） &#13;
-　　　　　　　　　　左衛門尉秀藤（花押）&#13;
-以前如此落居之處改代官申付別人堅致請文&#13;
-可執沙汰之旨守護被申上之間被曳御墨訖永享三　十二　十&#13;
-</ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/002">
-    <ns1:date>1430-09-03</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p5"/>
-    <ns1:description>（花押）&#13;
-一北野宮寺祠官松光院法眼秀慶与&#13;
-　同社祠官禅宣相論近江國中庄内&#13;
-　田井郷事&#13;
-如秀慶訴状者佐々木佐渡大夫判官入道&#13;
-導譽觀應三七　廿五令寄附當宮於奉行 &#13;
-職者致其沙汰訖其後導譽對故石見&#13;
-法印禅嚴一旦雖書与状去永和元九　十八高秀 &#13;
-如元返付松光院之處同五年三月十二日禅&#13;
-嚴号當知行掠給御判押妨之由申之如&#13;
-禅宣支状者帯判官入道寄進状同安堵&#13;
-以下于今相續當知行之旨稱之　御定両方&#13;
-申詞枝葉雖多之高秀去永和元九　十八返付松光 &#13;
-院以後禅嚴不帯還補状申給御判剰申&#13;
-成施行旁以非無不審所詮掠領之段無子&#13;
-細歟早任本券可被返付秀慶可書上御判也矣&#13;
-
-            永享二年九月三日　大和守貞連（花押） &#13;
-　　　　　　　　　加賀守基貞（花押）&#13;
-</ns1:description>
-    <ns1:title>2: 一北野宮寺祠官松光院法眼秀慶与</ns1:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/070">
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>一　　中西入道明重与冨少路千夜叉丸訴陳山城國&#13;
-　　　小泉御厨西院散田方事&#13;
-　如中西申者彼所者千夜叉丸祖父任清法印限拾&#13;
-　壹ヶ年令沽却明重於参ヶ年者知行仕者也爰&#13;
-　彼所南都一乗院依訴詔暫不知行之間空罷過&#13;
-　訖然而去年千夜叉丸令安堵之間如元雖可令知行依&#13;
-　計會年貢半分可閣之由被申之延年紀重乍出&#13;
-　契状其後一向不去渡云々所詮任契約之分限明重&#13;
-　一圓可知行之由被仰付冨少路訖&#13;
-
-            永享四年十二月十九日　右衛門尉為秀 &#13;
-　　　　　　　　　　　　美作守秀藤&#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p83"/>
-    <ns1:date>1432-12-19</ns1:date>
-    <ns1:title>70: 一　　中西入道明重与冨少路千夜叉丸訴陳山城國</ns1:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/045">
-    <ns1:description>（花押）&#13;
-一　角田兵庫助満秀与阿部筑前守重有相論&#13;
-　　備中國神代事&#13;
-満秀捧去明徳四年六月十一日御下文以下證文當&#13;
-知行之處守護被官人押領無謂之由訴申之&#13;
-間被尋問守護人之處阿部筑前守重有支状被&#13;
-執進訖如重有支申者當所地頭職者相傳當知行&#13;
-云々然者満秀所給御下文以後令還補否可出帯&#13;
-支證之旨差日限被仰之處遁避之上者可被成下&#13;
-御判於満秀也又此段申含守護人訖焉&#13;
-
-            永享三年十二月三日　對馬守貞清（花押） &#13;
-　　　　　　　　　　加賀守為行（花押）&#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p55"/>
-    <ns1:title>45: 一　角田兵庫助満秀与阿部筑前守重有相論</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1431-12-03</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/042">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p52"/>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1431-11-22</ns1:date>
-    <ns1:title>42: 一　　　岡崎門跡雑掌与宮上野入道信雄相論</ns1:title>
-    <ns1:description>（花押）&#13;
-一　　　岡崎門跡雑掌与宮上野入道信雄相論&#13;
-　　　　備後國安那郡安那東條号御領郷地頭職事 &#13;
-　如信雄訴申者去應安四年令拜領之處岡崎門跡&#13;
-　無謂押領之由申之如門跡雑掌支申者文和以来帯&#13;
-　數通御判之處宮違乱之間度々被成御教書被弃捐&#13;
-　敵方云々所詮訴論支證不及對陽為雲泥差別之上者&#13;
-　被停止信雄競望任當知行之旨被成安堵　御判於門跡訖&#13;
-
-            永享三年十一月廿二日　右衛門尉為秀（花押） &#13;
-　　　　　　　　　　　　對馬守貞清（花押）&#13;
-</ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/019">
-    <ns1:date>1430-12-23</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>（花押）&#13;
-一　小笠原備前守持長申備中國草間村&#13;
-　　惣領職付庶子分同村内宮地条事 &#13;
-就雅樂修理亮持忠譲与持長為持忠之甥守護人非分押領 &#13;
-由申之　御定不知行之文書相續如何仍被訪&#13;
-評定衆同奉行人等意見之處為叔姪近親文&#13;
-書相傳事被載文永追加之上者不能左右之旨&#13;
-言上訖然承久以来證文分明也任持忠譲与可被&#13;
-成下安堵於持長至宮地条者雖帯貞治御下文&#13;
-為吉備津宮領之旨守護人注進之間可被除之矣&#13;
-
-            永享二年十二月廿三日　對馬守貞清（花押） &#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p25"/>
-    <ns1:title>19: 一　小笠原備前守持長申備中國草間村</ns1:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/029">
-    <ns1:title>29: 一　　八幡宮田中法印融清与當宮神人相論</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p36"/>
-    <ns1:date>1431-06-17</ns1:date>
-    <ns1:description>（花押）&#13;
-一　　八幡宮田中法印融清与當宮神人相論&#13;
-　　　山城國美豆河口兩郷加地子盛増事&#13;
-　如田中法印申者為公方御祈禱料所御寄&#13;
-　進之處近年神人及神事違乱申給御教書&#13;
-　無謂知行云々如神人申者帯度々御教書當&#13;
-　知行云々所詮於神人出帯支證者皆及神事&#13;
-　違乱申給所見也此上者任御判等之旨融清&#13;
-　可知行之由&#13;
-被仰下　　　　被成御教書訖&#13;
-
-            永享三年六月十七日　　肥前守為種（花押） &#13;
-　　　　　　　　　　左衛門尉秀藤（花押）&#13;
+            永享二年十一月十三日　大和守貞連（花押） &#13;
 </ns1:description>
     <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/037">
-    <ns1:title>37: 一　春日社々司与英弘相論當社御八講副曳事</ns1:title>
-    <ns1:description>（花押）&#13;
-一　春日社々司与英弘相論當社御八講副曳事&#13;
-　如社司等申者永和四年以来至應永八年寺僧&#13;
-　与社家無差別曳之云々如英弘申者為頭&#13;
-　役人季行事随意云々然間被尋仰兩門跡幷諸 &#13;
-　院家之處註進如社司言上此上者近年之&#13;
-　不同者為自然懈怠歟之間任先例可致寺&#13;
-　社均等沙汰之由被成御教書於寺務大乗院訖 &#13;
-
-            永享三年十一月七日　肥前守為種（花押） &#13;
-　　　　　　　　　　加賀守為行（花押）&#13;
-</ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p46"/>
-    <ns1:date>1431-11-07</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/010">
-    <ns1:title>10: 一毎阿弥申青蓮院御門跡領山城國粟田</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p15"/>
-    <ns1:date>1430-11-06</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>（花押）&#13;
-一毎阿弥申青蓮院御門跡領山城國粟田&#13;
-　庄内貮拾石地事&#13;
-去應永卅四年依被寄東山曼陀羅寺惣庄&#13;
-御代官于時口阿弥帯渡状知行無相違者也爰當給主 &#13;
-藤賀丸代去々年以来不去渡下地公事物上米&#13;
-以下違乱之間對伊与法眼泰任連々雖申送曽&#13;
-不能承引之由申之則以兩使為行貞連被仰泰任之 &#13;
-處毎度相觸藤賀丸代云々任口阿弥時例去渡&#13;
-旨稱之就彼左右兩方申詞有御糺明尚依&#13;
-有御不審子細以前渡遣目録分可注進之由&#13;
-随仰調進訖参差之間以兩通於泰任許召寄兒&#13;
-代高防相尋之處不去渡之段令承伏虚言之至&#13;
-已露顕之上者所詮於當庄者可申付上乗院&#13;
-次曼陀羅寺下地任口阿弥渡状可被沙汰付之由&#13;
-可相觸當給主之旨兩条可仰含泰任仍對上乗&#13;
-院幷當寺可成奉書也矣&#13;
-
-            永享二年十一月六日　大和守貞連（花押） &#13;
-　　　　　　　　　　加賀守為行（花押）&#13;
-</ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/014">
-    <ns1:description>（花押）&#13;
-一造酒正師俊与中御門大納言家&#13;
-　雑掌相論酒鑪役事理非之&#13;
-　段被尋仰傳奏三人訖然間&#13;
-
-            万里小路大納言觀修寺中納言廣橋中納言意見状 &#13;
-　分明之上者可被付師俊之由&#13;
-　被仰下訖仍被成奉書者也&#13;
-
-            永享二年十一月廿三日　和泉守秀定 &#13;
-　　　　　　　　　　　加賀守基貞（花押）&#13;
-</ns1:description>
-    <ns1:date>1430-11-23</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p18"/>
-    <ns1:title>14: 一造酒正師俊与中御門大納言家</ns1:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/001">
-    <ns1:title>1: 一北野宮祠官權律師明兼申伊勢國長太石津</ns1:title>
-    <ns1:description>（花押）&#13;
-一北野宮祠官權律師明兼申伊勢國長太石津&#13;
-加納堀江等領家職事去永和嘉慶年中&#13;
-以不知行之地御寄附之間致粉骨令安堵得&#13;
- 門跡聖護院素意入當宮領目録訖仍知行之 &#13;
-處相語永琳院号門跡御師以半分被寄進&#13;
-背契約押領之条歎入云々如聖護院雑掌&#13;
-申者明兼之先師明什不儀之間變改之旨&#13;
-雖差申之其證不分明之上先度對社家度&#13;
-度申給御教書致忠節之上者難謂不儀&#13;
-歟即被下還補御判於權律師明兼訖焉&#13;
-
-            永享二年九月二日　肥前守為種（花押） &#13;
-　　　　　　　　　加賀守基貞（花押）&#13;
-</ns1:description>
-    <ns1:date>1430-09-02</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p4"/>
-    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>12: 一左衛門督入道代申西園寺京極家領山城</ns1:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/049">
-    <ns1:date>1431-12-27</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p60"/>
     <ns1:title>49: 一　鷹司高倉土倉本主祐言与蔵預圓憲相論</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1431-12-27</ns1:date>
     <ns1:description>一　鷹司高倉土倉本主祐言与蔵預圓憲相論&#13;
 　　當所納物事&#13;
 
@@ -726,122 +513,32 @@
             永享三年十二月廿七日　　大和守貞連 &#13;
 　　　　　　　　　　　左衛門尉秀藤&#13;
 </ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/055">
-    <ns1:date>1432-06-14</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p60"/>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>一　葉室浄住寺雑掌与南禪寺瑞雲庵&#13;
-　　雑掌相論美濃國小瀬庄領家職事&#13;
-為當寺領數年知行無相違之處瑞雲庵&#13;
-雑掌混乱地頭職令押領之剰應永弐十五　十　廿五&#13;
-申給一圓御教書雖支申室町院御寄進&#13;
-状弘安五　六　六幷度々證文等分明之間於領家職 &#13;
-者如元被返付浄住寺所被成下　御判也&#13;
-
-            永享四年六月十四日　左衛門尉貞親 &#13;
-　　　　　　　　　　　民部丞基世&#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p68"/>
-    <ns1:title>55: 一　葉室浄住寺雑掌与南禪寺瑞雲庵</ns1:title>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/025">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p32"/>
+  <rdf:Description rdf:about="http://example.org/kiroku/009">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p13"/>
+    <ns1:title>9: 一妙法寺領</ns1:title>
     <ns1:description>（花押）&#13;
-一　佐々木佐渡入道祐繁申攝津國多田庄&#13;
-　　御家人地頭對捍事&#13;
-召上彼御家人等相尋之處於口郷分九人者&#13;
-對地頭不可有異儀地頭成敗亦無非儀之旨&#13;
-捧請文之間四月四日可下向之由被仰付畢爰&#13;
-奥郷輩遅參之間既雖可被加治罰尚以寛&#13;
-宥之儀無怖畏可参之旨被成奉書被差&#13;
-下多田院住持者也仍可參洛之通申御請雖&#13;
-上洛仕寄事於怖畏不参對之上者可被加對治&#13;
-由被仰細川右京大夫赤松左京大夫入道同兵部&#13;
-少輔訖&#13;
+一妙法寺領号穴蒲堂敷地北小路町北頬 &#13;
+　肆丁町内事&#13;
+一号六條八幡宮領分事奉行松田對馬守&#13;
+一河原口道場前寮分事奉行飯尾加賀守&#13;
+　　於此兩所者不帯　公驗之間被付當寺&#13;
+　　訖&#13;
+一赤松伊豆守被官人小柴今者金阿云々分事 &#13;
+　雖捧地方奉書應永廿年十月廿五日&#13;
+　任以前御　判等之旨被付寺家訖&#13;
+一山門三宮領分事　　奉行飯尾加賀守&#13;
+一野道場　　分事　　同人 &#13;
+　此二个所事任　公驗之旨被閣之訖&#13;
 
-            永享三年五月十六日　肥前守為種（花押） &#13;
-　　　　　　　　　　大和守貞連（花押）&#13;
-　　　　　　　　　　對馬守貞清（花押）&#13;
+            永享二年十一月三日　和泉守秀定 &#13;
+　　　　　　　　　　加賀守為行&#13;
+　　　　　　　　　　對馬守貞清&#13;
 </ns1:description>
-    <ns1:title>25: 一　佐々木佐渡入道祐繁申攝津國多田庄</ns1:title>
-    <ns1:date>1431-05-16</ns1:date>
+    <ns1:date>1430-11-03</ns1:date>
     <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/036">
-    <ns1:title>36: 一　　祇園社大政所神主松壽丸与左方差符主計</ns1:title>
-    <ns1:description>（花押）&#13;
-一　　祇園社大政所神主松壽丸与左方差符主計&#13;
-　　　丞源縁親相論神主職同敷地社恩等事&#13;
-　如松壽丸申状者　圓融院御宇天延二年五月&#13;
-　下旬天王御影向之時先祖助正御共申被補&#13;
-　神主職以来不移他所職之處去應永四年執&#13;
-　行顯深就掠申被仰付之條不便之由言上之如&#13;
-　縁親支状者彼松壽丸先祖助貞令殺害伯父&#13;
-　間依其罪科被改神主職被補任吉益于今無相&#13;
-　違仍去應永廿年八月十二日依幸夜叉丸訴詔被尋&#13;
-　下一社之處殺害人子孫居神職事曽以無先規云々&#13;
-　爰松壽丸重言上於一社連署者為執行依令語&#13;
-　誘社僧等不弁先規捧連署歟不足信用任他社&#13;
-　例可預御裁許之旨申上之　御定一社連署之&#13;
-　事者難有御許容可尋究他社之例由被仰下間&#13;
-　相尋　太神宮祭主清忠内造宮使宗直日吉樹&#13;
-　下成胤官長者周枝吉田神主兼冨等之處殺害&#13;
-　人子孫可相續神職之條無子細之由各所捧請文&#13;
-　　所詮末社之服忌令不可過本社（裏花押）&#13;
-　也此上者至大政所神主職同敷地社恩等者如元&#13;
-　可被返付松壽丸之由可被成下　御判也&#13;
-
-            永享三年九月十四日　　加賀守基貞（花押） &#13;
-　　　　　　　　　　左衛門尉秀藤（花押）&#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p45"/>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1431-09-14</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/035">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p44"/>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>（花押）&#13;
-一　　　清閑寺禅侶權少僧都幸済与吉田大納言家&#13;
-　　　　雑掌相論當寺内辻坊幷敷地等事&#13;
-　如幸済申者當坊者吉田大納言家被官人信濃左&#13;
-　衛門入道妙宗帯　院宣等證文相傳之地也仍子息&#13;
-　左近将監令相續為彼坊留守居住之間料足拾貮&#13;
-　貫文令傳借畢借状云若不致返弁者此坊舎敷地幷&#13;
-　文書等悉入置質物之上者可為永領契約也爰彼&#13;
-　将監男令逐電之間任借状幸済自専仕之處主人&#13;
-　吉田大納言家掠給　院宣押領云々如支状者彼坊舎&#13;
-　敷地等者當家舊跡為稱号之地帯　院宣之上者可有&#13;
-　進退之由被申之然者可被出本文書之旨重被仰之&#13;
-　處舊跡證據稱号所見共以無之由載状被申彼状下給幸済僧都&#13;
-　争以近年之院宣壹通可被弃置相傳文書哉此上者&#13;
-　任左近将監借状被渡付彼坊於幸済僧都訖矣&#13;
-
-            永享三年九月十五日　右衛門尉為秀（花押） &#13;
-　　　　　　　　　　　加賀守為行（花押）&#13;
-</ns1:description>
-    <ns1:title>35: 一　　　清閑寺禅侶權少僧都幸済与吉田大納言家</ns1:title>
-    <ns1:date>1431-09-15</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/043">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p53"/>
-    <ns1:date>1431-11-27</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>43: 一　　　望月次郎左衛門尉重長与上杦中務</ns1:title>
-    <ns1:description>（花押）&#13;
-一　　　望月次郎左衛門尉重長与上杦中務&#13;
-　　　　少輔持憲相論近江國池原杣庄内椙谷&#13;
-　　　　村地頭職事&#13;
-　重長如訴申者於當村者帯正平六年御下文&#13;
-　案文封裏幷應永四年御判當知行之處混惣庄 &#13;
-　押領云云持憲如支申者以同十二年御教書案文&#13;
-　一円領知云云所詮為各別地之条證文分明之&#13;
-　上者止持憲違乱可沙汰付重長之由被成&#13;
-　御教書訖矣&#13;
-
-            永享三年十一月廿七日　左兵衛尉熈基（花押） &#13;
-　　　　　　　　　　　　加賀守基貞（花押）&#13;
-</ns1:description>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/048">
     <ns1:description>一　細河駿河守氏家与和田中務丞親直相論&#13;
@@ -867,94 +564,175 @@
 　　　　　　　　　　　左衛門尉秀藤&#13;
 　　　　　　　　　　　　肥前守為種&#13;
 </ns1:description>
-    <ns1:title>48: 一　細河駿河守氏家与和田中務丞親直相論</ns1:title>
     <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p59"/>
     <ns1:date>1431-12-27</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p59"/>
+    <ns1:title>48: 一　細河駿河守氏家与和田中務丞親直相論</ns1:title>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/033">
-    <ns1:description>一　　　清水坂神護寺領讃岐國坂田郷所務代事&#13;
-　如雑掌申者去應永十九年故香西入道捧請文毎年&#13;
-　百七拾貫文無不法懈怠可執沙汰寺家年貢之旨&#13;
-　申定以来雖預置彼在所近年有未進緩怠等儀&#13;
-　是併寺用失墜之基也可致直務云々爰香西豊前入道&#13;
-　常慶對寺家如歎申者於舊未進者可被閣之旨&#13;
-　先度雑掌出状畢至去年永享二分者迄今年 &#13;
-　八月連々令究済云々雖然常慶出帯之寺家請取状&#13;
-　結句為未進之證據者歟其上於彼常慶者御折檻之&#13;
-　間旁以非御沙汰之限任雑掌申請之旨可被成下&#13;
-　直務之御教書之由被　　仰下也矣&#13;
+  <rdf:Description rdf:about="http://example.org/kiroku/054">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>一　寶幢寺雑掌與得平源太相論播磨國安田庄&#13;
+　　領家職内高田郷事&#13;
+如寶幢寺申状者安田庄五ヶ郷領家職者九條前 &#13;
+関白家領也彼領家職内悉以半分寄附當寺&#13;
+處守護地頭毎度致其妨或勘落百姓名或抑留&#13;
+本所役之間就歎申去應永廿九年十二月廿三日以彼&#13;
+高田郷一圓被付寺家殘四ヶ郷領家職被付&#13;
+本所九条家知行之處去應永卅四年播州擾乱之刻 &#13;
+地頭得平殺害庄主押領地下云々如地頭得平申状者 &#13;
+根本寺家知行惣郷領家半分也止新儀任先例被&#13;
+仰付可停止寺家違乱云々被尋仰意見之處如&#13;
+最初寄附彼郷領家職各半分可被付寺家於&#13;
+彼庄主殺害者可有御糺明之旨評定衆言上之間&#13;
+如元惣郷領家各半分止地頭綺可全寺家知行&#13;
+由被成　御判畢次庄主殺害事可相尋地頭之&#13;
+旨被仰下之矣&#13;
 
-            永享三年九月六日　左衛門尉秀藤 &#13;
+            永享四年六月十一日　肥前守為種 &#13;
+　　　　　　　　　　對馬守貞清&#13;
 </ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>33: 一　　　清水坂神護寺領讃岐國坂田郷所務代事</ns1:title>
-    <ns1:date>1431-09-06</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p42"/>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p66"/>
+    <ns1:date>1432-06-11</ns1:date>
+    <ns1:title>54: 一　寶幢寺雑掌與得平源太相論播磨國安田庄</ns1:title>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/053">
+  <rdf:Description rdf:about="http://example.org/kiroku/042">
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1432-06-02</ns1:date>
-    <ns1:description>一　左大臣家雑掌与赤松阿波入道性宗相論攝津&#13;
-　　國福原庄領家職撿断人足公文職等事&#13;
-如雑掌訴状者於當所領家職撿断人夫所職等&#13;
-者本所進止之条帯貞應元年六月十一日暦應&#13;
-二年九月十七日御下知為各別之處性宗為地頭&#13;
-令進退領家人足剰押領所職相綺撿断之段無其謂&#13;
-旨申之如性宗申者至撿断人夫以下者一圓可&#13;
-為地頭進退之處近年令混合之領家相共致沙汰&#13;
-条非正儀之由申之間被相尋地頭進止之支證之處&#13;
-捧至徳元年九月四日地頭請所御判備證文云々&#13;
-難被許容者也雖然尚以被尋下法例於右筆&#13;
-方之處云地頭云領家於進止之在所者共以不可相&#13;
-綺之旨言上仕之間旁停止地頭違乱弥可為本所&#13;
-進止之由被成　御判訖&#13;
-
-            永享四年六月二日　加賀守為行 &#13;
-　　　　　　　　　加賀守基貞&#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p65"/>
-    <ns1:title>53: 一　左大臣家雑掌与赤松阿波入道性宗相論攝津</ns1:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/026">
-    <ns1:title>26: 一　上杦中務少輔持憲代与利倉式部丞相論</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p33"/>
     <ns1:description>（花押）&#13;
-一　上杦中務少輔持憲代与利倉式部丞相論&#13;
-　　負物事&#13;
-　於利倉式部丞者任借状可有行結解幷借物&#13;
-　十分一之由雖申之如政所寄人註申者可&#13;
-　為一倍次十分一事不存知仕云々然者遂&#13;
-　一倍之勘定以丹波國和久庄年貢如近年可&#13;
-　返弁之就中人夫以下事同可致勘弁於令&#13;
-　不足者上杦中務少輔代早速可令奔走之由&#13;
-被仰下畢&#13;
+一　　　岡崎門跡雑掌与宮上野入道信雄相論&#13;
+　　　　備後國安那郡安那東條号御領郷地頭職事 &#13;
+　如信雄訴申者去應安四年令拜領之處岡崎門跡&#13;
+　無謂押領之由申之如門跡雑掌支申者文和以来帯&#13;
+　數通御判之處宮違乱之間度々被成御教書被弃捐&#13;
+　敵方云々所詮訴論支證不及對陽為雲泥差別之上者&#13;
+　被停止信雄競望任當知行之旨被成安堵　御判於門跡訖&#13;
 
-            永享三年五月十八日　肥前守為種（花押） &#13;
-　　　　　　　　　　散　位貞元（花押）&#13;
+            永享三年十一月廿二日　右衛門尉為秀（花押） &#13;
+　　　　　　　　　　　　對馬守貞清（花押）&#13;
 </ns1:description>
-    <ns1:date>1431-05-18</ns1:date>
+    <ns1:date>1431-11-22</ns1:date>
+    <ns1:title>42: 一　　　岡崎門跡雑掌与宮上野入道信雄相論</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p52"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/072">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p85"/>
-    <ns1:title>72: 一　　弘願院雑掌与栖霞寺々僧相論山城國</ns1:title>
-    <ns1:description>一　　弘願院雑掌与栖霞寺々僧相論山城國&#13;
-　　　西京西霞寺田事&#13;
-　如雑掌申者自大覺寺御門跡為御寄進之&#13;
-　地帯御判幷度々令旨知行之處去應永六年&#13;
-　無故押領云々如寺僧等支申者号西霞寺田&#13;
-　致知行於支證者令紛失之由以長田状陳之&#13;
-　雖然無文書上者旁非御沙汰之限間如元被返&#13;
-　付弘願院被成　御判訖&#13;
+  <rdf:Description rdf:about="http://example.org/kiroku/017">
+    <ns1:description>（花押）&#13;
+一紫野大徳寺雑掌申攝津國住吉慈恩&#13;
+　寺幷玄通寺等事為當寺末寺之處&#13;
+　嵯峨門徒梵策依為住吉社前神主兄弟&#13;
+　掠執補任押領云々如神主支状者為神主&#13;
+　親類居住造立之由言上之間他門之僧住&#13;
+　院之先蹤雖被尋下任補任賜安堵御教書&#13;
+　外無他事者也然者任去應永十九年七月十三&#13;
+　日御判正文紛失之間被召出奉行所符案幷神主先祖國量状 &#13;
+　等為末寺大徳寺可領掌之由被成御教書&#13;
+　訖焉&#13;
 
-            永享四年十二月廿五日　左兵衛尉熈基 &#13;
-　　　　　　　　　　　　加賀守為行&#13;
+            永享二年十二月廿一日　肥前守為種（花押） &#13;
+　　　　　　　　　　　加賀守基貞（花押）&#13;
 </ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p23"/>
+    <ns1:title>17: 一紫野大徳寺雑掌申攝津國住吉慈恩</ns1:title>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1432-12-25</ns1:date>
+    <ns1:date>1430-12-21</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/010">
+    <ns1:title>10: 一毎阿弥申青蓮院御門跡領山城國粟田</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1430-11-06</ns1:date>
+    <ns1:description>（花押）&#13;
+一毎阿弥申青蓮院御門跡領山城國粟田&#13;
+　庄内貮拾石地事&#13;
+去應永卅四年依被寄東山曼陀羅寺惣庄&#13;
+御代官于時口阿弥帯渡状知行無相違者也爰當給主 &#13;
+藤賀丸代去々年以来不去渡下地公事物上米&#13;
+以下違乱之間對伊与法眼泰任連々雖申送曽&#13;
+不能承引之由申之則以兩使為行貞連被仰泰任之 &#13;
+處毎度相觸藤賀丸代云々任口阿弥時例去渡&#13;
+旨稱之就彼左右兩方申詞有御糺明尚依&#13;
+有御不審子細以前渡遣目録分可注進之由&#13;
+随仰調進訖参差之間以兩通於泰任許召寄兒&#13;
+代高防相尋之處不去渡之段令承伏虚言之至&#13;
+已露顕之上者所詮於當庄者可申付上乗院&#13;
+次曼陀羅寺下地任口阿弥渡状可被沙汰付之由&#13;
+可相觸當給主之旨兩条可仰含泰任仍對上乗&#13;
+院幷當寺可成奉書也矣&#13;
+
+            永享二年十一月六日　大和守貞連（花押） &#13;
+　　　　　　　　　　加賀守為行（花押）&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/071">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p84"/>
+    <ns1:title>71: 一　　梶井御門跡雑掌与中西入道明重相論</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>一　　梶井御門跡雑掌与中西入道明重相論&#13;
+　　　近江國甘呂八坂御借物事&#13;
+　如中西申者向甘呂八坂御借物繁多也仍&#13;
+　可有御存知之由被下御令旨之處自去年&#13;
+　甘呂庄被押置之条不便之由言上之如御門&#13;
+　跡雑掌申者廰務冨小路号私臺所&#13;
+　要脚借用也将又於福阿請取者不可承引&#13;
+　應永三十四年令旨以後分可有返弁之由論之&#13;
+　此条可相尋評定衆之由被仰下之間尋竟&#13;
+　見處至彼令旨者可渡古今之御借物云々此&#13;
+　上者於政所勘定之本利相當之間以甘呂庄&#13;
+　年貢可有返弁之由被仰下訖&#13;
+
+            永享四年十二月十九日　加賀守基貞 &#13;
+　　　　　　　　　　　美作守秀藤&#13;
+</ns1:description>
+    <ns1:date>1432-12-19</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/040">
+    <ns1:date>1431-11-14</ns1:date>
+    <ns1:description>（花押）&#13;
+一　真如寺正脉院雑掌与法輪院相論近江國&#13;
+　　甲賀蒲生兩郡堺事&#13;
+　如法輪院申者山門領蒲生郡山上保當知行也仍&#13;
+　中下八田村者為當保内之間可致知行云々如正脉院&#13;
+　雑掌申者為甲賀郡岩根朝國内中下八田村&#13;
+　多年當知行之處自山上保令越境之由申之&#13;
+　所詮彼実否以湯起請為被糺決兩方地下人可&#13;
+　参洛之旨就成奉書於正脉院領百姓者則令上洛&#13;
+　訖至山上保地下人者背度々召文不可参決之由&#13;
+　雑掌状在之申切之間以違背篇雖可有御下知猶為被 &#13;
+　究渕底被尋問守護人之處彼中下八田村者為&#13;
+　甲賀郡内正脉院數年知行之旨注進分明之上者&#13;
+　不日退山上保競望可沙汰付論所於寺家雑掌&#13;
+　由被成御教書於守護人幷山門使節中訖&#13;
+
+            永享三年十一月十四日　　加賀守為行（花押） &#13;
+　　　　　　　　　　　右衛門尉為秀（花押）&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p50"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>40: 一　真如寺正脉院雑掌与法輪院相論近江國</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/044">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p54"/>
+    <ns1:date>1431-11-30</ns1:date>
+    <ns1:title>44: 一　高野山智荘嚴院雑掌与細河土左入道常仙</ns1:title>
+    <ns1:description>（花押）&#13;
+一　高野山智荘嚴院雑掌与細河土左入道常仙&#13;
+　　相論和泉國近木庄内八ケ権門領但除内膳村事 &#13;
+如雑掌訴申者當所就本主之寄附帯去應永&#13;
+廿年六月五日安堵當知行之處常仙掠給之條&#13;
+無謂之旨言上之常仙者捧同廿三年九月八日御&#13;
+下文當知行之旨論之仍被訪評定衆幷右筆&#13;
+意見訖所詮常仙所給者云未施行云後日御下文&#13;
+難被許容之雑掌所申非無其謂之由意見皆&#13;
+同之間可被成御判於智荘嚴院也矣&#13;
+
+            永享三年十一月卅日　對馬守貞清（花押） &#13;
+　　　　　　　　　　加賀守為行（花押）&#13;
+</ns1:description>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/008">
+    <ns1:title>8: 一三条中将家雑掌与佐々木岩山美濃守</ns1:title>
+    <ns1:date>1430-10-16</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p12"/>
+    <ns1:subject>kiroku</ns1:subject>
     <ns1:description>（花押）&#13;
 一三条中将家雑掌与佐々木岩山美濃守&#13;
 　持秀相論近江國加田庄半分幷散在名新&#13;
@@ -983,174 +761,296 @@
             永享二年十月十六日　大和守貞連（花押） &#13;
 　　　　　　　　　　對馬守貞清（花押）&#13;
 </ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1430-10-16</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p12"/>
-    <ns1:title>8: 一三条中将家雑掌与佐々木岩山美濃守</ns1:title>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/047">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p57"/>
-    <ns1:description>一建福寺雑掌与梵積都官号松月菴相論 &#13;
-　丹後國凡海郷代官職事&#13;
-如雑掌訴状者相替先規得分減少之間去&#13;
-應永廿七年為糺明奉憑彼都官差遣當郷&#13;
-
-            ※（二文字不明）庄主執沙汰員數同篇也而翌年好文 &#13;
-
-            ※（二文字不明）令所望補任多年致知行訖爰寺納分 &#13;
-尚依有不審去年為寺家差下使節就尋&#13;
-究地下答分参拾六石余庄主隠置之段無子細&#13;
-由申之如松月菴支状者郷務職預置涯分致&#13;
-粉骨年貢外二百五拾余貫文不加利平罷立&#13;
-寺用者也彼借物返給被改替歟不然者當足&#13;
-勘弁之間可知行之旨申之仍被尋下評定衆之&#13;
-處兩方申詞雖端多三拾六石余知行之段露顯者&#13;
-難遁其咎歟早云寺家負物云彼隠置分共以&#13;
-被弃破之自今以後寺家可被直務之由意見訖&#13;
-所詮勘状之趣無参差之上者可沙汰付下地於雑掌&#13;
-旨可成御教書也矣&#13;
-
-            永享三年十二月廿七日　　大和守貞連 &#13;
-　　　　　　　　　　　左衛門尉秀藤&#13;
-</ns1:description>
-    <ns1:date>1431-12-27</ns1:date>
-    <ns1:title>47: 一建福寺雑掌与梵積都官</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/054">
-    <ns1:description>一　寶幢寺雑掌與得平源太相論播磨國安田庄&#13;
-　　領家職内高田郷事&#13;
-如寶幢寺申状者安田庄五ヶ郷領家職者九條前 &#13;
-関白家領也彼領家職内悉以半分寄附當寺&#13;
-處守護地頭毎度致其妨或勘落百姓名或抑留&#13;
-本所役之間就歎申去應永廿九年十二月廿三日以彼&#13;
-高田郷一圓被付寺家殘四ヶ郷領家職被付&#13;
-本所九条家知行之處去應永卅四年播州擾乱之刻 &#13;
-地頭得平殺害庄主押領地下云々如地頭得平申状者 &#13;
-根本寺家知行惣郷領家半分也止新儀任先例被&#13;
-仰付可停止寺家違乱云々被尋仰意見之處如&#13;
-最初寄附彼郷領家職各半分可被付寺家於&#13;
-彼庄主殺害者可有御糺明之旨評定衆言上之間&#13;
-如元惣郷領家各半分止地頭綺可全寺家知行&#13;
-由被成　御判畢次庄主殺害事可相尋地頭之&#13;
-旨被仰下之矣&#13;
-
-            永享四年六月十一日　肥前守為種 &#13;
-　　　　　　　　　　對馬守貞清&#13;
-</ns1:description>
-    <ns1:title>54: 一　寶幢寺雑掌與得平源太相論播磨國安田庄</ns1:title>
-    <ns1:date>1432-06-11</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p66"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/050">
-    <ns1:date>1432-03-08</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p62"/>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>50: 一　織部正員職与経師良秀相論織部司町地</ns1:title>
-    <ns1:description>一　織部正員職与経師良秀相論織部司町地&#13;
-　　事&#13;
-彼敷地員職之祖父秀職任當官去貞治二年令&#13;
-拜領此織部町致知行之處同六年経師良勝非分&#13;
-申給之條無謂之旨歎申之畢爰如良秀支申者&#13;
-良勝以来相傳當知行證文為連綿云云所詮就&#13;
-官爵被恩補之段非無由緒乎雖然彼時代員職之&#13;
-祖父秀職有罪科否勘舊記可被注申之由被&#13;
-仰傳奏訖仍貞治比秀職参役數十箇年無違失&#13;
-員職相續奉公仕之旨万里少路大納言廣橋中納言&#13;
-各被注進之間任先日之　勅許可被返付員職&#13;
-仰地方頭人可被成下奉書也矣&#13;
-
-            永享四年三月八日　左衛門尉秀藤 &#13;
-　　　　　　　　　　民部丞基世&#13;
-</ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/038">
+  <rdf:Description rdf:about="http://example.org/kiroku/019">
     <ns1:description>（花押）&#13;
-一　　楢葉近江守満清与佐々木大膳大夫満綱&#13;
-　　　相論江州甲賀郡内蔵田庄地頭職事&#13;
-　就満清訴状出帯文和四年正月十五日御書稱令&#13;
-　拜領甲賀郡満綱雖支申之於彼郡内他人領知&#13;
-　繁多也何限此地可申子細哉既明徳三年&#13;
-　楢葉所給之御下文分明之上者不及豫儀若謬而&#13;
-　被成下御判於楢葉者後日對満綱父争不被成下&#13;
-　還補御判乎爰明徳四年幷應永十七年雖被成&#13;
-　甲賀郡之安堵除地在之由被書載訖然者楢葉&#13;
-　所給之御下文為先日之間旁以叶理致歟仍止&#13;
-　押領如元可沙汰付満清之旨被成御教書訖焉&#13;
+一　小笠原備前守持長申備中國草間村&#13;
+　　惣領職付庶子分同村内宮地条事 &#13;
+就雅樂修理亮持忠譲与持長為持忠之甥守護人非分押領 &#13;
+由申之　御定不知行之文書相續如何仍被訪&#13;
+評定衆同奉行人等意見之處為叔姪近親文&#13;
+書相傳事被載文永追加之上者不能左右之旨&#13;
+言上訖然承久以来證文分明也任持忠譲与可被&#13;
+成下安堵於持長至宮地条者雖帯貞治御下文&#13;
+為吉備津宮領之旨守護人注進之間可被除之矣&#13;
 
-            永享三年十一月八日　左衛門尉秀藤（花押） &#13;
-　　　　　　　　　　右衛門尉為秀（花押）&#13;
+            永享二年十二月廿三日　對馬守貞清（花押） &#13;
 </ns1:description>
-    <ns1:title>38: 一　　楢葉近江守満清与佐々木大膳大夫満綱</ns1:title>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p47"/>
-    <ns1:date>1431-11-08</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/024">
-    <ns1:description>（花押）&#13;
-一　八幡宮雑掌申安居頭役事&#13;
-　差定五条坊門東洞院太郎五郎男之處&#13;
-　雖為神領之内生非神人之子争令勤仕乎&#13;
-　其上　禁裏駕輿丁也云々如雑掌申者於神&#13;
-　領生者可致沙汰云々依註申相尋之處四条&#13;
-　坊門東洞院助三郎雖非神人致沙汰畢駕輿&#13;
-　丁又數多也雖被除彼者不可有子細歟此上者&#13;
-　太郎五郎男可致沙汰之由&#13;
-被仰下&#13;
-
-            永享三年四月七日　肥前守為種（花押） &#13;
-　　　　　　　　　對馬守貞清（花押）&#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p31"/>
-    <ns1:title>24: 一　八幡宮雑掌申安居頭役事</ns1:title>
-    <ns1:date>1431-04-07</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/057">
-    <ns1:title>57: 一　相國寺領山城國寺田庄与小笠原備前守</ns1:title>
-    <ns1:date>1432-08-12</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p70"/>
-    <ns1:description>一　相國寺領山城國寺田庄与小笠原備前守&#13;
-　　持長知行分同國冨野郷相論堺事&#13;
-被召決兩方之刻為冨野郷沙汰召捕寺領&#13;
-百姓剰一人令誅云々且云中間狼籍且云鹿苑&#13;
-院殿御佛事中旁以領主難遁其咎爰&#13;
-持長不存知之由陳申之然者代官于時庄主所行 &#13;
-歟不日可召進之旨被仰含訖仍致参路以湯&#13;
-起請其文章所詮如此題目為領主申付不致沙汰云々有糺明之處指腹白焼之 &#13;
-此上者咎已露顕之間尤雖可被攻公所帯就&#13;
-寛宥之儀以三重野論所地可被付寺家早可&#13;
-書上御教書也&#13;
-
-            永享四年八月十二日　大和守貞連 &#13;
-　　　　　　　　　　對馬守貞清&#13;
-　　　　　　　　　　肥前守為種&#13;
-</ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/018">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p25"/>
+    <ns1:title>19: 一　小笠原備前守持長申備中國草間村</ns1:title>
     <ns1:date>1430-12-23</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p24"/>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>18: 一益若丸与松梅院相論太神宮領尾張</ns1:title>
-    <ns1:description>（花押）&#13;
-一益若丸与松梅院相論太神宮領尾張&#13;
-　國本神戸司職内咋井五郎丸西小嶋八女等事 &#13;
-　如益若丸訴申者為太神宮領本神戸&#13;
-　司職七郷内之處安威入道性遵掠給御&#13;
-　判剰比丘尼眞照性遵息女寄進北野宮寺 &#13;
-　云々松梅院帯安堵御判雖支申性遵&#13;
-　觀應二年正月廿六日御下文未施行之&#13;
-　上眞照不帯譲状社家又無寄進&#13;
-　状者也旁不分明者哉兩祭主清忠宗直執申 &#13;
-　上者可被成下御判於益若丸也矣&#13;
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/065">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p78"/>
+    <ns1:description>一　洞院家雑掌申山城國乙訓郡東方&#13;
+　　間事&#13;
+洞院家雑掌如申者為左馬寮領之&#13;
+別納之處南都佛地院知行無謂云々即&#13;
+被尋仰之處菊庭家十九ヶ年沽却之&#13;
+仍十余年知行之旨被申之雖然菊庭&#13;
+家遺跡断絶之間彼跡悉令飛行訖然&#13;
+早任證文可有知行之旨被仰出被御&#13;
+書於洞院家者也矣&#13;
 
-            永享二年十二月廿三日　和泉守秀定 &#13;
-　　　　　　　　　　　加賀守基貞（花押）&#13;
+            永享四年十一月廿八日　肥前守為種 &#13;
 </ns1:description>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>65: 一　洞院家雑掌申山城國乙訓郡東方</ns1:title>
+    <ns1:date>1432-11-28</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/043">
+    <ns1:description>（花押）&#13;
+一　　　望月次郎左衛門尉重長与上杦中務&#13;
+　　　　少輔持憲相論近江國池原杣庄内椙谷&#13;
+　　　　村地頭職事&#13;
+　重長如訴申者於當村者帯正平六年御下文&#13;
+　案文封裏幷應永四年御判當知行之處混惣庄 &#13;
+　押領云云持憲如支申者以同十二年御教書案文&#13;
+　一円領知云云所詮為各別地之条證文分明之&#13;
+　上者止持憲違乱可沙汰付重長之由被成&#13;
+　御教書訖矣&#13;
+
+            永享三年十一月廿七日　左兵衛尉熈基（花押） &#13;
+　　　　　　　　　　　　加賀守基貞（花押）&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p53"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1431-11-27</ns1:date>
+    <ns1:title>43: 一　　　望月次郎左衛門尉重長与上杦中務</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/051">
+    <ns1:description>一　石清水八幡宮雑掌申中村佐渡入道上月&#13;
+　　大和守狼籍事&#13;
+於神領播磨國西河合中村上月誅社家被官郷鼻彦左衛門入道&#13;
+抑留年貢之由就訴申尋究之處或時彼彦九郎&#13;
+入道号譜代被官人或時稱若黨親敵雖支申不足&#13;
+御信用之間以湯起請可糺決之旨被仰付定日次&#13;
+及三ヶ度雖觸仰中村上月終不遂其節之上者&#13;
+令参差者歟此上者社領内兩人所帯被付社家之&#13;
+由被成御教書訖&#13;
+
+            永享四年四月十四日　　肥前守為種 &#13;
+　　　　　　　　　　左衛門尉秀藤&#13;
+</ns1:description>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>51: 一　石清水八幡宮雑掌申中村佐渡入道上月</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p63"/>
+    <ns1:date>1432-04-14</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/032">
+    <ns1:date>1431-08-17</ns1:date>
+    <ns1:title>32: 一東大寺雑掌与尊乗院經弁僧正雑掌</ns1:title>
+    <ns1:description>（花押）&#13;
+一東大寺雑掌与尊乗院經弁僧正雑掌&#13;
+　相論山城國玉井庄事&#13;
+如雑掌訴状者代々為寺務傳領之處經弁僧正&#13;
+當職刻令自専致寄進八幡宮幷若宮燈油&#13;
+要脚於下地者偁成坊領思之条無謂之由雑掌&#13;
+申之如僧正支状者兩宮常燈断絶之間不可&#13;
+然旨鹿苑院殿御代依觸御耳可注申闕所&#13;
+由雖被仰出更就不尋出此地幸相計候人等給恩&#13;
+間以是可有御寄附歟之旨申之則被成下御判&#13;
+至下地者可致奉行之由被仰下于今致其沙汰云々&#13;
+依無彼燈油料以人給被付其足之段無子細歟但&#13;
+當庄事代々為寺務領之處何惣庄尊乗院可&#13;
+相計哉啻為此地於自専掠申歟無理之至也所詮&#13;
+所被定置御願嚴密致其沙汰於下地者如元&#13;
+被返付寺家之旨可書上　御判矣次彼要脚&#13;
+有難澁之儀者以寺務坊領可被付其足之由&#13;
+毎度可出請文之旨可申含彼雑掌也焉&#13;
+
+            永享三年八月十七日　　大和守貞連（花押） &#13;
+　　　　　　　　　　左衛門尉秀藤（花押）&#13;
+以前如此落居之處改代官申付別人堅致請文&#13;
+可執沙汰之旨守護被申上之間被曳御墨訖永享三　十二　十&#13;
+</ns1:description>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p40"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/037">
+    <ns1:date>1431-11-07</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p46"/>
+    <ns1:title>37: 一　春日社々司与英弘相論當社御八講副曳事</ns1:title>
+    <ns1:description>（花押）&#13;
+一　春日社々司与英弘相論當社御八講副曳事&#13;
+　如社司等申者永和四年以来至應永八年寺僧&#13;
+　与社家無差別曳之云々如英弘申者為頭&#13;
+　役人季行事随意云々然間被尋仰兩門跡幷諸 &#13;
+　院家之處註進如社司言上此上者近年之&#13;
+　不同者為自然懈怠歟之間任先例可致寺&#13;
+　社均等沙汰之由被成御教書於寺務大乗院訖 &#13;
+
+            永享三年十一月七日　肥前守為種（花押） &#13;
+　　　　　　　　　　加賀守為行（花押）&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/072">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p85"/>
+    <ns1:description>一　　弘願院雑掌与栖霞寺々僧相論山城國&#13;
+　　　西京西霞寺田事&#13;
+　如雑掌申者自大覺寺御門跡為御寄進之&#13;
+　地帯御判幷度々令旨知行之處去應永六年&#13;
+　無故押領云々如寺僧等支申者号西霞寺田&#13;
+　致知行於支證者令紛失之由以長田状陳之&#13;
+　雖然無文書上者旁非御沙汰之限間如元被返&#13;
+　付弘願院被成　御判訖&#13;
+
+            永享四年十二月廿五日　左兵衛尉熈基 &#13;
+　　　　　　　　　　　　加賀守為行&#13;
+</ns1:description>
+    <ns1:date>1432-12-25</ns1:date>
+    <ns1:title>72: 一　　弘願院雑掌与栖霞寺々僧相論山城國</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/013">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p18"/>
+    <ns1:description>（花押）&#13;
+一検非違使左衛門大尉員弘申左衛門府年&#13;
+　預職事&#13;
+坊城菅少納言益長押妨之由就訴申被差&#13;
+日限昨日十四中可出帯支状幷支證等之旨為 &#13;
+
+            秀藤貞連奉行被相觸之乍写取訴状令遁避之 &#13;
+上者可被成下御教書於員弘也焉&#13;
+
+            永享二年十一月十五日　大和守貞連（花押） &#13;
+</ns1:description>
+    <ns1:title>13: 一検非違使左衛門大尉員弘申左衛門府年</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1430-11-15</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/015">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p19"/>
+    <ns1:title>15: 一　　石清水八幡宮神人右衛門四郎与同神人五郎左衛門尉宗貞</ns1:title>
+    <ns1:description>（花押）&#13;
+一　　石清水八幡宮神人右衛門四郎与同神人五郎左衛門尉宗貞&#13;
+　　　相論越後國柏崎住民道秀入道遺跡事&#13;
+　去八月十五日　神幸之時彼右衛門四郎幷父祐見等奉&#13;
+　取付　神輿致嗷訴之條狼籍絶常篇罪科甚不輕&#13;
+　雖然若彼輩訴詔有其理者被免過怠為有論所於&#13;
+　御裁許今月八日夜於社務在京之宿坊召出彼代祐見浄随等 &#13;
+　及對決沙汰之處如祐見申者既年来右衛門四郎為道秀之&#13;
+　養子無貮之處以一往折檻状稱義絶之證文掠申　公方&#13;
+　令押領云々如浄随申者右衛門四郎雖為異姓他人道秀&#13;
+　収養之段勿論也但依有不儀之子細慥令義絶之由道秀之&#13;
+　自筆状二通明鏡也仍宗貞者道秀之甥也荷物資財等&#13;
+　宗貞可相計之旨同載彼状畢且宗貞可相傳之由道秀&#13;
+　申置之条無其隠且先度被經御沙汰被成下御教書云々&#13;
+　爰祐見重申之宗貞出帯證状不審多端云々然者加披見&#13;
+　可差申謀書廉之旨雖申含彼状披見事祐見再三辞&#13;
+　退訖尚以責伏之間雖披見彼状曽以不差申謀書廉将又&#13;
+　先立避与屋一宇幷苧拾駄可和平之旨以浄通入道令&#13;
+　籌策之趣祐見雖申之於浄随者更不存知仕之由申之&#13;
+　加之祐見申詞條々参差無理忽令顯然之次第社務&#13;
+　幷奉行人為種貞元秀藤等言上仕也此上者可被付宗貞之由 &#13;
+　被　仰下訖仍就望申可被成下安堵御教書於宗貞也矣&#13;
+
+            永享二年十二月十二日　左衛門尉秀藤（花押） &#13;
+　　　　　　　　　　　　散　位貞元（花押）&#13;
+　　　　　　　　　　　　肥前守為種（花押）&#13;
+</ns1:description>
+    <ns1:date>1430-12-12</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/021">
+    <ns1:description>（花押）&#13;
+
+            ※（不明）美濃國輕海郷地頭職恒冨入道同庶子等跡事 &#13;
+
+            ※（不明）廣橋中納言家由緒被召出支證之處明徳 &#13;
+三年五月三日祖父以御書但正文紛失拜領以来當知 &#13;
+行之處去應永十五年大舘申給云々爰被召&#13;
+出彼證文訖去明徳元潤三　十六亡父以御下文被下之 &#13;
+中間廣橋家雖被申給其後勝定院殿御代&#13;
+被返下于今當知行之由申之於大舘者御下&#13;
+文先日之間所申雖非無其謂未施行也又應&#13;
+永年中御判為還補者争不載其詞哉旁以&#13;
+非無御不審所詮至廣橋者雖令紛失御書&#13;
+既而施行分明之上細々奉公之間難被對揚&#13;
+上者以御判可被返付廣橋家也焉&#13;
+
+            永享二年十二月廿五日　大和守貞連（花押） &#13;
+（花押）&#13;
+</ns1:description>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>21: 
+            </ns1:title>
+    <ns1:date>1430-12-25</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/027">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1431-05-25</ns1:date>
+    <ns1:description>（花押）&#13;
+一大原勝林院通嚴申来迎院領備中國小田甲努&#13;
+　新賀山口四箇村事 &#13;
+　為年来當院領之處中古院務本達上人同&#13;
+　朋正信致自専任雅意令譲与聖興蔵主于時知客&#13;
+　其跡常喜幷徹書記以下於于今押妨之条寺領&#13;
+　一所及失墜之由就申之被尋下常喜等召出&#13;
+　支證備　上覧訖尤以合奉行雖可有御糺明&#13;
+　所令出帯如支状幷文書案正文紛失云々者本券正信 &#13;
+　譲状也何非住持之儀可相計寺領哉縦雖為院&#13;
+　務一代住持譲状難被許容歟旁以通嚴所申&#13;
+　非無其謂然早任暦應三年十二月四日　院宣之旨&#13;
+　以　御判可被返付来迎院也矣&#13;
+
+            永享三年五月廿五日　大和守貞連（花押） &#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p34"/>
+    <ns1:title>27: 一大原勝林院通嚴申来迎院領備中國</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/041">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p51"/>
+    <ns1:description>（花押）&#13;
+一　　大田七郎頼忠与日野中納言家雑掌相&#13;
+　　　論攝津國大田保内所職田畠畠田五郎左衛門入道浄忠跡&#13;
+　　　事&#13;
+　對論之趣評定衆申意見訖但浄忠為罪科人&#13;
+　由本所雑掌差申之上者不能御許容先&#13;
+　彼地可被預置伊勢守也可沙汰付之旨可&#13;
+　申付守護代也矣&#13;
+
+            永享三年十一月十五日　左衛門尉秀藤（花押） &#13;
+　　　　　　　　　　　散　位　貞元（花押）&#13;
+</ns1:description>
+    <ns1:title>41: 一　　大田七郎頼忠与日野中納言家雑掌相</ns1:title>
+    <ns1:date>1431-11-15</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/005">
+    <ns1:title>5: 一足助次郎淳重申参河國足助庄内仁木郷</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>（花押）&#13;
+一足助次郎淳重申参河國足助庄内仁木郷&#13;
+事先年足助左馬助御敵之時祖父重胤&#13;
+
+            左馬助舎弟雖令諷諫不承引仕之間隠居仕之處 &#13;
+被聞食披被召出之致忠節被下還補御判&#13;
+等訖雖然土岐宮内少輔押領之其後土岐御器&#13;
+所知行之刻土岐肥田瀬申給之条難堪也云々&#13;
+肥田瀬宮内大輔支状云為御器所拜領之間稱&#13;
+本主歎申之条更無其謂云々所詮足助有勲&#13;
+功無其誤之上者任證文等之旨被下還補&#13;
+御判於淳重訖&#13;
+　土肥次郎貞平窮困事管領被執申之仍&#13;
+　不可有准據之儀限一人以契約在所可申&#13;
+　旨被仰出之間以此在所申請令契約訖&#13;
+　即不謂御銘之次第令披露者也焉&#13;
+
+            永享二年九月十八日　肥前守為種（花押） &#13;
+　　　　　　　　　　加賀守基貞（花押）&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p8"/>
+    <ns1:date>1430-09-18</ns1:date>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/016">
+    <ns1:date>1430-12-11</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p21"/>
+    <ns1:title>16: 一尾張房料足事</ns1:title>
     <ns1:description>（花押）&#13;
 一尾張房料足事&#13;
 就松梅院禅能借書九通本錢五百八貫四百文&#13;
@@ -1178,14 +1078,496 @@
             永享二年十二月十一日　大和守貞連（花押） &#13;
 　　　　　　　　　　　加賀守為行（花押）&#13;
 </ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/026">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p33"/>
+    <ns1:date>1431-05-18</ns1:date>
+    <ns1:description>（花押）&#13;
+一　上杦中務少輔持憲代与利倉式部丞相論&#13;
+　　負物事&#13;
+　於利倉式部丞者任借状可有行結解幷借物&#13;
+　十分一之由雖申之如政所寄人註申者可&#13;
+　為一倍次十分一事不存知仕云々然者遂&#13;
+　一倍之勘定以丹波國和久庄年貢如近年可&#13;
+　返弁之就中人夫以下事同可致勘弁於令&#13;
+　不足者上杦中務少輔代早速可令奔走之由&#13;
+被仰下畢&#13;
+
+            永享三年五月十八日　肥前守為種（花押） &#13;
+　　　　　　　　　　散　位貞元（花押）&#13;
+</ns1:description>
     <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p21"/>
-    <ns1:title>16: 一尾張房料足事</ns1:title>
-    <ns1:date>1430-12-11</ns1:date>
+    <ns1:title>26: 一　上杦中務少輔持憲代与利倉式部丞相論</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/033">
+    <ns1:date>1431-09-06</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>33: 一　　　清水坂神護寺領讃岐國坂田郷所務代事</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p42"/>
+    <ns1:description>一　　　清水坂神護寺領讃岐國坂田郷所務代事&#13;
+　如雑掌申者去應永十九年故香西入道捧請文毎年&#13;
+　百七拾貫文無不法懈怠可執沙汰寺家年貢之旨&#13;
+　申定以来雖預置彼在所近年有未進緩怠等儀&#13;
+　是併寺用失墜之基也可致直務云々爰香西豊前入道&#13;
+　常慶對寺家如歎申者於舊未進者可被閣之旨&#13;
+　先度雑掌出状畢至去年永享二分者迄今年 &#13;
+　八月連々令究済云々雖然常慶出帯之寺家請取状&#13;
+　結句為未進之證據者歟其上於彼常慶者御折檻之&#13;
+　間旁以非御沙汰之限任雑掌申請之旨可被成下&#13;
+　直務之御教書之由被　　仰下也矣&#13;
+
+            永享三年九月六日　左衛門尉秀藤 &#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/064">
+    <ns1:title>64: 一　神祇權大副大中臣秀直与舎兄宗直相論</ns1:title>
+    <ns1:description>一　神祇權大副大中臣秀直与舎兄宗直相論&#13;
+　　伊勢國原庄幷冨田庄各半分事&#13;
+　如秀直申者為父通直之處分帯去應永&#13;
+　卅五年潤三月十五日譲状之處宗直令抑留之&#13;
+　如形加扶持之条難堪之由秀直申之宗直又&#13;
+　於年貢者可致其沙汰至下地者可自専之&#13;
+　旨論之所詮宗直之出帯譲状可持下地文言&#13;
+　無之上於御糺明中間出去状訖旁不及豫儀&#13;
+　歟然者云以前未進云兩所下地可去渡秀直&#13;
+　由被召仰宗直訖&#13;
+
+            永享四年十一月廿八日　對馬守貞清 &#13;
+　　　　　　　　　　　加賀守基貞&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p77"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1432-11-28</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/046">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p56"/>
+    <ns1:title>46: 一　山門大勸進申大講堂領近江國河上庄</ns1:title>
+    <ns1:date>1431-12-05</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>（花押）&#13;
+一　山門大勸進申大講堂領近江國河上庄&#13;
+　　奉行職事&#13;
+如大勸進寶福寺申者根本奉行為廿五人之 &#13;
+處近年為十人尚以修造常供常燈以下&#13;
+無沙汰云々爰弁阿闍梨申請三口之加任&#13;
+者也如當奉行十人申者支配彼得分致其&#13;
+沙汰訖被加任者得分所役等可減少云々&#13;
+所詮被任先例之上者於寺役者何可令&#13;
+減少哉只稱申私得分歟然今被加任三口&#13;
+間十三分也以殘十二口可致講堂修造之旨&#13;
+被仰付大勸進如根本所被定置廿五分也&#13;
+次十三口之衆造營常供常燈以下不可有&#13;
+無沙汰之由被成御教書訖&#13;
+
+            永享三年十二月五日　肥前守為種（花押） &#13;
+　　　　　　　　　　大和守貞連（花押）&#13;
+　　　　　　　　　　加賀守為行（花押）&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/058">
+    <ns1:date>1432-08-15</ns1:date>
+    <ns1:title>58: 一　淺堀弥四郎頼勝申遠江國笠原庄内木根</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p71"/>
+    <ns1:description>一　淺堀弥四郎頼勝申遠江國笠原庄内木根&#13;
+　　南方近江國針村事&#13;
+帯去應永九年九月十七日御下文之處於木根者&#13;
+桃井治部少輔入道常欽令混乱惣庄押妨云々&#13;
+如常欽支状者去應永十八年笠原庄被成下&#13;
+御判當知行云々何以一庄御判各別地可押領哉&#13;
+凡雖馳過文書年記無躰不知行不便之間任&#13;
+御下文如元可被返付頼勝此条去六日被施行&#13;
+訖次針村御判一紙也但未施行守護令押妨進&#13;
+置在中和尚之由申之就被相尋捧南禅寺&#13;
+瑞雲院陳状當保者六角帯支證致知行&#13;
+寄附當院云々而為秀藤貞連御使被尋問守護 &#13;
+人之處甲賀一郡令拜領依為其内奉寄進&#13;
+旨載状申之強限當所不帯支證云々是又&#13;
+以前御成敗同篇也殊施行紛失之間雖有※（言偏に比）&#13;
+謬六角於此在所雖為如形至令出帯證文者&#13;
+不能左右歟一向無所見之上者争可被許容&#13;
+哉然者以御判可被下頼勝也&#13;
+
+            永享四年八月十五日　大和守貞連 &#13;
+　　　　　　　　　　美作守秀藤&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/060">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p74"/>
+    <ns1:description>一　　近江國愛智下庄霊山寺与延壽寺就&#13;
+　　　山林境相論領主坐禅院珎全去年十二月六日&#13;
+　　　發向霊山寺事&#13;
+　就霊山寺衆徒等庭中申被尋坐禅院之處&#13;
+　更無發向之儀兩寺確執之間為籌策罷出云々&#13;
+　如霊山寺申者先日五為合力近憐國人山徒等&#13;
+　相催之由差申之間被召上与力族有御尋之處&#13;
+　坐禅院子知生坊實全為公方蒙仰可對治霊山寺旨 &#13;
+　書状分明也其外条々申詞令参差之上任右筆&#13;
+　方意見為彼過怠被収公坐禅院所帯近江國&#13;
+　愛智下庄訖&#13;
+
+            永享四年九月廿九日　右衛門尉為秀 &#13;
+　　　　　　　　　　　對馬守貞清&#13;
+</ns1:description>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>60: 一　　近江國愛智下庄霊山寺与延壽寺就</ns1:title>
+    <ns1:date>1432-09-29</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/062">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1432-11-26</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p75"/>
+    <ns1:title>62: 一　高野山高祖院雑掌与細河陸奥守</ns1:title>
+    <ns1:description>一　高野山高祖院雑掌与細河陸奥守&#13;
+　　満經代相論和泉國土生郷地頭職三&#13;
+　　分壱事&#13;
+　如雑掌申者祖父顯氏為寄進地之處&#13;
+　今度安堵之刻一圓押領無其謂云々&#13;
+　満經代如支申者忘譜代舊好訴&#13;
+　申公方条背本意間雖為少分可&#13;
+　奉寄他院云々顯氏寄進之状異于他&#13;
+　其子孫争可及違乱哉所詮任暦應元&#13;
+　年十月九日寄附之旨可返付當院由&#13;
+　所被成御教書也&#13;
+
+            永享四年十一月廿六日　左衛門尉貞親 &#13;
+　　　　　　　　　　　　肥前守為種&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/057">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p70"/>
+    <ns1:date>1432-08-12</ns1:date>
+    <ns1:title>57: 一　相國寺領山城國寺田庄与小笠原備前守</ns1:title>
+    <ns1:description>一　相國寺領山城國寺田庄与小笠原備前守&#13;
+　　持長知行分同國冨野郷相論堺事&#13;
+被召決兩方之刻為冨野郷沙汰召捕寺領&#13;
+百姓剰一人令誅云々且云中間狼籍且云鹿苑&#13;
+院殿御佛事中旁以領主難遁其咎爰&#13;
+持長不存知之由陳申之然者代官于時庄主所行 &#13;
+歟不日可召進之旨被仰含訖仍致参路以湯&#13;
+起請其文章所詮如此題目為領主申付不致沙汰云々有糺明之處指腹白焼之 &#13;
+此上者咎已露顕之間尤雖可被攻公所帯就&#13;
+寛宥之儀以三重野論所地可被付寺家早可&#13;
+書上御教書也&#13;
+
+            永享四年八月十二日　大和守貞連 &#13;
+　　　　　　　　　　對馬守貞清&#13;
+　　　　　　　　　　肥前守為種&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/011">
+    <ns1:title>11: 一鷹司大納言家雑掌申加賀國益冨</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p16"/>
+    <ns1:description>一鷹司大納言家雑掌申加賀國益冨&#13;
+　保事&#13;
+就雑掌訴状被相觸防城菅少納言益長&#13;
+刻彼輩違　上意之上者不能取合以當&#13;
+保可被返進家門可為御内書也焉&#13;
+
+            永享二年十一月十二日　大和守貞連（花押） &#13;
+</ns1:description>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1430-11-12</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/066">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>66: 一　　文章博士長郷朝臣申　北野宮寺領加賀</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p79"/>
+    <ns1:date>1432-12-02</ns1:date>
+    <ns1:description>一　　文章博士長郷朝臣申　北野宮寺領加賀&#13;
+　　　國冨墓庄号柴山預所職事&#13;
+　彼庄務以建保六年官符宣募由緒可預&#13;
+　上裁之旨長郷申之爰件官符宣校正之案文也&#13;
+　非無御疑貽哉而就被尋下如評定衆等注申者&#13;
+　校正之物准據正文之段古今傍例云云将又被&#13;
+　召出長案之面仁加筆引墨事是亦瑩詞嗜道&#13;
+　故也尤為規模云云就中或神領之預所雖為凡&#13;
+　人可被便補否或庶子断絶之時為嫡流競望&#13;
+　有其謂否云彼云是及渕底御糺明者也旁以&#13;
+　長郷之訴訟不為非據之趣評定衆等申上訖然者&#13;
+　神用不可致無沙汰之旨被召置請文可被成下&#13;
+　御判之由被　仰出矣&#13;
+
+            永享四年十二月二日　美作守秀藤 &#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/036">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p45"/>
+    <ns1:date>1431-09-14</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>36: 一　　祇園社大政所神主松壽丸与左方差符主計</ns1:title>
+    <ns1:description>（花押）&#13;
+一　　祇園社大政所神主松壽丸与左方差符主計&#13;
+　　　丞源縁親相論神主職同敷地社恩等事&#13;
+　如松壽丸申状者　圓融院御宇天延二年五月&#13;
+　下旬天王御影向之時先祖助正御共申被補&#13;
+　神主職以来不移他所職之處去應永四年執&#13;
+　行顯深就掠申被仰付之條不便之由言上之如&#13;
+　縁親支状者彼松壽丸先祖助貞令殺害伯父&#13;
+　間依其罪科被改神主職被補任吉益于今無相&#13;
+　違仍去應永廿年八月十二日依幸夜叉丸訴詔被尋&#13;
+　下一社之處殺害人子孫居神職事曽以無先規云々&#13;
+　爰松壽丸重言上於一社連署者為執行依令語&#13;
+　誘社僧等不弁先規捧連署歟不足信用任他社&#13;
+　例可預御裁許之旨申上之　御定一社連署之&#13;
+　事者難有御許容可尋究他社之例由被仰下間&#13;
+　相尋　太神宮祭主清忠内造宮使宗直日吉樹&#13;
+　下成胤官長者周枝吉田神主兼冨等之處殺害&#13;
+　人子孫可相續神職之條無子細之由各所捧請文&#13;
+　　所詮末社之服忌令不可過本社（裏花押）&#13;
+　也此上者至大政所神主職同敷地社恩等者如元&#13;
+　可被返付松壽丸之由可被成下　御判也&#13;
+
+            永享三年九月十四日　　加賀守基貞（花押） &#13;
+　　　　　　　　　　左衛門尉秀藤（花押）&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/067">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>67: 一　　武藤与次郎用定申遠江國一宮庄代官</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p80"/>
+    <ns1:date>1432-12-02</ns1:date>
+    <ns1:description>一　　武藤与次郎用定申遠江國一宮庄代官&#13;
+　　　職事&#13;
+　先代官大谷豊前入道玄本雖申子細所領者可&#13;
+　為領主計哉於負物者行結解之段玄本既&#13;
+　承伏之上者任用定申請可被成下御教書焉&#13;
+
+            永享四年十二月二日　美作守秀藤 &#13;
+　　　　　　　　　　民部丞基世&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/001">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p4"/>
+    <ns1:description>（花押）&#13;
+一北野宮祠官權律師明兼申伊勢國長太石津&#13;
+加納堀江等領家職事去永和嘉慶年中&#13;
+以不知行之地御寄附之間致粉骨令安堵得&#13;
+ 門跡聖護院素意入當宮領目録訖仍知行之 &#13;
+處相語永琳院号門跡御師以半分被寄進&#13;
+背契約押領之条歎入云々如聖護院雑掌&#13;
+申者明兼之先師明什不儀之間變改之旨&#13;
+雖差申之其證不分明之上先度對社家度&#13;
+度申給御教書致忠節之上者難謂不儀&#13;
+歟即被下還補御判於權律師明兼訖焉&#13;
+
+            永享二年九月二日　肥前守為種（花押） &#13;
+　　　　　　　　　加賀守基貞（花押）&#13;
+</ns1:description>
+    <ns1:date>1430-09-02</ns1:date>
+    <ns1:title>1: 一北野宮祠官權律師明兼申伊勢國長太石津</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/024">
+    <ns1:title>24: 一　八幡宮雑掌申安居頭役事</ns1:title>
+    <ns1:description>（花押）&#13;
+一　八幡宮雑掌申安居頭役事&#13;
+　差定五条坊門東洞院太郎五郎男之處&#13;
+　雖為神領之内生非神人之子争令勤仕乎&#13;
+　其上　禁裏駕輿丁也云々如雑掌申者於神&#13;
+　領生者可致沙汰云々依註申相尋之處四条&#13;
+　坊門東洞院助三郎雖非神人致沙汰畢駕輿&#13;
+　丁又數多也雖被除彼者不可有子細歟此上者&#13;
+　太郎五郎男可致沙汰之由&#13;
+被仰下&#13;
+
+            永享三年四月七日　肥前守為種（花押） &#13;
+　　　　　　　　　對馬守貞清（花押）&#13;
+</ns1:description>
+    <ns1:date>1431-04-07</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/004">
+    <ns1:description>（花押）&#13;
+一新熊野妙華菴雑掌申山城國西岡&#13;
+　内願成寺下司職事&#13;
+捧雑掌申状之間相觸當知行輩岡之&#13;
+處就當所之訴為陳答彼支證等付置&#13;
+松田對馬守云々則被召出證文訖於當庵&#13;
+者以相續補任毎度申成御教書至論人者&#13;
+或罷成八幡神人得神事之時申請御教&#13;
+書或属本所以蜜々之儀掠給補任之由&#13;
+申之所詮補任者兩方帯之歟先可被付&#13;
+當庵也可被成下御教書焉&#13;
+
+            永享二年九月六日　大和守貞連（花押） &#13;
+　　　　　　　　　對馬守貞清（花押）&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p8"/>
+    <ns1:title>4: 一新熊野妙華菴雑掌申山城國西岡</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1430-09-06</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/070">
+    <ns1:description>一　　中西入道明重与冨少路千夜叉丸訴陳山城國&#13;
+　　　小泉御厨西院散田方事&#13;
+　如中西申者彼所者千夜叉丸祖父任清法印限拾&#13;
+　壹ヶ年令沽却明重於参ヶ年者知行仕者也爰&#13;
+　彼所南都一乗院依訴詔暫不知行之間空罷過&#13;
+　訖然而去年千夜叉丸令安堵之間如元雖可令知行依&#13;
+　計會年貢半分可閣之由被申之延年紀重乍出&#13;
+　契状其後一向不去渡云々所詮任契約之分限明重&#13;
+　一圓可知行之由被仰付冨少路訖&#13;
+
+            永享四年十二月十九日　右衛門尉為秀 &#13;
+　　　　　　　　　　　　美作守秀藤&#13;
+</ns1:description>
+    <ns1:title>70: 一　　中西入道明重与冨少路千夜叉丸訴陳山城國</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p83"/>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1432-12-19</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/028">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1431-06-12</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p35"/>
+    <ns1:title>28: 一　伊勢九郎左衛門尉盛行与木幡浄妙寺源豪</ns1:title>
+    <ns1:description>（花押）&#13;
+一　伊勢九郎左衛門尉盛行与木幡浄妙寺源豪&#13;
+　　相論當寺執行職事&#13;
+　為基宗奉行如盛行訴申者去應永十五年&#13;
+　源豪先師源快依有御罪科之子細為本領&#13;
+　替父盛秀令拜領致知行之處同十九年相語&#13;
+　冨樫兵部大輔還補之条無謂之上者可被返下云々&#13;
+　如源豪陳状者當寺者為聖護院門跡御管領&#13;
+　在所至執行職者源豪譜代令相續之處盛秀&#13;
+　盛行父雖掠賜依申披應永十八年十月一日以&#13;
+　御書被返進門跡云々還補之年号盛行訴状之旨&#13;
+　令参差之上縦一旦雖被充行被返付門跡　御内書&#13;
+　分明之上者任當知行被閣之訖&#13;
+
+            永享三年六月十二日　加賀守為行（花押） &#13;
+　　　　　　　　　　中務丞基宗&#13;
+</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/045">
+    <ns1:description>（花押）&#13;
+一　角田兵庫助満秀与阿部筑前守重有相論&#13;
+　　備中國神代事&#13;
+満秀捧去明徳四年六月十一日御下文以下證文當&#13;
+知行之處守護被官人押領無謂之由訴申之&#13;
+間被尋問守護人之處阿部筑前守重有支状被&#13;
+執進訖如重有支申者當所地頭職者相傳當知行&#13;
+云々然者満秀所給御下文以後令還補否可出帯&#13;
+支證之旨差日限被仰之處遁避之上者可被成下&#13;
+御判於満秀也又此段申含守護人訖焉&#13;
+
+            永享三年十二月三日　對馬守貞清（花押） &#13;
+　　　　　　　　　　加賀守為行（花押）&#13;
+</ns1:description>
+    <ns1:title>45: 一　角田兵庫助満秀与阿部筑前守重有相論</ns1:title>
+    <ns1:date>1431-12-03</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p55"/>
+    <ns1:subject>kiroku</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/053">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p65"/>
+    <ns1:description>一　左大臣家雑掌与赤松阿波入道性宗相論攝津&#13;
+　　國福原庄領家職撿断人足公文職等事&#13;
+如雑掌訴状者於當所領家職撿断人夫所職等&#13;
+者本所進止之条帯貞應元年六月十一日暦應&#13;
+二年九月十七日御下知為各別之處性宗為地頭&#13;
+令進退領家人足剰押領所職相綺撿断之段無其謂&#13;
+旨申之如性宗申者至撿断人夫以下者一圓可&#13;
+為地頭進退之處近年令混合之領家相共致沙汰&#13;
+条非正儀之由申之間被相尋地頭進止之支證之處&#13;
+捧至徳元年九月四日地頭請所御判備證文云々&#13;
+難被許容者也雖然尚以被尋下法例於右筆&#13;
+方之處云地頭云領家於進止之在所者共以不可相&#13;
+綺之旨言上仕之間旁停止地頭違乱弥可為本所&#13;
+進止之由被成　御判訖&#13;
+
+            永享四年六月二日　加賀守為行 &#13;
+　　　　　　　　　加賀守基貞&#13;
+</ns1:description>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1432-06-02</ns1:date>
+    <ns1:title>53: 一　左大臣家雑掌与赤松阿波入道性宗相論攝津</ns1:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/055">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>一　葉室浄住寺雑掌与南禪寺瑞雲庵&#13;
+　　雑掌相論美濃國小瀬庄領家職事&#13;
+為當寺領數年知行無相違之處瑞雲庵&#13;
+雑掌混乱地頭職令押領之剰應永弐十五　十　廿五&#13;
+申給一圓御教書雖支申室町院御寄進&#13;
+状弘安五　六　六幷度々證文等分明之間於領家職 &#13;
+者如元被返付浄住寺所被成下　御判也&#13;
+
+            永享四年六月十四日　左衛門尉貞親 &#13;
+　　　　　　　　　　　民部丞基世&#13;
+</ns1:description>
+    <ns1:title>55: 一　葉室浄住寺雑掌与南禪寺瑞雲庵</ns1:title>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p68"/>
+    <ns1:date>1432-06-14</ns1:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/029">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:description>（花押）&#13;
+一　　八幡宮田中法印融清与當宮神人相論&#13;
+　　　山城國美豆河口兩郷加地子盛増事&#13;
+　如田中法印申者為公方御祈禱料所御寄&#13;
+　進之處近年神人及神事違乱申給御教書&#13;
+　無謂知行云々如神人申者帯度々御教書當&#13;
+　知行云々所詮於神人出帯支證者皆及神事&#13;
+　違乱申給所見也此上者任御判等之旨融清&#13;
+　可知行之由&#13;
+被仰下　　　　被成御教書訖&#13;
+
+            永享三年六月十七日　　肥前守為種（花押） &#13;
+　　　　　　　　　　左衛門尉秀藤（花押）&#13;
+</ns1:description>
+    <ns1:title>29: 一　　八幡宮田中法印融清与當宮神人相論</ns1:title>
+    <ns1:date>1431-06-17</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/022">
+    <ns1:description>一乗院家雑掌申就若宮祭礼田楽頭役&#13;
+和州門跡領所々重色十疋非重色五疋段別&#13;
+錢事被懸課之處学侶衆徒号祈願寺&#13;
+寄人及異儀之条無其謂云々如学侶申&#13;
+者重色五疋非重色三疋可懸課之但於&#13;
+祈願寺寄人者可被閣之旨申之雖然&#13;
+不帯免除之状之上至門跡者出帯度々&#13;
+段錢納帳之間可被懸沙汰之由被成御教書&#13;
+訖焉&#13;
+
+            永享二年十二月廿九日　肥前守為種（花押） &#13;
+　　　　　　　　　　　加賀守為行（花押）&#13;
+</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p28"/>
+    <ns1:date>1430-12-29</ns1:date>
+    <ns1:title>22: 一乗院家雑掌申就若宮祭礼田楽頭役</ns1:title>
+    <ns1:subject>kiroku</ns1:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/kiroku/035">
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p44"/>
+    <ns1:description>（花押）&#13;
+一　　　清閑寺禅侶權少僧都幸済与吉田大納言家&#13;
+　　　　雑掌相論當寺内辻坊幷敷地等事&#13;
+　如幸済申者當坊者吉田大納言家被官人信濃左&#13;
+　衛門入道妙宗帯　院宣等證文相傳之地也仍子息&#13;
+　左近将監令相續為彼坊留守居住之間料足拾貮&#13;
+　貫文令傳借畢借状云若不致返弁者此坊舎敷地幷&#13;
+　文書等悉入置質物之上者可為永領契約也爰彼&#13;
+　将監男令逐電之間任借状幸済自専仕之處主人&#13;
+　吉田大納言家掠給　院宣押領云々如支状者彼坊舎&#13;
+　敷地等者當家舊跡為稱号之地帯　院宣之上者可有&#13;
+　進退之由被申之然者可被出本文書之旨重被仰之&#13;
+　處舊跡證據稱号所見共以無之由載状被申彼状下給幸済僧都&#13;
+　争以近年之院宣壹通可被弃置相傳文書哉此上者&#13;
+　任左近将監借状被渡付彼坊於幸済僧都訖矣&#13;
+
+            永享三年九月十五日　右衛門尉為秀（花押） &#13;
+　　　　　　　　　　　加賀守為行（花押）&#13;
+</ns1:description>
+    <ns1:date>1431-09-15</ns1:date>
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>35: 一　　　清閑寺禅侶權少僧都幸済与吉田大納言家</ns1:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/030">
-    <ns1:date>1431-06-19</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p37"/>
     <ns1:title>30: 一　鷹司大納言家雑掌与中嶋加賀守隆信相論</ns1:title>
     <ns1:description>（花押）&#13;
 一　鷹司大納言家雑掌与中嶋加賀守隆信相論&#13;
@@ -1216,187 +1598,14 @@
             永享三年六月十九日　　大和守貞連（花押） &#13;
 　　　　　　　　　　左衛門尉秀藤（花押）&#13;
 </ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/004">
-    <ns1:date>1430-09-06</ns1:date>
-    <ns1:description>（花押）&#13;
-一新熊野妙華菴雑掌申山城國西岡&#13;
-　内願成寺下司職事&#13;
-捧雑掌申状之間相觸當知行輩岡之&#13;
-處就當所之訴為陳答彼支證等付置&#13;
-松田對馬守云々則被召出證文訖於當庵&#13;
-者以相續補任毎度申成御教書至論人者&#13;
-或罷成八幡神人得神事之時申請御教&#13;
-書或属本所以蜜々之儀掠給補任之由&#13;
-申之所詮補任者兩方帯之歟先可被付&#13;
-當庵也可被成下御教書焉&#13;
-
-            永享二年九月六日　大和守貞連（花押） &#13;
-　　　　　　　　　對馬守貞清（花押）&#13;
-</ns1:description>
-    <ns1:title>4: 一新熊野妙華菴雑掌申山城國西岡</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p8"/>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/058">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p71"/>
-    <ns1:description>一　淺堀弥四郎頼勝申遠江國笠原庄内木根&#13;
-　　南方近江國針村事&#13;
-帯去應永九年九月十七日御下文之處於木根者&#13;
-桃井治部少輔入道常欽令混乱惣庄押妨云々&#13;
-如常欽支状者去應永十八年笠原庄被成下&#13;
-御判當知行云々何以一庄御判各別地可押領哉&#13;
-凡雖馳過文書年記無躰不知行不便之間任&#13;
-御下文如元可被返付頼勝此条去六日被施行&#13;
-訖次針村御判一紙也但未施行守護令押妨進&#13;
-置在中和尚之由申之就被相尋捧南禅寺&#13;
-瑞雲院陳状當保者六角帯支證致知行&#13;
-寄附當院云々而為秀藤貞連御使被尋問守護 &#13;
-人之處甲賀一郡令拜領依為其内奉寄進&#13;
-旨載状申之強限當所不帯支證云々是又&#13;
-以前御成敗同篇也殊施行紛失之間雖有※（言偏に比）&#13;
-謬六角於此在所雖為如形至令出帯證文者&#13;
-不能左右歟一向無所見之上者争可被許容&#13;
-哉然者以御判可被下頼勝也&#13;
-
-            永享四年八月十五日　大和守貞連 &#13;
-　　　　　　　　　　美作守秀藤&#13;
-</ns1:description>
-    <ns1:date>1432-08-15</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>58: 一　淺堀弥四郎頼勝申遠江國笠原庄内木根</ns1:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/071">
-    <ns1:title>71: 一　　梶井御門跡雑掌与中西入道明重相論</ns1:title>
-    <ns1:date>1432-12-19</ns1:date>
-    <ns1:description>一　　梶井御門跡雑掌与中西入道明重相論&#13;
-　　　近江國甘呂八坂御借物事&#13;
-　如中西申者向甘呂八坂御借物繁多也仍&#13;
-　可有御存知之由被下御令旨之處自去年&#13;
-　甘呂庄被押置之条不便之由言上之如御門&#13;
-　跡雑掌申者廰務冨小路号私臺所&#13;
-　要脚借用也将又於福阿請取者不可承引&#13;
-　應永三十四年令旨以後分可有返弁之由論之&#13;
-　此条可相尋評定衆之由被仰下之間尋竟&#13;
-　見處至彼令旨者可渡古今之御借物云々此&#13;
-　上者於政所勘定之本利相當之間以甘呂庄&#13;
-　年貢可有返弁之由被仰下訖&#13;
-
-            永享四年十二月十九日　加賀守基貞 &#13;
-　　　　　　　　　　　美作守秀藤&#13;
-</ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p84"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/031">
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>31: 一　　觀勝寺大悲院与鯰江五郎左衛門尉高真</ns1:title>
-    <ns1:description>（花押）&#13;
-一　　觀勝寺大悲院与鯰江五郎左衛門尉高真&#13;
-　　　相論飛騨國大野郡内恒武名号西一色事&#13;
-　如大悲院申者去應永十八年三月十六日伊地知次郎氏和&#13;
-　寄附當院以来知行無相違之間同廿年四月十九日給&#13;
-　安堵銘之處同年十二月十三日掠給鯰江入道明西云々爰&#13;
-　明西遺跡高真雖支申於御下文者無下名至寺家&#13;
-　者自應永十八年至同廿年十月當知行之所見分明也&#13;
-　依何不忠寺領可被闕所哉且又評定衆意見如此&#13;
-　然上者被返付觀勝寺大悲院則被成下　御判訖矣&#13;
-
-            永享三年八月十五日　右衛門尉為秀（花押） &#13;
-　　　　　　　　　　左衛門尉秀藤（花押）&#13;
-</ns1:description>
-    <ns1:date>1431-08-15</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p39"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/062">
-    <ns1:title>62: 一　高野山高祖院雑掌与細河陸奥守</ns1:title>
-    <ns1:description>一　高野山高祖院雑掌与細河陸奥守&#13;
-　　満經代相論和泉國土生郷地頭職三&#13;
-　　分壱事&#13;
-　如雑掌申者祖父顯氏為寄進地之處&#13;
-　今度安堵之刻一圓押領無其謂云々&#13;
-　満經代如支申者忘譜代舊好訴&#13;
-　申公方条背本意間雖為少分可&#13;
-　奉寄他院云々顯氏寄進之状異于他&#13;
-　其子孫争可及違乱哉所詮任暦應元&#13;
-　年十月九日寄附之旨可返付當院由&#13;
-　所被成御教書也&#13;
-
-            永享四年十一月廿六日　左衛門尉貞親 &#13;
-　　　　　　　　　　　　肥前守為種&#13;
-</ns1:description>
-    <ns1:date>1432-11-26</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p75"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/066">
-    <ns1:date>1432-12-02</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p79"/>
-    <ns1:title>66: 一　　文章博士長郷朝臣申　北野宮寺領加賀</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>一　　文章博士長郷朝臣申　北野宮寺領加賀&#13;
-　　　國冨墓庄号柴山預所職事&#13;
-　彼庄務以建保六年官符宣募由緒可預&#13;
-　上裁之旨長郷申之爰件官符宣校正之案文也&#13;
-　非無御疑貽哉而就被尋下如評定衆等注申者&#13;
-　校正之物准據正文之段古今傍例云云将又被&#13;
-　召出長案之面仁加筆引墨事是亦瑩詞嗜道&#13;
-　故也尤為規模云云就中或神領之預所雖為凡&#13;
-　人可被便補否或庶子断絶之時為嫡流競望&#13;
-　有其謂否云彼云是及渕底御糺明者也旁以&#13;
-　長郷之訴訟不為非據之趣評定衆等申上訖然者&#13;
-　神用不可致無沙汰之旨被召置請文可被成下&#13;
-　御判之由被　仰出矣&#13;
-
-            永享四年十二月二日　美作守秀藤 &#13;
-</ns1:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/028">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p35"/>
-    <ns1:title>28: 一　伊勢九郎左衛門尉盛行与木幡浄妙寺源豪</ns1:title>
-    <ns1:date>1431-06-12</ns1:date>
-    <ns1:description>（花押）&#13;
-一　伊勢九郎左衛門尉盛行与木幡浄妙寺源豪&#13;
-　　相論當寺執行職事&#13;
-　為基宗奉行如盛行訴申者去應永十五年&#13;
-　源豪先師源快依有御罪科之子細為本領&#13;
-　替父盛秀令拜領致知行之處同十九年相語&#13;
-　冨樫兵部大輔還補之条無謂之上者可被返下云々&#13;
-　如源豪陳状者當寺者為聖護院門跡御管領&#13;
-　在所至執行職者源豪譜代令相續之處盛秀&#13;
-　盛行父雖掠賜依申披應永十八年十月一日以&#13;
-　御書被返進門跡云々還補之年号盛行訴状之旨&#13;
-　令参差之上縦一旦雖被充行被返付門跡　御内書&#13;
-　分明之上者任當知行被閣之訖&#13;
-
-            永享三年六月十二日　加賀守為行（花押） &#13;
-　　　　　　　　　　中務丞基宗&#13;
-</ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/060">
-    <ns1:description>一　　近江國愛智下庄霊山寺与延壽寺就&#13;
-　　　山林境相論領主坐禅院珎全去年十二月六日&#13;
-　　　發向霊山寺事&#13;
-　就霊山寺衆徒等庭中申被尋坐禅院之處&#13;
-　更無發向之儀兩寺確執之間為籌策罷出云々&#13;
-　如霊山寺申者先日五為合力近憐國人山徒等&#13;
-　相催之由差申之間被召上与力族有御尋之處&#13;
-　坐禅院子知生坊實全為公方蒙仰可對治霊山寺旨 &#13;
-　書状分明也其外条々申詞令参差之上任右筆&#13;
-　方意見為彼過怠被収公坐禅院所帯近江國&#13;
-　愛智下庄訖&#13;
-
-            永享四年九月廿九日　右衛門尉為秀 &#13;
-　　　　　　　　　　　對馬守貞清&#13;
-</ns1:description>
-    <ns1:title>60: 一　　近江國愛智下庄霊山寺与延壽寺就</ns1:title>
-    <ns1:date>1432-09-29</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p74"/>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p37"/>
+    <ns1:date>1431-06-19</ns1:date>
     <ns1:subject>kiroku</ns1:subject>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/007">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>7: 一丹波國篠村八幡宮大工為國庭中申大工</ns1:title>
+    <ns1:date>1430-10-13</ns1:date>
     <ns1:description>（花押）&#13;
 一丹波國篠村八幡宮大工為國庭中申大工&#13;
 　職事三代相續之處今度以醍醐大工被&#13;
@@ -1411,33 +1620,13 @@
             永享二年十月十三日　　肥前守為種（花押） &#13;
 　　　　　　　　　　左衛門尉秀藤（花押）&#13;
 </ns1:description>
-    <ns1:title>7: 一丹波國篠村八幡宮大工為國庭中申大工</ns1:title>
-    <ns1:date>1430-10-13</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p11"/>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/013">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p18"/>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:description>（花押）&#13;
-一検非違使左衛門大尉員弘申左衛門府年&#13;
-　預職事&#13;
-坊城菅少納言益長押妨之由就訴申被差&#13;
-日限昨日十四中可出帯支状幷支證等之旨為 &#13;
-
-            秀藤貞連奉行被相觸之乍写取訴状令遁避之 &#13;
-上者可被成下御教書於員弘也焉&#13;
-
-            永享二年十一月十五日　大和守貞連（花押） &#13;
-</ns1:description>
-    <ns1:title>13: 一検非違使左衛門大尉員弘申左衛門府年</ns1:title>
-    <ns1:date>1430-11-15</ns1:date>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p11"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/059">
-    <ns1:date>1432-09-03</ns1:date>
     <ns1:title>59: 一　東南院雑掌申山城國飛鳥田事</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p73"/>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p73"/>
     <ns1:subject>kiroku</ns1:subject>
+    <ns1:date>1432-09-03</ns1:date>
     <ns1:description>一　東南院雑掌申山城國飛鳥田事&#13;
 為三輪宗領當院代々致奉行之處寶慈院&#13;
 号本役毎年五百疋宛令寺納知行之更無&#13;
@@ -1452,93 +1641,9 @@
             永享四年九月三日　大和守貞連 &#13;
 </ns1:description>
   </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/046">
-    <ns1:date>1431-12-05</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p56"/>
-    <ns1:description>（花押）&#13;
-一　山門大勸進申大講堂領近江國河上庄&#13;
-　　奉行職事&#13;
-如大勸進寶福寺申者根本奉行為廿五人之 &#13;
-處近年為十人尚以修造常供常燈以下&#13;
-無沙汰云々爰弁阿闍梨申請三口之加任&#13;
-者也如當奉行十人申者支配彼得分致其&#13;
-沙汰訖被加任者得分所役等可減少云々&#13;
-所詮被任先例之上者於寺役者何可令&#13;
-減少哉只稱申私得分歟然今被加任三口&#13;
-間十三分也以殘十二口可致講堂修造之旨&#13;
-被仰付大勸進如根本所被定置廿五分也&#13;
-次十三口之衆造營常供常燈以下不可有&#13;
-無沙汰之由被成御教書訖&#13;
-
-            永享三年十二月五日　肥前守為種（花押） &#13;
-　　　　　　　　　　大和守貞連（花押）&#13;
-　　　　　　　　　　加賀守為行（花押）&#13;
-</ns1:description>
-    <ns1:title>46: 一　山門大勸進申大講堂領近江國河上庄</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/040">
-    <ns1:date>1431-11-14</ns1:date>
-    <ns1:title>40: 一　真如寺正脉院雑掌与法輪院相論近江國</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p50"/>
-    <ns1:description>（花押）&#13;
-一　真如寺正脉院雑掌与法輪院相論近江國&#13;
-　　甲賀蒲生兩郡堺事&#13;
-　如法輪院申者山門領蒲生郡山上保當知行也仍&#13;
-　中下八田村者為當保内之間可致知行云々如正脉院&#13;
-　雑掌申者為甲賀郡岩根朝國内中下八田村&#13;
-　多年當知行之處自山上保令越境之由申之&#13;
-　所詮彼実否以湯起請為被糺決兩方地下人可&#13;
-　参洛之旨就成奉書於正脉院領百姓者則令上洛&#13;
-　訖至山上保地下人者背度々召文不可参決之由&#13;
-　雑掌状在之申切之間以違背篇雖可有御下知猶為被 &#13;
-　究渕底被尋問守護人之處彼中下八田村者為&#13;
-　甲賀郡内正脉院數年知行之旨注進分明之上者&#13;
-　不日退山上保競望可沙汰付論所於寺家雑掌&#13;
-　由被成御教書於守護人幷山門使節中訖&#13;
-
-            永享三年十一月十四日　　加賀守為行（花押） &#13;
-　　　　　　　　　　　右衛門尉為秀（花押）&#13;
-</ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/011">
-    <ns1:date>1430-11-12</ns1:date>
-    <ns1:description>一鷹司大納言家雑掌申加賀國益冨&#13;
-　保事&#13;
-就雑掌訴状被相觸防城菅少納言益長&#13;
-刻彼輩違　上意之上者不能取合以當&#13;
-保可被返進家門可為御内書也焉&#13;
-
-            永享二年十一月十二日　大和守貞連（花押） &#13;
-</ns1:description>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p16"/>
-    <ns1:title>11: 一鷹司大納言家雑掌申加賀國益冨</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/068">
-    <ns1:title>68: 一　　攝津國海光菴雑掌与宇野帯刀左衛</ns1:title>
-    <ns1:description>一　　攝津國海光菴雑掌与宇野帯刀左衛&#13;
-　　　門尉弘祐相論播磨國三木本郷内則久名事&#13;
-　如雑掌申者彼名本主播磨國御家人石野太郎&#13;
-　左衛門尉久名為譜代相傳地之間且成親子契約&#13;
-　且為菩提應安二年十月十三日令譲与僧希胤海光菴主&#13;
-　知行無相違之處永和四年十二月十二日赤松能登入道今号宇野&#13;
-　掠給　御判押領云々如弘祐支申者石野太郎左衛門尉&#13;
-　依参錦少路殿方為彼跡拜領云々然者可出帯證據之&#13;
-　由被仰出之處不明申之上於石野者帯正平六年御判&#13;
-　以来至文和度々赤松則祐等感状炳焉也仍被尋評定&#13;
-　衆意見之處海光菴所申有其謂之由言上之間被成&#13;
-　還補　御判於當菴訖&#13;
-
-            永享四年十二月十七日　右衛門尉為秀 &#13;
-　　　　　　　　　　　　加賀守基貞&#13;
-</ns1:description>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1432-12-17</ns1:date>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p81"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://example.org/kiroku/061">
+    <ns1:subject>kiroku</ns1:subject>
+    <ns1:title>61: 一　興福寺西金堂与東北院相論大和國</ns1:title>
     <ns1:date>1432-11-06</ns1:date>
     <ns1:description>一　興福寺西金堂与東北院相論大和國&#13;
 　　鳥見矢田事&#13;
@@ -1551,111 +1656,6 @@
             永享四年十一月六日　肥前守為種 &#13;
 　　　　　　　　　　加賀守為行&#13;
 </ns1:description>
-    <ns1:title>61: 一　興福寺西金堂与東北院相論大和國</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p75"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/034">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p43"/>
-    <ns1:description>（花押）&#13;
-一　花山院門跡雑掌申近江國榎木庄半済事&#13;
-　當庄者一圓為門跡舊領之處至半済佐々木山内&#13;
-　源三令押領云々其已後彼山内依有御罪科子細&#13;
-　就臨川寺御寄附于今半分門跡不知行也可&#13;
-　被返付之旨申之仍被召出臨川寺文書之處&#13;
-　為佐々木山内源三跡去嘉慶元年十二月五日御&#13;
-　寄進之条見于　御判畢雖然尚以被尋問&#13;
-　評定衆意見之處門跡舊領之段仁平以来證文&#13;
-　分明之上者於當所者被返付門跡至臨川寺者&#13;
-　可被寄替地歟之由令言上之任理運一圓被&#13;
-　付門跡之旨被成　御判畢矣&#13;
-
-            永享三年九月十二日　加賀守為行（花押） &#13;
-　　　　　　　　　　對馬守貞清（花押）&#13;
-</ns1:description>
-    <ns1:title>34: 一　花山院門跡雑掌申近江國榎木庄半済事</ns1:title>
-    <ns1:date>1431-09-12</ns1:date>
-    <ns1:subject>kiroku</ns1:subject>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/039">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p48"/>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>39: 一　海老名美濃守兼季与小野松夜叉丸幷河野</ns1:title>
-    <ns1:description>（花押）&#13;
-一　海老名美濃守兼季与小野松夜叉丸幷河野&#13;
-　　加賀入道性永相論近江國小野社神主職同國則永&#13;
-　　名事&#13;
-　兼季如訴申者於小野社神主職者小野六郎就時衆&#13;
-　殺害之罪科被闕所之去應永十五年被成御下文之&#13;
-　處彼等違背御成敗終不去渡下地云云松夜叉丸如支&#13;
-　申者海老名雖致無理之競望帯兩度安堵應永廿一年同廿九年&#13;
-　當知行云云雖然非還補之上不申披所犯旁以紕謬令&#13;
-　露顯之趣有沙汰被成下御下知於兼季畢八　十八　落居&#13;
-　次則永名事兼季如訴状者河野依為御賀兒當時帥&#13;
-　被官人被没収彼名雖令拜領御下文同前本主於國支置之 &#13;
-　剰掠給御判之由訟之性永如陳状者御賀家來之跡可&#13;
-　被収公所帯重科何事哉其上帯同廿二年安堵領知&#13;
-　無相違之由陳之所詮彼被官之輩可被召放所領之段&#13;
-　凡為不便歟雖然為其時之法申給訴人非無由緒就中&#13;
-　立帰遵行之地押領之条難遁其過之旨同被經御沙汰&#13;
-　被下　御判於兼季訖&#13;
-
-            永享三年十一月十三日　散　位　貞元（花押） &#13;
-　　　　　　　　　　　左衛門尉秀藤（花押）&#13;
-</ns1:description>
-    <ns1:date>1431-11-13</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/015">
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:title>15: 一　　石清水八幡宮神人右衛門四郎与同神人五郎左衛門尉宗貞</ns1:title>
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p19"/>
-    <ns1:description>（花押）&#13;
-一　　石清水八幡宮神人右衛門四郎与同神人五郎左衛門尉宗貞&#13;
-　　　相論越後國柏崎住民道秀入道遺跡事&#13;
-　去八月十五日　神幸之時彼右衛門四郎幷父祐見等奉&#13;
-　取付　神輿致嗷訴之條狼籍絶常篇罪科甚不輕&#13;
-　雖然若彼輩訴詔有其理者被免過怠為有論所於&#13;
-　御裁許今月八日夜於社務在京之宿坊召出彼代祐見浄随等 &#13;
-　及對決沙汰之處如祐見申者既年来右衛門四郎為道秀之&#13;
-　養子無貮之處以一往折檻状稱義絶之證文掠申　公方&#13;
-　令押領云々如浄随申者右衛門四郎雖為異姓他人道秀&#13;
-　収養之段勿論也但依有不儀之子細慥令義絶之由道秀之&#13;
-　自筆状二通明鏡也仍宗貞者道秀之甥也荷物資財等&#13;
-　宗貞可相計之旨同載彼状畢且宗貞可相傳之由道秀&#13;
-　申置之条無其隠且先度被經御沙汰被成下御教書云々&#13;
-　爰祐見重申之宗貞出帯證状不審多端云々然者加披見&#13;
-　可差申謀書廉之旨雖申含彼状披見事祐見再三辞&#13;
-　退訖尚以責伏之間雖披見彼状曽以不差申謀書廉将又&#13;
-　先立避与屋一宇幷苧拾駄可和平之旨以浄通入道令&#13;
-　籌策之趣祐見雖申之於浄随者更不存知仕之由申之&#13;
-　加之祐見申詞條々参差無理忽令顯然之次第社務&#13;
-　幷奉行人為種貞元秀藤等言上仕也此上者可被付宗貞之由 &#13;
-　被　仰下訖仍就望申可被成下安堵御教書於宗貞也矣&#13;
-
-            永享二年十二月十二日　左衛門尉秀藤（花押） &#13;
-　　　　　　　　　　　　散　位貞元（花押）&#13;
-　　　　　　　　　　　　肥前守為種（花押）&#13;
-</ns1:description>
-    <ns1:date>1430-12-12</ns1:date>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://example.org/kiroku/069">
-    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/kiroku.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p82"/>
-    <ns1:title>69: 一　建竪書記与得長蔵主相論近江國坂田郡大原</ns1:title>
-    <ns1:subject>kiroku</ns1:subject>
-    <ns1:date>1432-12-17</ns1:date>
-    <ns1:description>一　建竪書記与得長蔵主相論近江國坂田郡大原&#13;
-　　庄内長禅寺幷寺領等事&#13;
-　彼寺者建竪舎兄佐々木近江入道善源依有異子細&#13;
-　永代去渡之無他妨者也然間一期之後者令譲与得長&#13;
-　侍者之處存命之中稱我物成建仁寺西来院末寺&#13;
-　取本院擧状當身申給安堵　御判令追出伯父建竪&#13;
-　書記訖爰彼得長重望申安堵御判之處壇那大原&#13;
-　判官就此寺住持職有子細之由支申之間其時被召&#13;
-　出彼建竪申披之已前以得長所給　御判等下給建竪&#13;
-　重被成還補　御判畢&#13;
-
-            永享四年十二月十七日　右衛門尉為秀 &#13;
-　　　　　　　　　　　　美作守秀藤&#13;
-</ns1:description>
+    <ns1:relation rdf:resource="https://nakamura196.github.io/gozen/mirador?manifest=https://nakamura196.github.io/gozen/data/hosyo.json&amp;canvasID=https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21834/canvas/p75"/>
   </rdf:Description>
 </rdf:RDF>
