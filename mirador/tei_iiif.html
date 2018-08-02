@@ -24,6 +24,11 @@
     height: 600px;
     position: relative;
   }
+  #target {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+  }
   </style>
 
 </head>
@@ -50,7 +55,7 @@
     <div class="row">
       <div class="col-md-6 mb-5">
 
-        <div class="card" style="height:600px; overflow-y:scroll;">
+        <div class="card" style="height:600px; overflow-x:scroll;">
           <div class="card-body">
 
             <div id="target">
@@ -155,121 +160,121 @@
             selector.attr('title', title);
             selector.attr("class", "text-primary")
             selector.attr("data-toggle", "tooltip")
-            /*
-            if(person_dict["dbpedia_uri"]){
-            selector.attr('onClick', 'lod("'+person_dict["dbpedia_uri"]+'");');
+          })
+        }
+
+        body = body.html()
+        body = body.replace(/<lb/g, '<br')
+        //アンカー
+        $("#target").append('<span id="dest_pos"></span>')
+        $("#target").append(body)
+
+        $('[data-toggle="tooltip"]').tooltip()
+
+        //右に移動
+        location.href = "#dest_pos";
+        
+      }
+    });
+  });
+
+  function getParam(){
+    var vars = {};
+    var param = location.search.substring(1).split('&');
+    for(var i = 0; i < param.length; i++) {
+      var keySearch = param[i].search(/=/);
+      var key = '';
+      if(keySearch != -1) key = param[i].slice(0, keySearch);
+      var val = param[i].slice(param[i].indexOf('=', 0) + 1);
+      if(key != '') vars[key] = decodeURI(val);
+    }
+    return vars;
+  }
+
+  function initMirador(manifest){
+    miradorInstance = Mirador(
+      {
+        "id": "viewer",
+        "layout": "1x1",
+        "data": [
+          { "manifestUri": manifest, "location": ""}
+        ],
+        "windowSettings": {
+          "sidePanel": true,
+          "canvasControls": {
+            "annotations": {
+              "annotationState": "on",
+              "annotationCreation": false
+            }
           }
-          */
-        })
+        },
+        "windowObjects": [{
+          loadedManifest: manifest,
+          viewType: "ImageView",
+          bottomPanelVisible: false
+        }],
+        "annotationEndpoint": { "name":"Local Storage", "module": "LocalStorageEndpoint" }
+      }
+    );
+  }
+
+  function getZones(xml){
+    $(xml).find("surface").each(function() {
+      surface = $(this);
+      canvasID = surface.find("graphic").attr("n")
+      surface.find("zone").each(function(){
+        zone = $(this)
+
+        ratio = 3840 / 600
+
+        id = zone.attr("xml:id")
+        lry = Number(zone.attr("lry"))
+        lrx = Number(zone.attr("lrx"))
+        uly = Number(zone.attr("uly"))
+        ulx = Number(zone.attr("ulx"))
+
+        //IIIF Image APIで使用する情報に変換する
+        var tmp = {}
+        zones[id] = tmp
+        tmp.x = ulx * ratio
+        tmp.y = uly * ratio
+        tmp.dx = (lrx - ulx)  * ratio
+        tmp.dy = (lry - uly)  * ratio / 3 * 2
+        tmp.canvasID = canvasID
+
+      })
+    });
+  }
+
+  function getPeople(xml){
+    $(xml).find("person").each(function() {
+      var s = $(this);
+
+      var person_id = s.attr("xml:id")
+      var person_dict = {}
+      people_dict[person_id] = person_dict
+
+      var dbpedia_uri = $(s.find("persName")[0]).attr("ref")
+      if(dbpedia_uri != null){
+        person_dict["dbpedia_uri"] = dbpedia_uri
       }
 
-      body = body.html()
-      body = body.replace(/<lb/g, '<br')
-      $("#target").append(body)
+      person_dict.occupation = []
+      $(s.find("occupation")).each(function(){
+        var o = $(this);
+        person_dict.occupation.push(o.text())
+      })
 
-      $('[data-toggle="tooltip"]').tooltip()
+    })
 
-    }
-  });
-});
-
-function getParam(){
-  var vars = {};
-  var param = location.search.substring(1).split('&');
-  for(var i = 0; i < param.length; i++) {
-    var keySearch = param[i].search(/=/);
-    var key = '';
-    if(keySearch != -1) key = param[i].slice(0, keySearch);
-    var val = param[i].slice(param[i].indexOf('=', 0) + 1);
-    if(key != '') vars[key] = decodeURI(val);
   }
-  return vars;
-}
 
-function initMirador(manifest){
-  miradorInstance = Mirador(
-    {
-      "id": "viewer",
-      "layout": "1x1",
-      "data": [
-        { "manifestUri": manifest, "location": ""}
-      ],
-      "windowSettings": {
-        "sidePanel": true,
-        "canvasControls": {
-          "annotations": {
-            "annotationState": "on",
-            "annotationCreation": false
-          }
-        }
-      },
-      "windowObjects": [{
-        loadedManifest: manifest,
-        viewType: "ImageView",
-        bottomPanelVisible: false
-      }],
-      "annotationEndpoint": { "name":"Local Storage", "module": "LocalStorageEndpoint" }
-    }
-  );
-}
-
-function getZones(xml){
-  $(xml).find("surface").each(function() {
-    surface = $(this);
-    canvasID = surface.find("graphic").attr("n")
-    surface.find("zone").each(function(){
-      zone = $(this)
-
-      ratio = 3840 / 600
-
-      id = zone.attr("xml:id")
-      lry = Number(zone.attr("lry"))
-      lrx = Number(zone.attr("lrx"))
-      uly = Number(zone.attr("uly"))
-      ulx = Number(zone.attr("ulx"))
-
-      //IIIF Image APIで使用する情報に変換する
-      var tmp = {}
-      zones[id] = tmp
-      tmp.x = ulx * ratio
-      tmp.y = uly * ratio
-      tmp.dx = (lrx - ulx)  * ratio
-      tmp.dy = (lry - uly)  * ratio / 3 * 2
-      tmp.canvasID = canvasID
-
-    })
-  });
-}
-
-function getPeople(xml){
-  $(xml).find("person").each(function() {
-    var s = $(this);
-
-    var person_id = s.attr("xml:id")
-    var person_dict = {}
-    people_dict[person_id] = person_dict
-
-    var dbpedia_uri = $(s.find("persName")[0]).attr("ref")
-    if(dbpedia_uri != null){
-      person_dict["dbpedia_uri"] = dbpedia_uri
-    }
-
-    person_dict.occupation = []
-    $(s.find("occupation")).each(function(){
-      var o = $(this);
-      person_dict.occupation.push(o.text())
-    })
-
-  })
-
-}
-
-//canvasIDと領域を指定して移動
-function move(id){
-  var zone = zones[id]
-  miradorInstance.eventEmitter.publish('SET_CURRENT_CANVAS_ID', zone.canvasID);
-  miradorInstance.eventEmitter.publish('fitBounds', {'x': zone.x, 'y': zone.y,'width': zone.dx, 'height': zone.dy});
-}
+  //canvasIDと領域を指定して移動
+  function move(id){
+    var zone = zones[id]
+    miradorInstance.eventEmitter.publish('SET_CURRENT_CANVAS_ID', zone.canvasID);
+    miradorInstance.eventEmitter.publish('fitBounds', {'x': zone.x, 'y': zone.y,'width': zone.dx, 'height': zone.dy});
+  }
 
 </script>
 </body>
