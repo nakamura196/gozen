@@ -1,5 +1,11 @@
 {
     "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/law/document/4791f609-8567-48cd-96a2-9eb8157aac11",
+    "service": {
+        "@context": "http://iiif.io/api/search/0/context.json",
+        "@id": "https://w3id.org/dhj/i3sa/https://archdataset.dl.itc.u-tokyo.ac.jp/collections/law/text/xml/4791f609-8567-48cd-96a2-9eb8157aac11.xml",
+        "profile": "http://iiif.io/api/search/0/search",
+        "label": "Search within this manifest"
+      },
     "structures": [
         {
             "canvases": [

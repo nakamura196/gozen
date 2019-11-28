@@ -3,6 +3,12 @@
     "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/square/21834/KO2-523-2_001.jpg",
     "@type": "sc:Manifest",
     "viewingDirection": "right-to-left",
+    "service": {
+        "@context": "http://iiif.io/api/search/0/context.json",
+        "@id": "https://w3id.org/dhj/i3sa/https://archdataset.dl.itc.u-tokyo.ac.jp/collections/law/text/xml/d507a810-cff7-4168-bc10-70a32a55920f.xml",
+        "profile": "http://iiif.io/api/search/0/search",
+        "label": "Search within this manifest"
+      },
     "sequences": [
         {
             "viewingHint": "non-paged",
